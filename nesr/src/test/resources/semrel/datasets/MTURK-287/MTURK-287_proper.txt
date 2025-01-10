@@ -1,0 +1,10 @@
+Benito_Mussolini;Italy
+Brussels;Sweden
+Poland;Russia
+Homer;Odyssey
+Wolfgang_Amadeus_Mozart;Richard_Wagner
+Homer_Simpson;Springfield_(The_Simpsons)
+Berlin;Germany
+Ecuador;Argentina
+United_Kingdom;France
+Socialism;Capitalism

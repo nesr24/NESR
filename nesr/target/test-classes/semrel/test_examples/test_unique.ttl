@@ -1,0 +1,20 @@
+<http://test_unique/ra> <http://test_unique/p2> <http://test_unique/rb>
+<http://test_unique/ra> <rdf:type> <http://test_unique/r2>
+<http://test_unique/ra> <http://test_unique/p1> <http://test_unique/r3>
+<http://test_unique/ra> <http://test_unique/p2> <http://test_unique/r10>
+<http://test_unique/rb> <http://test_unique/p3> <http://test_unique/ra>
+<http://test_unique/rb> <rdf:type> <http://test_unique/r1>
+<http://test_unique/rb> <http://test_unique/p1> <http://test_unique/r3>
+<http://test_unique/rb> <http://test_unique/p3> <http://test_unique/r4>
+<http://test_unique/r3> <http://test_unique/p1> <http://test_unique/r8> .
+<http://test_unique/r4> <http://test_unique/p2> <http://test_unique/ra> .
+<http://test_unique/r4> <http://test_unique/p2> <http://test_unique/rb> .
+<http://test_unique/r4> <http://test_unique/p2> <http://test_unique/r7> .
+<http://test_unique/r5> <http://test_unique/p1> <http://test_unique/r3> .
+<http://test_unique/r6> <http://test_unique/p1> <http://test_unique/r3> .
+<http://test_unique/r7> <http://test_unique/p2> <http://test_unique/rb> .
+<http://test_unique/r7> <http://test_unique/p1> <http://test_unique/r1> .
+<http://test_unique/r8> <http://test_unique/p3> <http://test_unique/rb> .
+<http://test_unique/r9> <http://test_unique/p1> <http://test_unique/ra> .
+<http://test_unique/r9> <http://test_unique/p3> <http://test_unique/ra> .
+<http://test_unique/r10> <http://test_unique/p3> <http://test_unique/r5> .

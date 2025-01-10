@@ -1,0 +1,12 @@
+Holiday_Inn;Valentine's_Day
+Blockbuster_LLC;Nike,_Inc.
+Google;GMail
+PC_World;United_Airlines
+Britney_Spears;Paris_Hilton
+NASA;Super_Bowl
+BBC;Jennifer_Lopez
+Cheating_in_video_games;Yahoo!_Games
+Windows_Live_Messenger;United_Parcel_Service
+Microsoft;Internet_Explorer
+Delta_Air_Lines;Walmart
+Firefox;Microsoft_Edge

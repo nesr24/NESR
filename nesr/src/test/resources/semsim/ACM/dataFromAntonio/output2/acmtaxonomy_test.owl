@@ -1,0 +1,53 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+    <owl:Class rdf:about="http://acm_test/live_being">
+    <rdfs:label>live_being</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/animal">
+    <rdfs:subClassOf rdf:resource="http://acm_test/live_being"/>
+    <rdfs:label>animal</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/plant">
+    <rdfs:subClassOf rdf:resource="http://acm_test/live_being"/>
+    <rdfs:label>plant</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/mammal">
+    <rdfs:subClassOf rdf:resource="http://acm_test/animal"/>
+    <rdfs:label>mammal</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/bird">
+    <rdfs:subClassOf rdf:resource="http://acm_test/animal"/>
+    <rdfs:label>bird</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/snake">
+    <rdfs:subClassOf rdf:resource="http://acm_test/animal"/>
+    <rdfs:label>mammsnakeal</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/citric">
+    <rdfs:subClassOf rdf:resource="http://acm_test/plant"/>
+    <rdfs:label>citric</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/pine">
+    <rdfs:subClassOf rdf:resource="http://acm_test/plant"/>
+    <rdfs:label>pine</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/dog">
+    <rdfs:subClassOf rdf:resource="http://acm_test/mammal"/>
+    <rdfs:label>dog</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/cat">
+    <rdfs:subClassOf rdf:resource="http://acm_test/mammal"/>
+    <rdfs:label>cat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/orange">
+    <rdfs:subClassOf rdf:resource="http://acm_test/citric"/>
+    <rdfs:label>orange</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://acm_test/lemon">
+    <rdfs:subClassOf rdf:resource="http://acm_test/citric"/>
+    <rdfs:label>lemon</rdfs:label>
+  </owl:Class>
+</rdf:RDF>

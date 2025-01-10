@@ -1,0 +1,1339 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.cnr-axed.org#"
+     xml:base="http://www.cnr-axed.org"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://www.cnr-axed.org"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.cnr-axed.org#ordering -->
+
+    <owl:AnnotationProperty rdf:about="http://www.cnr-axed.org#ordering"/>
+    
+
+
+    <!-- http://www.cnr-axed.org#range -->
+
+    <owl:AnnotationProperty rdf:about="http://www.cnr-axed.org#range"/>
+    
+
+
+    <!-- http://www.cnr-axed.org#uom -->
+
+    <owl:AnnotationProperty rdf:about="http://www.cnr-axed.org#uom"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.cnr-axed.org#Accessorio -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Accessorio"/>
+    
+
+
+    <!-- http://www.cnr-axed.org#Accessorio_Comfort -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Accessorio_Comfort">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Accessorio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Accessorio_Design -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Accessorio_Design">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Accessorio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Accessorio_Infotainment -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Accessorio_Infotainment">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Accessorio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Accessorio_Performance -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Accessorio_Performance">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Accessorio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Accessorio_ProtezioneVeicolo -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Accessorio_ProtezioneVeicolo">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Accessorio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Accessorio_Ruote -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Accessorio_Ruote">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Accessorio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Accessorio_Sicurezza -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Accessorio_Sicurezza">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Accessorio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Accessorio_Trasporto -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Accessorio_Trasporto">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Accessorio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Alimentazione -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Alimentazione">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Motorizzazione"/>
+        <rdfs:comment xml:lang="it">Tipi di carburante  utilizzato dal veicolo</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Alimentazione_Benzina -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Alimentazione_Benzina">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Alimentazione_NonRinnovabile"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Alimentazione_Diesel -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Alimentazione_Diesel">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Alimentazione_NonRinnovabile"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Alimentazione_Elettrica -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Alimentazione_Elettrica">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Alimentazione_Rinnovabile"/>
+        <rdfs:comment xml:lang="it">Presenza del solo motore elettrico</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Alimentazione_GPL -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Alimentazione_GPL">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Alimentazione_Rinnovabile"/>
+        <rdfs:comment xml:lang="it">Veicolo con motore termico alimentato da Gas di Petrolio Liquefatti (principalmente Propano e Butano)</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Alimentazione_Ibrida -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Alimentazione_Ibrida">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Alimentazione_Rinnovabile"/>
+        <rdfs:comment xml:lang="it">Presenza di un motore termico e di uno elettrico</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Alimentazione_NonRinnovabile -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Alimentazione_NonRinnovabile">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Alimentazione"/>
+        <rdfs:comment xml:lang="it">Alimentazioni ad HIGH impatto ambientale</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Alimentazione_Rinnovabile -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Alimentazione_Rinnovabile">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Alimentazione"/>
+        <rdfs:comment xml:lang="it">Alimentazioni a basso impatto ambientale</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Alimnentazione_Idrogeno -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Alimnentazione_Idrogeno">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Alimentazione_Rinnovabile"/>
+        <rdfs:comment xml:lang="it">In questi modelli, il motore è elettrico, ma la produzione di energia elettrica è realizzata da un apparato in grado di generare energia elettrica a tramite una reazione chimica che utilizza come “carburante” l’idrogeno.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Allestimento -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Allestimento">
+        <rdfs:comment xml:lang="it">Insieme di specificità ricorrenti che si possono ritrovare in diversi segmenti, possono essere riferite alla carrozeria, interno auto, tipo di tecnologia ecc.
+
+Nel caso del Marchio Ford in questo momento sono disponibili : Plus, Titanium, ST-line, Vignale</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Arancio -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Arancio">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>10</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Beige -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Beige">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>9</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Bianco -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Bianco">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>7</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Blu -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Blu">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Carrozzeria -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Carrozzeria">
+        <rdfs:comment xml:lang="it">Caratteristiche che riguardano tutte le altre caratteristiche del veicolo non specifiche del motore</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Celeste -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Celeste">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>4</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Cilindrata -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Cilindrata">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Motorizzazione"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Cilindrata_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Cilindrata_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Cilindrata"/>
+        <ordering>1</ordering>
+        <range>from: 1501
+to: over</range>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Cilindrata_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Cilindrata_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Cilindrata"/>
+        <ordering>3</ordering>
+        <range>from: 0
+to: 1200</range>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Cilindrata_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Cilindrata_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Cilindrata"/>
+        <ordering>2</ordering>
+        <range>from: 1201
+to: 1500</range>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CityCar -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CityCar">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#SegmentoMedioPiccolo"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Colore -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Colore">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Carrozzeria"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Commerciale -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Commerciale">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#FunzioneUso"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Commerciale_MediaKmAnno_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Commerciale_MediaKmAnno_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Commerciale"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Commerciale_MediaKmAnno_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Commerciale_MediaKmAnno_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Commerciale"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Commerciale_MediaKmAnno_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Commerciale_MediaKmAnno_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Commerciale"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoAcquisto -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoAcquisto">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#ValoreEconomico_Dealer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoAcquisto_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoAcquisto_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CostoAcquisto"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoAcquisto_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoAcquisto_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CostoAcquisto"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoAcquisto_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoAcquisto_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CostoAcquisto"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoConsumoPerKm -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoConsumoPerKm">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Motorizzazione"/>
+        <rdfs:comment xml:lang="it">Tale costo comprende sia il consumo di carburante medio per KM sia il costo di manutenzione medio per KM (speso per manutenzione/km percorsi)</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoConsumoPerKm_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoConsumoPerKm_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CostoConsumoPerKm"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoConsumoPerKm_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoConsumoPerKm_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CostoConsumoPerKm"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoConsumoPerKm_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoConsumoPerKm_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CostoConsumoPerKm"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoRataFinanziamento -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoRataFinanziamento">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#ValoreEconomico_Cliente"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoRataFinanziamento_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoRataFinanziamento_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CostoRataFinanziamento"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoRataFinanziamento_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoRataFinanziamento_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CostoRataFinanziamento"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CostoRataFinanziamento_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CostoRataFinanziamento_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CostoRataFinanziamento"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#CrossOver -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#CrossOver">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#SegmentoMedioGrande"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#DaOrdinare -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#DaOrdinare">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Nuovo"/>
+        <rdfs:label xml:lang="it">Veicoli richiesti dai clienti che non sono disponibili ne in stock ne in ordine e vanno quindi ordinate</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Demo -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Demo">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Nuovo"/>
+        <rdfs:comment xml:lang="it">Veicoli in stock che il concessionario immatricola a se stesso</rdfs:comment>
+        <rdfs:label xml:lang="it">Km0</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Demo_Anzianità_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Demo_Anzianità_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Demo"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Demo_Anzianità_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Demo_Anzianità_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Demo"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Demo_Anzianità_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Demo_Anzianità_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Demo"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#EcoTassa -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#EcoTassa">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#ValoreEconomico_Dealer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#EcoTassa_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#EcoTassa_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#EcoTassa"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#EcoTassa_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#EcoTassa_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#EcoTassa"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#EcoTassa_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#EcoTassa_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#EcoTassa"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Ecosport -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Ecosport">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CrossOver"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Edge -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Edge">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Modello"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Familiare -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Familiare">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#SegmentoMedioGrande"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Fiesta -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Fiesta">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Modello"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#FiestaActive -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#FiestaActive">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CrossOver"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Focus -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Focus">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#SUV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#FordGT -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#FordGT">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Performance"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#FunzioneUso -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#FunzioneUso"/>
+    
+
+
+    <!-- http://www.cnr-axed.org#Galaxy -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Galaxy">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Familiare"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Giallo -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Giallo">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>6</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Grigio -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Grigio">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>8</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#InStock -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#InStock">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Nuovo"/>
+        <rdfs:comment xml:lang="it">Insieme dei veicoli acquistati arrivati fisicamente in concessionaria
+
+Giorni di permanenza di un veicolo in Stock</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#InStock_Giacenza_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#InStock_Giacenza_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#InStock"/>
+        <ordering>1</ordering>
+        <range>from:180
+to:Over</range>
+        <uom>giorni</uom>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#InStock_Giacenza_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#InStock_Giacenza_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#InStock"/>
+        <ordering>3</ordering>
+        <range>from: 0
+to: 89</range>
+        <uom>giorni</uom>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#InStock_Giacenza_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#InStock_Giacenza_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#InStock"/>
+        <ordering>2</ordering>
+        <range>from: 90
+to: 179</range>
+        <uom>giorni</uom>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#IncentivoCasa -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#IncentivoCasa">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#ValoreEconomico_Dealer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Interesse -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Interesse">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#ValoreEconomico_Dealer"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Interesse_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Interesse_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Interesse"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Interesse_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Interesse_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Interesse"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Interesse_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Interesse_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Interesse"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Ka -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Ka">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CityCar"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Kuga -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Kuga">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#SUV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#MagneticGrey -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#MagneticGrey">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Grigio"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Marrone -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Marrone">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>12</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Modello -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Modello"/>
+    
+
+
+    <!-- http://www.cnr-axed.org#Mondeo -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Mondeo">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Familiare"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Motorizzazione -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Motorizzazione">
+        <rdfs:comment xml:lang="it">Caratteristiche che riguardano in maniera specifica il motore di un veicolo</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Mustang -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Mustang">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Modello"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#MustangMach-E -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#MustangMach-E">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Mustang"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Nero -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Nero">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NumeroCavalli -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NumeroCavalli">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Motorizzazione"/>
+        <rdfs:comment xml:lang="it">Unità di misura che indica la potenza del motore</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NumeroCavalli_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NumeroCavalli_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#NumeroCavalli"/>
+        <ordering>1</ordering>
+        <range>from: 140
+to: over</range>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NumeroCavalli_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NumeroCavalli_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#NumeroCavalli"/>
+        <ordering>3</ordering>
+        <range>from: 0
+to: 99</range>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NumeroCavalli_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NumeroCavalli_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#NumeroCavalli"/>
+        <ordering>2</ordering>
+        <range>from: 100
+to: 139</range>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NumeroPorte -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NumeroPorte">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Carrozzeria"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NuovaEdge -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NuovaEdge">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Edge"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NuovaFiesta -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NuovaFiesta">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CityCar"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NuovaFocus -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NuovaFocus">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Modello"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NuovaKuga -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NuovaKuga">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#SUV"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NuovaMondeo -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NuovaMondeo">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Familiare"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NuovaMustang -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NuovaMustang">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Performance"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NuovaPuma -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NuovaPuma">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CrossOver"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NuovaS-Max -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NuovaS-Max">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Familiare"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Nuovo -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Nuovo">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Stato"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#NuovoTourneoCourier -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#NuovoTourneoCourier">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Modello"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Ordinato -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Ordinato">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Nuovo"/>
+        <rdfs:comment xml:lang="it">Veicoli ordinati dal dealer non ancora arrivati
+
+Data previsto arrivo di un veicolo ordinate</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Ordinato_DataArrivo_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Ordinato_DataArrivo_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Ordinato"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Ordinato_DataArrivo_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Ordinato_DataArrivo_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Ordinato"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Ordinato_DataArrivo_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Ordinato_DataArrivo_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Ordinato"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Performance -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Performance">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Segmento"/>
+        <ordering>4</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Plus -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Plus">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Allestimento"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Porte_3 -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Porte_3">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#NumeroPorte"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Porte_5 -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Porte_5">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#NumeroPorte"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#PrezzoListino -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#PrezzoListino">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#ValoreEconomico_Cliente"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#PrezzoListino_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#PrezzoListino_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#PrezzoListino"/>
+        <ordering>1</ordering>
+        <range>from: 20000
+to: over</range>
+        <uom>euro</uom>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#PrezzoListino_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#PrezzoListino_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#PrezzoListino"/>
+        <ordering>3</ordering>
+        <range>from: 0
+to: 11900</range>
+        <uom>euro</uom>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#PrezzoListino_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#PrezzoListino_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#PrezzoListino"/>
+        <ordering>2</ordering>
+        <range>from: 12000
+to: 19900</range>
+        <uom>euro</uom>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Privato -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Privato">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#FunzioneUso"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Privato_MedioKmAnno_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Privato_MedioKmAnno_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Privato"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Privato_MedioKmAnno_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Privato_MedioKmAnno_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Privato"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Privato_MedioKmAnno_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Privato_MedioKmAnno_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Privato"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Puma -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Puma">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#CrossOver"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Rosso -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Rosso">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>11</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#S-Max -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#S-Max">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Modello"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#ST-Line -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#ST-Line">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Allestimento"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#SUV -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#SUV">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#SegmentoMedioGrande"/>
+        <ordering>5</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Sconto -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Sconto">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#ValoreEconomico_Cliente"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Sconto_HIGH -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Sconto_HIGH">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Sconto"/>
+        <ordering>1</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Sconto_LOW -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Sconto_LOW">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Sconto"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Sconto_MEDIUM -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Sconto_MEDIUM">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Sconto"/>
+        <ordering>2</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Segmento -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Segmento">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Carrozzeria"/>
+        <rdfs:comment xml:lang="it">I segmenti di automobili in Europa comprendono un sistema di classificazione delle automobili, che viene determinato raggruppando prevalentemente le automobili per tipologia di carrozzeria o per dimensione. 
+
+La classificazione per segmenti secondo la Commissione europea segue quelle già presenti in alcuni Paesi europei come l&apos;Italia; è da notare come una definizione esatta non sia mai stata approvata dalla commissione stessa e che quindi i segmenti di mercato non sono mai stati definiti in modo preciso; in ogni modo è ancora usata informalmente una classificazione che risale agli anni &apos;90</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#SegmentoMedioGrande -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#SegmentoMedioGrande">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Segmento"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#SegmentoMedioPiccolo -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#SegmentoMedioPiccolo">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Segmento"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Stato -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Stato">
+        <rdfs:comment xml:lang="it">Identifica le informazioni relative alla localizzazione, tipo di stock/database, ed al tempo in cui il veicolo si trova in tale stato </rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Titanium -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Titanium">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Allestimento"/>
+        <ordering>3</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#TourneoConnect -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#TourneoConnect">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Modello"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Usato -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Usato">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Stato"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Usato_DataImmatricolazione -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Usato_DataImmatricolazione">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Usato"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Usato_DataImmatricolazione_Inferiore2Anni -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Usato_DataImmatricolazione_Inferiore2Anni">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Usato_DataImmatricolazione"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Usato_DataImmatricolazione_Superiore2Anni -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Usato_DataImmatricolazione_Superiore2Anni">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Usato_DataImmatricolazione"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Usato_KmPercorsi -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Usato_KmPercorsi">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Usato"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Usato_KmPercorsi_Inferiore50mila -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Usato_KmPercorsi_Inferiore50mila">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Usato_KmPercorsi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Usato_KmPercorsi_Superiore50mila -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Usato_KmPercorsi_Superiore50mila">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Usato_KmPercorsi"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#ValoreEconomico -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#ValoreEconomico"/>
+    
+
+
+    <!-- http://www.cnr-axed.org#ValoreEconomico_Cliente -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#ValoreEconomico_Cliente">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#ValoreEconomico"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#ValoreEconomico_Dealer -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#ValoreEconomico_Dealer">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#ValoreEconomico"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Verde -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Verde">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>5</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Vernice -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Vernice">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Accessorio_Design"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Vignale -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Vignale">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Allestimento"/>
+        <ordering>4</ordering>
+    </owl:Class>
+    
+
+
+    <!-- http://www.cnr-axed.org#Viola -->
+
+    <owl:Class rdf:about="http://www.cnr-axed.org#Viola">
+        <rdfs:subClassOf rdf:resource="http://www.cnr-axed.org#Colore"/>
+        <ordering>2</ordering>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

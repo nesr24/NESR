@@ -1,0 +1,901 @@
+0    %   Generating sound workflow views for correct provenance analysis.
+1    %   A survey of B-tree locking techniques.
+2    %   B-tree concurrency control and recovery in page-server database systems.
+3    %   A Declarative Framework for Linking Entities.
+4    %   Maintaining stream statistics over multiscale sliding windows.
+5    %   On static and dynamic methods for condensation-based privacy-preserving data mining.
+6    %   A Scalable Lock Manager for Multicores.
+7    %   k-Nearest Neighbor Search.
+8    %   A cost model for query processing in high dimensional data spaces.
+9    %   A new approach to developing and implementing eager database replication protocols.
+10    %   Serializable isolation for snapshot databases.
+11    %   Consistent thinning of large geographical data for map visualization.
+12    %   Searching in metric spaces with user-defined and approximate distances.
+13    %   Revisiting answering tree pattern queries using views.
+14    %   Algorithms and metrics for processing multiple heterogeneous continuous queries.
+15    %   Capturing summarizability with integrity constraints in OLAP.
+16    %   Finding Robust Itemsets under Subsampling.
+17    %   Reducing Layered Database Applications to their Essence through Vertical Integration.
+18    %   Incremental maintenance of shortest distance and transitive closure in first-order logic and SQL.
+19    %   Cardinal directions between complex regions.
+20    %   Physical design refinement: The 'merge-reduce' approach.
+21    %   Editorial: Updates to the Editorial Board.
+22    %   Graph indexing based on discriminative frequent structure analysis.
+23    %   Foreword to Invited Articles Issue.
+24    %   UniAD: A Unified Ad Hoc Data Processing System.
+25    %   The Exact Complexity of the First-Order Logic Definability Problem.
+26    %   Modeling and managing changes in text databases.
+27    %   Moving spatial keyword queries: Formulation, methods, and analysis.
+28    %   Privacy-Preserving Ad-Hoc Equi-Join on Outsourced Data.
+29    %   Flexible support for multiple access control policies.
+30    %   Workload-aware anonymization techniques for large-scale datasets.
+31    %   Small synopses for group-by query verification on outsourced data streams.
+32    %   Partial Evaluation for Distributed XPath Query Processing and Beyond.
+33    %   Deletion without rebalancing in multiway search trees.
+34    %   Optimization of query streams using semantic prefetching.
+35    %   A Theory of Pricing Private Data.
+36    %   Proximity measures for rank join.
+37    %   Information Gathering in the World-Wide Web: The W3QL Query Language and the W3QS System.
+38    %   Efficient reasoning about a robust XML key fragment.
+39    %   Temporal statement modifiers.
+40    %   Information preserving XML schema embedding.
+41    %   Flexible and extensible preference evaluation in database systems.
+42    %   Feature-based similarity search in graph structures.
+43    %   Editorial.
+44    %   Iterative spatial join.
+45    %   k queries over web-accessible databases.
+46    %   Adaptive pull-based policies for wide area data delivery.
+47    %   Commutativity analysis for XML updates.
+48    %   Metric space similarity joins.
+49    %   On computing temporal aggregates with range predicates.
+50    %   Quasi-inverses of schema mappings.
+51    %   Conceptual Schema Analysis: Techniques and Applications.
+52    %   Strategies for query unnesting in XML databases.
+53    %   Smart Meter Data Analytics: Systems, Algorithms, and Benchmarking.
+54    %   Optimal Location Queries in Road Networks.
+55    %   Approximation Algorithms for Schema-Mapping Discovery from Data Examples.
+56    %   Database Design with Common Sense Business Reasoning and Learning.
+57    %   Anonymization-based attacks in privacy-preserving data publishing.
+58    %   An algebraic approach to static analysis of active database rules.
+59    %   NaLIX: A generic natural language search environment for XML data.
+60    %   Optimizing Batch Linear Queries under Exact and Approximate Differential Privacy.
+61    %   Processing Top-k Dominating Queries in Metric Spaces.
+62    %   Index-driven similarity search in metric spaces.
+63    %   Probabilistic information retrieval approach for ranking of database query results.
+64    %   Query optimization in distributed networks of autonomous database systems.
+65    %   Estimating the selectivity of approximate string queries.
+66    %   Preference formulas in relational queries.
+67    %   Automatic virtual machine configuration for database workloads.
+68    %   Applying an update method to a set of receivers.
+69    %   ENFrame: A Framework for Processing Probabilistic Data.
+70    %   Semantics and complexity of SPARQL.
+71    %   Optimizing top-k queries for middleware access: A unified cost-based approach.
+72    %   Entangled queries: Enabling declarative data-driven coordination.
+73    %   Approximation and streaming algorithms for histogram construction problems.
+74    %   Snapshot isolation and integrity constraints in replicated databases.
+75    %   From XQuery to relational logics.
+76    %   Consistent Query Answering for Self-Join-Free Conjunctive Queries Under Primary Key Constraints.
+77    %   Probabilistic temporal databases, I: algebra.
+78    %   Strong functional dependencies and their application to normal forms in XML.
+79    %   Mining constraint violations.
+80    %   Boosting the Quality of Approximate String Matching by Synonyms.
+81    %   Composing schema mappings: Second-order dependencies to the rescue.
+82    %   Processing XML streams with deterministic automata and stream indexes.
+83    %   An information-theoretic analysis of worst-case redundancy in database design.
+84    %   An extension of the relational data model to incorporate ordered domains.
+85    %   Query-preserving watermarking of relational databases and Xml documents.
+86    %   Designing fast architecture-sensitive tree search on modern multicore/many-core processors.
+87    %   Online subspace skyline query processing using the compressed skycube.
+88    %   Validating XML documents in the streaming model with external memory.
+89    %   A case for dynamic view management.
+90    %   TinyDB: an acquisitional query processing system for sensor networks.
+91    %   Top-k and Clustering with Noisy Comparisons.
+92    %   Foreword.
+93    %   Incremental validation of XML documents.
+94    %   Searching for dependencies at multiple abstraction levels.
+95    %   Integrating XML data sources using approximate joins.
+96    %   Object Normal Forms and Dependency Constraints for Object-Oriented Schemata.
+97    %   Synchronization of Queries and Views Upon Schema Evolutions: A Survey.
+98    %   Relational languages and data models for continuous queries on sequences and data streams.
+99    %   Continuous online index tuning in moving object databases.
+100    %   Security of Random Data Perturbation Methods.
+101    %   Uncertain Graph Processing through Representative Instances.
+102    %   k elements in data streams.
+103    %   Probabilistic object bases.
+104    %   A graph-theoretic approach to map conceptual designs to XML schemas.
+105    %   Guarded-Based Disjunctive Tuple-Generating Dependencies.
+106    %   Consensus on transaction commit.
+107    %   Comments on "an integrated efficient solution for computing frequent and top-k elements in data streams".
+108    %   I/O efficient algorithms for serial and parallel suffix tree construction.
+109    %   On Provenance Minimization.
+110    %   Relative information completeness.
+111    %   Querying ATSQL databases with temporal logic.
+112    %   ODE: Ontology-assisted data extraction.
+113    %   Collaborative personalized top-k processing.
+114    %   Progressive skyline computation in database systems.
+115    %   Plan Bouquets: A Fragrant Approach to Robust Query Processing.
+116    %   The Goal Behind the Action: Toward Goal-Aware Systems and Applications.
+117    %   Faster Random Walks by Rewiring Online Social Networks On-the-Fly.
+118    %   Maximizing Range Sum in External Memory.
+119    %   A relational approach to functional decomposition of logic circuits.
+120    %   Strong simulation: Capturing topology in graph pattern matching.
+121    %   Exporting and interactively querying Web service-accessed sources: The CLIDE System.
+122    %   Spatial queries in dynamic environments.
+123    %   Mergeable summaries.
+124    %   Accelerating XPath evaluation in any RDBMS.
+125    %   XLynx - An FPGA-based XML filter for hybrid XQuery processing.
+126    %   SCALLA: A Platform for Scalable One-Pass Analytics Using MapReduce.
+127    %   Foster b-trees.
+128    %   GlOSS: Text-Source Discovery over the Internet.
+129    %   Sequencing XML data and query twigs for fast pattern matching.
+130    %   Cost-Effective Conceptual Design for Information Extraction.
+131    %   Personalizing queries based on networks of composite preferences.
+132    %   Detecting outlying properties of exceptional objects.
+133    %   What's hot and what's not: tracking most frequent items dynamically.
+134    %   Conditional XPath.
+135    %   Relational languages for metadata integration.
+136    %   Towards a theory of search queries.
+137    %   Technical Correspondence: "Differential Dependencies: Reasoning and Discovery" Revisited.
+138    %   Efficient Processing of Skyline-Join Queries over Multiple Data Sources.
+139    %   Revisiting "forward node-selecting queries over trees".
+140    %   An Access Control Model Supporting Periodicity Constraints and Temporal Reasoning.
+141    %   Observing SQL queries in their natural habitat.
+142    %   Scalable Atomic Visibility with RAMP Transactions.
+143    %   Distance Browsing in Spatial Databases.
+144    %   Advanced SQL modeling in RDBMS.
+145    %   Forward node-selecting queries over trees.
+146    %   Hierarchical synopses with optimal error guarantees.
+147    %   Automatic complex schema matching across Web query interfaces: A correlation mining approach.
+148    %   Efficient and accurate nearest neighbor and closest pair search in high-dimensional space.
+149    %   Indexing the past, present, and anticipated future positions of moving objects.
+150    %   Analysis of predictive spatio-temporal queries.
+151    %   Maximizing Conjunctive Views in Deletion Propagation.
+152    %   An Adaptive Data Replication Algorithm.
+153    %   A normal form for XML documents.
+154    %   Characterizing schema mappings via data examples.
+155    %   pq-gram distance between ordered labeled trees.
+156    %   An Ontological Analysis of the Relationship Construct in Conceptual Modeling.
+157    %   A compressed accessibility map for XML.
+158    %   Triggers over nested views of relational data.
+159    %   Efficient estimation of joint queries from multiple OLAP databases.
+160    %   Indexing for summary queries: Theory and practice.
+161    %   Improving XML search by generating and utilizing informative result snippets.
+162    %   SQL query optimization through nested relational algebra.
+163    %   Efficient Computation of the Tree Edit Distance.
+164    %   Query-sensitive embeddings.
+165    %   Query Rewriting and Optimization for Ontological Databases.
+166    %   Introduction to the PODS 2007 special section.
+167    %   Topological relationships between complex spatial objects.
+168    %   Multiversion-based view maintenance over distributed data sources.
+169    %   Reverse skyline search in uncertain databases.
+170    %   Dichotomies for Queries with Negation in Probabilistic Databases.
+171    %   Locally adaptive dimensionality reduction for indexing large time series databases.
+172    %   Discovering XSD Keys from XML Data.
+173    %   Inferring Social Strength from Spatiotemporal Data.
+174    %   Effective page refresh policies for Web crawlers.
+175    %   Pufferfish: A framework for mathematical privacy definitions.
+176    %   Expressive power of an algebra for data mining.
+177    %   Confidence bounds for sampling-based group by estimates.
+178    %   Capturing Missing Tuples and Missing Values.
+179    %   Logical Design for Temporal Databases with Multiple Granularities.
+180    %   Optimized stratified sampling for approximate query processing.
+181    %   Supporting views in data stream management systems.
+182    %   Broadcast Protocols to Support Efficient Retrieval from Databases by Mobile Users.
+183    %   A model for compound type changes encountered in schema evolution.
+184    %   Bag equivalence of tree patterns.
+185    %   Spatial join techniques.
+186    %   Towards a logical reconstruction of a theory for locally closed databases.
+187    %   Domination in the Probabilistic World: Computing Skylines for Arbitrary Correlations and Ranking Semantics.
+188    %   Peer data exchange.
+189    %   Adaptive algorithms for set containment joins.
+190    %   Computational Fact Checking through Query Perturbations.
+191    %   Unified framework for fast exact and approximate search in dissimilarity spaces.
+192    %   Safe Query Languages for Constraint Databases.
+193    %   Forensic analysis of database tampering.
+194    %   SchemaSQL: An extension to SQL for multidatabase interoperability.
+195    %   +-tree based indexing method for nearest neighbor search.
+196    %   Generalizing database forensics.
+197    %   Exploiting Web querying for Web people search.
+198    %   Determining the Currency of Data.
+199    %   Incorporating constraints in probabilistic XML.
+200    %   Inverted Files Versus Signature Files for Text Indexing.
+201    %   Repair localization for query answering from inconsistent databases.
+202    %   Instant anonymization.
+203    %   DBMS Metrology: Measuring Query Time.
+204    %   Temporal FDs on Complex Objects.
+205    %   Data exchange: getting to the core.
+206    %   Optimal matching between spatial datasets under capacity constraints.
+207    %   XSKETCH synopses for XML data graphs.
+208    %   Incremental graph pattern matching.
+209    %   Safe Stratified Datalog with Integer Order Does Not Have Syntax.
+210    %   A framework for efficient data anonymization under privacy and accuracy constraints.
+211    %   SQL's Three-Valued Logic and Certain Answers.
+212    %   An Axiomatic Model of Dynamic Schema Evolution in Objectbase Systems.
+213    %   Querying web metadata: Native score management and text support in databases.
+214    %   Private Analysis of Graph Structure.
+215    %   Editorial.
+216    %   Exact and Approximate Maximum Inner Product Search with LEMP.
+217    %   Analyses of multi-level and multi-component compressed bitmap indexes.
+218    %   Fast incremental maintenance of approximate histograms.
+219    %   Data Mining with optimized two-dimensional association rules.
+220    %   The SIFT Information Dissemination System.
+221    %   Dynamic indexing for multidimensional non-ordered discrete data spaces using a data-partitioning approach.
+222    %   Extracting predicates from mining models for efficient query evaluation.
+223    %   A survey of B-tree logging and recovery techniques.
+224    %   The design of a query monitoring system.
+225    %   Response to "Differential Dependencies Revisited".
+226    %   Weaker Forms of Monotonicity for Declarative Networking: A More Fine-Grained Answer to the CALM-Conjecture.
+227    %   Reordering rows for better compression: Beyond the lexicographic order.
+228    %   Extended Ehemeral Logging: Log Storage Management for Applications with Long Lived Transactions.
+229    %   Selection conditions in main memory.
+230    %   Foreword.
+231    %   ProbView: A Flexible Probabilistic Database System.
+232    %   Attribute and object selection queries on objects with probabilistic attributes.
+233    %   ElasTraS: An elastic, scalable, and self-managing transactional database for the cloud.
+234    %   Incremental XPath evaluation.
+235    %   Supporting Valid-Time Indeterminacy.
+236    %   Generalized multidimensional data mapping and query processing.
+237    %   Inverting schema mappings.
+238    %   Disjunctive Datalog.
+239    %   Secure distributed computation of anonymized views of shared databases.
+240    %   Keyword search over relational tables and streams.
+241    %   Transactional Client-Server Cache Consistency: Alternatives and Performance.
+242    %   Generating Plans from Proofs.
+243    %   Online Updates on Data Warehouses via Judicious Use of Solid-State Storage.
+244    %   Closing the Gap: Sequence Mining at Scale.
+245    %   Specification and Implementation of Exceptions in Workflow Management Systems.
+246    %   Editorial: The Best of Two Worlds - Present Your TODS Paper at SIGMOD.
+247    %   Path-tree: An efficient reachability indexing scheme for large directed graphs.
+248    %   Efficient sort-based skyline evaluation.
+249    %   Private and Scalable Execution of SQL Aggregates on a Secure Decentralized Architecture.
+250    %   Database repairing using updates.
+251    %   Foreword.
+252    %   Robust approximate aggregation in sensor data management systems.
+253    %   Optimal algorithms for evaluating rank joins in database systems.
+254    %   Editorial.
+255    %   A survey on representation, composition and application of preferences in database systems.
+256    %   Extended wavelets for multiple measures.
+257    %   Ontology-Based Data Access: A Study through Disjunctive Datalog, CSP, and MMSNP.
+258    %   Exchanging intensional XML data.
+259    %   Size Bounds for Factorised Representations of Query Results.
+260    %   Input-sensitive scalable continuous join query processing.
+261    %   A geometric approach to monitoring threshold functions over distributed data streams.
+262    %   Archiving scientific data.
+263    %   Efficient range searching for categorical and plain data.
+264    %   Efficient dynamic mining of constrained frequent sets.
+265    %   Processing spatial skyline queries in both vector spaces and spatial network databases.
+266    %   Skycube Materialization Using the Topmost Skyline or Functional Dependencies.
+267    %   Extending the Kernel of a Relational DBMS with Comprehensive Support for Sequenced Temporal Queries.
+268    %   Introduction to ACM SIGMOD 2006 conference papers.
+269    %   Efficient Processing of Spatial Group Keyword Queries.
+270    %   Distributed query evaluation on semistructured data.
+271    %   Learning Join Queries from User Examples.
+272    %   Static analysis of active XML systems.
+273    %   k aggregation of ranked inputs.
+274    %   Analysis of Schemas with Access Restrictions.
+275    %   Optimizing XML querying using type-based document projection.
+276    %   On the Complexity of Query Result Diversification.
+277    %   Exploiting Integrity Constraints for Cleaning Trajectories of RFID-Monitored Objects.
+278    %   BEVA: An Efficient Query Processing Algorithm for Error-Tolerant Autocompletion.
+279    %   Extending string similarity join to tolerant fuzzy token matching.
+280    %   k and ranking-aggregate queries.
+281    %   Encryption policies for regulating access to outsourced data.
+282    %   Design and analysis of a ranking approach to private location-based services.
+283    %   Optimizing bitmap indices with efficient compression.
+284    %   Atomicity and isolation for transactional processes.
+285    %   I/O reference behavior of production database workloads and the TPC benchmarks - an analysis at the logical level.
+286    %   Output privacy in data mining.
+287    %   Querying XML data sources that export very large sets of views.
+288    %   Capturing continuous data and answering aggregate queries in probabilistic XML.
+289    %   Fast Distributed Transactions and Strongly Consistent Replication for OLTP Database Systems.
+290    %   Understanding cardinality estimation using entropy maximization.
+291    %   Efficient online index construction for text databases.
+292    %   Certain conjunctive query answering in first-order logic.
+293    %   Aggregate nearest neighbor queries in spatial databases.
+294    %   Multi-resolution bitmap indexes for scientific data.
+295    %   A foundation for representing and querying moving objects.
+296    %   Foreword.
+297    %   Optimality of Clustering Properties of Space-Filling Curves.
+298    %   Authority-based keyword search in databases.
+299    %   The role of domain ontologies in database design: An ontology management and conceptual modeling environment.
+300    %   Probabilistic wavelet synopses.
+301    %   Outlier Detection over Massive-Scale Trajectory Streams.
+302    %   Expressiveness and complexity of XML publishing transducers.
+303    %   Cache investment: integrating query optimization and distributed data placement.
+304    %   Removing permissions in the flexible authorization framework.
+305    %   Representing and querying XML with incomplete information.
+306    %   Foreword to TODS invited papers issue 2011.
+307    %   A divide-and-merge methodology for clustering.
+308    %   Asymptotically efficient algorithms for skyline probabilities of uncertain data.
+309    %   Exact Model Counting of Query Expressions: Limitations of Propositional Methods.
+310    %   Transparent anonymization: Thwarting adversaries who know the algorithm.
+311    %   Sloth: Being Lazy Is a Virtue (When Issuing Database Queries).
+312    %   Essential classification rule sets.
+313    %   Example): A visual interface to the standard XML query language.
+314    %   Type-Checking OQL Queries In the ODMG Type Systems.
+315    %   Sketches for size of join estimation.
+316    %   Answering queries with useful bindings.
+317    %   Semantics and implementation of continuous sliding window queries over data streams.
+318    %   Algebraic incremental maintenance of XML views.
+319    %   Finding Alternative Shortest Paths in Spatial Networks.
+320    %   Distributed Geometric Query Monitoring Using Prediction Models.
+321    %   Monadic Datalog and Regular Tree Pattern Queries.
+322    %   Comparing workflow specification languages: A matter of views.
+323    %   Summarizing level-two topological relations in large spatial datasets.
+324    %   Editorial: Single- versus double-blind reviewing.
+325    %   On the Semantics of "Now" in Databases
+326    %   Views and queries: Determinacy and rewriting.
+327    %   A partition-based method for string similarity joins with edit-distance constraints.
+328    %   Foreword to invited papers issue.
+329    %   Multiview Access Protocols for Large-Scale Replication.
+330    %   Exact and approximate algorithms for the most connected vertex problem.
+331    %   Closed world data exchange.
+332    %   Static analysis and optimization of semantic web queries.
+333    %   Range search on multidimensional uncertain data.
+334    %   Description logics for semantic query optimization in object-oriented database systems.
+335    %   Collaborative data sharing via update exchange and provenance.
+336    %   Tight upper bounds on the number of candidate patterns.
+337    %   Introduction to the PODS 2006 special section.
+338    %   Improving instruction cache performance in OLTP.
+339    %   Adaptive, Fine-Grained Sharing in a Client-Server OODBMS: A Callback-Based Approach.
+340    %   An adaptive packed-memory array.
+341    %   Estimating statistical aggregates on probabilistic data streams.
+342    %   Towards multidimensional subspace skyline analysis.
+343    %   The Complexity of Learning Tree Patterns from Example Graphs.
+344    %   Self-tuning cost modeling of user-defined functions in an object-relational DBMS.
+345    %   Almost-linear inclusion for XML regular expression types.
+346    %   Shared execution strategy for neighbor-based pattern mining requests over streaming windows.
+347    %   Optimization of Queries with User-Defined Predicates.
+348    %   Path sharing and predicate evaluation for high-performance XML filtering.
+349    %   Efficient reasoning about data trees via integer linear programming.
+350    %   TuG synopses for approximate query answering.
+351    %   XML stream processing using tree-edit distance embeddings.
+352    %   Querying and repairing inconsistent numerical databases.
+353    %   Making snapshot isolation serializable.
+354    %   SilkRoute: A framework for publishing relational data in XML.
+355    %   Declarative Cleaning of Inconsistencies in Information Extraction.
+356    %   Compiling mappings to bridge applications and databases.
+357    %   RFID-data compression for supporting aggregate queries.
+358    %   An Indexing Framework for Queries on Probabilistic Graphs.
+359    %   PATAXÓ: A framework to allow updates through XML views.
+360    %   Expressiveness and complexity of XML Schema.
+361    %   Ensuring Consistency in Multidatabases by Preserving Two-Level Serializability.
+362    %   Editorial: Updates to the Editorial Board.
+363    %   The Sort-Merge-Shrink join.
+364    %   Sharing across Multiple MapReduce Jobs.
+365    %   Theory of dependence values.
+366    %   COMPRESS: A Comprehensive Framework of Trajectory Compression in Road Networks.
+367    %   Introduction to the EDBT 2006 special section.
+368    %   Proxy-based acceleration of dynamically generated content on the world wide web: An approach and implementation.
+369    %   The complexity of regular expressions and property paths in SPARQL.
+370    %   Editorial: The Dark Citations of TODS Papers and What to Do about It - or: Cite the Journal Paper.
+371    %   Database Design for Incomplete Relations.
+372    %   The implication problem of data dependencies over SQL table definitions: Axiomatic, algorithmic and logical characterizations.
+373    %   Optimizing object queries using an effective calculus.
+374    %   A logical foundation for deductive object-oriented databases.
+375    %   Towards a Theory of Cost Management for Digital Libraries and Electronic Commerce.
+376    %   Bounded Repairability for Regular Tree Languages.
+377    %   RS - a highly-available scalable distributed data structure.
+378    %   B-Trees and Cache-Oblivious B-Trees with Different-Sized Atomic Keys.
+379    %   A simple algorithm for finding frequent elements in streams and bags.
+380    %   Relational query coprocessing on graphics processors.
+381    %   Top-k diversity queries over bounded regions.
+382    %   Fault-tolerance in the borealis distributed stream processing system.
+383    %   Inference of concise regular expressions and DTDs.
+384    %   Outerjoin Simplification and Reordering for Query Optimization.
+385    %   Analysis and optimization for boolean expression indexing.
+386    %   Worst-Case I/O-Efficient Skyline Algorithms.
+387    %   Mining order-preserving submatrices from probabilistic matrices.
+388    %   Optimization Techniques for Queries with Expensive Methods.
+389    %   On the computation of relational view complements.
+390    %   SCANRAW: A Database Meta-Operator for Parallel In-Situ Processing and Loading.
+391    %   Efficient query processing on graph databases.
+392    %   Approximate continuous querying over distributed streams.
+393    %   Differential dependencies: Reasoning and discovery.
+394    %   Editorial: Updates to the Editorial Board.
+395    %   Efficient algorithms for processing XPath queries.
+396    %   Naïve Evaluation of Queries over Incomplete Databases.
+397    %   Cost models for overlapping and multiversion structures.
+398    %   k-constraints to reduce memory overhead in continuous queries over data streams.
+399    %   Negative Factor: Improving Regular-Expression Matching in Strings.
+400    %   An Efficient Method for Checking Object-Oriented Database Schema Correctness.
+401    %   Multiway spatial joins.
+402    %   Joins via Geometric Resolutions: Worst Case and Beyond.
+403    %   High-level change detection in RDF(S) KBs.
+404    %   Materialization Optimizations for Feature Selection Workloads.
+405    %   Wavelet synopses for general error metrics.
+406    %   Emancipating instances from the tyranny of classes in information modeling.
+407    %   Lightweight Query Authentication on Streams.
+408    %   Oblivious bounds on the probability of boolean functions.
+409    %   Building a Hybrid Warehouse: Efficient Joins between Data Stored in HDFS and Enterprise Warehouse.
+410    %   Robust Distributed Query Processing for Streaming Data.
+411    %   Time- and Space-Efficient Sliding Window Top-k Query Processing.
+412    %   Schema matching and embedded value mapping for databases with opaque column names and mixed continuous and discrete-valued data fields.
+413    %   Reverse data exchange: Coping with nulls.
+414    %   Foreword to special section on SIGMOD/PODS 2005.
+415    %   Finding maximal cliques in massive networks.
+416    %   Differentiating search results on structured data.
+417    %   Discovering all most specific sentences.
+418    %   Stochastic skylines.
+419    %   Characterizing memory requirements for queries over continuous data streams.
+420    %   Understanding the global semantics of referential actions using logic rules.
+421    %   Return specification inference and result clustering for keyword search on XML.
+422    %   The monte carlo database system: Stochastic analysis close to the data.
+423    %   Composition of mappings given by embedded dependencies.
+424    %   Introduction to ACM SIGMOD 2007 special section.
+425    %   Embedding-based subsequence matching in time-series databases.
+426    %   Efficient similarity joins for near-duplicate detection.
+427    %   Expressive Languages for Path Queries over Graph-Structured Data.
+428    %   Tracing the lineage of view data in a warehousing environment.
+429    %   Towards a query optimizer for text-centric tasks.
+430    %   The data cyclotron query processing scheme.
+431    %   On the complexity of nonrecursive XQuery and functional query languages on complex values.
+432    %   Introduction to special ICDT section.
+433    %   Domain-independent data cleaning via analysis of entity-relationship graph.
+434    %   Expressing and optimizing sequence queries in database systems.
+435    %   Decoupling partitioning and grouping: Overcoming shortcomings of spatial indexing with bucketing.
+436    %   Concise descriptions of subsets of structured sets.
+437    %   Using structural information in XML keyword search effectively.
+438    %   Multiple Radii DisC Diversity: Result Diversification Based on Dissimilarity and Coverage.
+439    %   Workload-Driven Antijoin Cardinality Estimation.
+440    %   Random Walk with Restart on Large Graphs Using Block Elimination.
+441    %   The Complexity of Mining Maximal Frequent Subgraphs.
+442    %   Scalable approximate query processing with the DBO engine.
+443    %   Privacy-aware location data publishing.
+444    %   Artifact systems with data dependencies and arithmetic.
+445    %   Applying Formal Methods to Semantic-Based Decomposition of Transactions.
+446    %   K-nn and spatial join queries on continuously moving points.
+447    %   Theory of nearest neighbors indexability.
+448    %   Improving hash join performance through prefetching.
+449    %   Are quorums an alternative for data replication?
+450    %   Cache-oblivious databases: Limitations and opportunities.
+451    %   A quality-aware optimizer for information extraction.
+452    %   Foreword to TODS SIGMOD/PODS 2008 special issue.
+453    %   Foreword to TODS invited papers issue.
+454    %   XSQ: A streaming XPath engine.
+455    %   Indexing Large Metric Spaces for Similarity Search Queries.
+456    %   Correlated pattern mining in quantitative databases.
+457    %   On the expressiveness of implicit provenance in query and update languages.
+458    %   Deciding Determinism with Fairness for Simple Transducer Networks.
+459    %   Classification of annotation semirings over containment of conjunctive queries.
+460    %   Top-k selection queries over relational databases: Mapping strategies and performance evaluation.
+461    %   Asymmetric signature schemes for efficient exact edit similarity query processing.
+462    %   Improving Database Design Through the Analysis of Relationships.
+463    %   High-performance complex event processing over hierarchical data.
+464    %   Out-of-core coherent closed quasi-clique mining from large dense graph databases.
+465    %   Pseudo-random number generation for sketch-based estimations.
+466    %   Introduction to ICDT 2007 special section.
+467    %   Adaptive rank-aware query optimization in relational databases.
+468    %   Managing uncertainty in moving objects databases.
+469    %   Learning schema mappings.
+470    %   Iterative dynamic programming: a new class of query optimization algorithms.
+471    %   Casper*: Query processing for location services without compromising privacy.
+472    %   I/O-Efficient Algorithms on Triangle Listing and Counting.
+473    %   Synopses for query optimization: A space-complexity perspective.
+474    %   Space-optimal heavy hitters with strong error bounds.
+475    %   Towards a Painless Index for Spatial Objects.
+476    %   Conditional functional dependencies for capturing data inconsistencies.
+477    %   A declarative approach to optimize bulk loading into databases.
+478    %   An architecture for recycling intermediates in a column-store.
+479    %   A Join-Like Operator to Combine Data Cubes and Answer Queries from Multiple Data Cubes.
+480    %   Continuous nearest-neighbor search in the presence of obstacles.
+481    %   Rewriting queries with arbitrary aggregation functions using views.
+482    %   WHAM: A High-Throughput Sequence Alignment Method.
+483    %   Foreword to TODS SIGMOD/PODS/ICDT 2007 special issue.
+484    %   The recovery of a schema mapping: Bringing exchanged data back.
+485    %   Fast and Accurate Time-Series Clustering.
+486    %   A semantic network-based design methodology for XML documents.
+487    %   Anchor text mining for translation of Web queries: A transitive translation approach.
+488    %   Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees.
+489    %   Induced Sorting Suffixes in External Memory.
+490    %   Exploiting hierarchical domain structure to compute similarity.
+491    %   The use of dynamic context to improve casual internet searching.
+492    %   Peer-to-Peer Information Retrieval: An Overview.
+493    %   Coverage, relevance, and ranking: The impact of query operators on Web search engine results.
+494    %   Diversifying Query Auto-Completion.
+495    %   Web Query Reformulation via Joint Modeling of Latent Topic Dependency and Term Context.
+496    %   Relevance models to help estimate document and query parameters.
+497    %   Preparing heterogeneous XML for full-text search.
+498    %   The impact on retrieval effectiveness of skewed frequency distributions.
+499    %   Adaptive hypermedia through contextualized open hypermedia structures.
+500    %   An empirical investigation of user term feedback in text-based targeted image search.
+501    %   MEGA - the maximizing expected generalization algorithm for learning complex query concepts.
+502    %   Context-Sensitive Learning Methods for Text Categorization.
+503    %   Regularized Latent Semantic Indexing: A New Approach to Large-Scale Topic Modeling.
+504    %   Extraction, characterization and utility of prototypical communication groups in the blogosphere.
+505    %   Oracle in Image Search: A Content-Based Approach to Performance Prediction.
+506    %   Upper-bound approximations for dynamic pruning.
+507    %   On the design of a learning crawler for topical resource discovery.
+508    %   A system for the static analysis of XPath.
+509    %   Making a Digital Library: The Contents of the CORE Project.
+510    %   Evaluation of an Algorithm for Finding a Match of a Distorted Texture Pattern in a Large Image Database.
+511    %   Identifying, Indexing, and Ranking Chemical Formulae and Chemical Names in Digital Documents.
+512    %   The Effects of Aggregated Search Coherence on Search Behavior.
+513    %   Approximate Recall Confidence Intervals.
+514    %   Frequency-based identification of correct translation equivalents (FITE) obtained through transformation rules.
+515    %   Examining Additivity and Weak Baselines.
+516    %   Augmenting Organizational Memory: A Field Study of Answer Garden.
+517    %   Improving the Quality of Recommendations for Users and Items in the Tail of Distribution.
+518    %   Recursive Hashing Functions for n-Grams.
+519    %   Information systems interoperability: What lies beneath?
+520    %   Digital Wildfires: Propagation, Verification, Regulation, and Responsible Innovation.
+521    %   Chimera: hypermedia for heterogeneous software development enviroments.
+522    %   Trust Prediction via Belief Propagation.
+523    %   Interface and Data Architecture for Query Preview in Networked Information Systems.
+524    %   Query enrichment for web-query classification.
+525    %   Efficient k-nearest neighbor searching in nonordered discrete data spaces.
+526    %   Towards a belief-revision-based adaptive and context-sensitive information retrieval system.
+527    %   An efficient normalized maximum likelihood algorithm for DNA sequence compression.
+528    %   Topic Modeling for Wikipedia Link Disambiguation.
+529    %   Bounded coordinate system indexing for real-time video clip search.
+530    %   Transfer joint embedding for cross-domain named entity recognition.
+531    %   CLAIRE: A modular support vector image indexing and classification system.
+532    %   TOIS reviewers 2003--2005.
+533    %   An analysis of latent semantic term self-correlation.
+534    %   Transfer Learning to Infer Social Ties across Heterogeneous Networks.
+535    %   Direct posterior confidence for out-of-vocabulary spoken term detection.
+536    %   A hierarchical access control model for video database systems.
+537    %   Authorship Attribution Based on Specific Vocabulary.
+538    %   The task-dependent effect of tags and ratings on social media access.
+539    %   Aggregation Methods for Proximity-Based Opinion Retrieval.
+540    %   A Probabilistic Relational Algebra for the Integration of Information Retrieval and Database Systems.
+541    %   Query Performance Prediction Using Reference Lists.
+542    %   A similarity measure for indefinite rankings.
+543    %   Unsupervised Visual and Textual Information Fusion in CBMIR Using Graph-Based Methods.
+544    %   The Knowledge in Multiple Human Relevance Judgments.
+545    %   Error correction vs. query garbling for Arabic OCR document retrieval.
+546    %   A Probabilistic Lifestyle-Based Trajectory Model for Social Strength Inference from Human Trajectory Data.
+547    %   Proximal Nodes: A Model to Query Document Databases by Content and Structure.
+548    %   Suffix Array Construction in External Memory Using D-Critical Substrings.
+549    %   XXS: Efficient XPath Evaluation on Compressed XML Documents.
+550    %   Unified relevance models for rating prediction in collaborative filtering.
+551    %   Logical and physical design issues for smart card databases.
+552    %   Efficient content-based indexing of large image databases.
+553    %   Probabilistic Models for Contextual Agreement in Preferences.
+554    %   Distributed content-based visual information retrieval system on peer-to-peer networks.
+555    %   Compact Indexing and Judicious Searching for Billion-Scale Microblog Retrieval.
+556    %   Trusting spam reporters: A reporter-based reputation system for email filtering.
+557    %   Metrics and Algorithms for Routing Questions to User Communities.
+558    %   ServiceFinder: A method towards enhancing service portals.
+559    %   A Study of Probability Kinematics in Information Retrieval.
+560    %   The Query Change Model: Modeling Session Search as a Markov Decision Process.
+561    %   Cache Design of SSD-Based Search Engine Architectures: An Experimental Study.
+562    %   Dynamic element retrieval in a structured environment.
+563    %   Fast phrase querying with combined indexes.
+564    %   Improved search engines and navigation preference in personal information management.
+565    %   Sparse hashing for fast multimedia search.
+566    %   Region proximity in metric spaces and its use for approximate similarity search.
+567    %   Query modeling for entity search based on terms, categories, and examples.
+568    %   Ontological user profiling in recommender systems.
+569    %   Incremental cluster-based retrieval using compressed cluster-skipping inverted files.
+570    %   Introduction to genomic information retrieval.
+571    %   O(1)-workspace suffix sorting for constant alphabets.
+572    %   A few good topics: Experiments in topic set reduction for retrieval evaluation.
+573    %   Social-Sensed Image Search.
+574    %   Building a distributed full-text index for the web.
+575    %   iVIBRATE: Interactive visualization-based framework for clustering large datasets.
+576    %   Large-scale validation and analysis of interleaved search evaluation.
+577    %   A Robust Framework for Content-based Retrieval by Spatial Similarity in Image Databases.
+578    %   When experts agree: using non-affiliated experts to rank popular topics.
+579    %   XIRQL: An XML query language based on information retrieval concepts.
+580    %   Probabilistic models of information retrieval based on measuring the divergence from randomness.
+581    %   Power Law Distributions in Information Retrieval.
+582    %   Boosting the performance of Web search engines: Caching and prefetching query results by exploiting historical usage data.
+583    %   Hilbert Exclusion: Improved Metric Search through Finite Isometric Embeddings.
+584    %   Summarizing figures, tables, and algorithms in scientific publications to augment search results.
+585    %   Hyperdocuments as Automata: Verification of Trace-Based Browsing Properties by Model Checking.
+586    %   Trustworthy 100-year digital objects: Evidence after every witness is dead.
+587    %   Context Trees: Augmenting Geospatial Trajectories with Context.
+588    %   Measuring the Semantic Uncertainty of News Events for Evolution Potential Estimation.
+589    %   Evaluating implicit measures to improve web search.
+590    %   Sentimental Spidering: Leveraging Opinion Information in Focused Crawlers.
+591    %   Evaluating collaborative filtering recommender systems.
+592    %   Dynamic lightweight text compression.
+593    %   Modeling reformulation using query distributions.
+594    %   Sentiment analysis in multiple languages: Feature selection for opinion classification in Web forums.
+595    %   Theoretical, Qualitative, and Quantitative Analyses of Small-Document Approaches to Resource Selection.
+596    %   STEvent: Spatio-temporal event model for social network discovery.
+597    %   Profile-Based Summarisation for Web Site Navigation.
+598    %   Using topic themes for multi-document summarization.
+599    %   Genre taxonomy: A knowledge repository of communicative actions.
+600    %   PocketLens: Toward a personal recommender system.
+601    %   Theory of keyblock-based image retrieval.
+602    %   Stochastic Query Covering for Fast Approximate Document Retrieval.
+603    %   Mining pure high-order word associations via information geometry for information retrieval.
+604    %   Complete answer aggregates for treelike databases: a novel approach to combine querying and navigation.
+605    %   A basis for information retrieval in context.
+606    %   Efficient web browsing on handheld devices using page and form summarization.
+607    %   Re-Finding Behaviour in Vertical Domains.
+608    %   Online supervised spam filter evaluation.
+609    %   Information filtering and query indexing for an information retrieval model.
+610    %   Performance issues and error analysis in an open-domain question answering system.
+611    %   Creating and exploiting a comparable corpus in cross-language information retrieval.
+612    %   Precision recall with user modeling (PRUM): Application to structured information retrieval.
+613    %   Efficient passage ranking for document databases.
+614    %   Accounting for Language Changes Over Time in Document Similarity Search.
+615    %   Fidelity, Soundness, and Efficiency of Interleaved Comparison Methods.
+616    %   Improving graph-walk-based similarity with reranking: Case studies for personal information management.
+617    %   Search Result Prefetching on Desktop and Mobile.
+618    %   Matrix Factorization with Explicit Trust and Distrust Side Information for Improved Social Recommendation.
+619    %   Shortest-substring retrieval and ranking.
+620    %   Approximate spatio-temporal retrieval.
+621    %   Learning with click graph for query intent classification.
+622    %   On Effective Location-Aware Music Recommendation.
+623    %   Recommendation systems with complex constraints: A course recommendation perspective.
+624    %   SEA: Segment-enrich-annotate paradigm for adapting dialog-based content for improved accessibility.
+625    %   An information-theoretic framework for semantic-multimedia retrieval.
+626    %   Comparing the performance of collection selection algorithms.
+627    %   Locality-Based pruning methods for web search.
+628    %   An exploration of the principles underlying redundancy-based factoid question answering.
+629    %   Efficient Video Stream Monitoring for Near-Duplicate Detection and Localization in a Large-Scale Repository.
+630    %   Ranking function adaptation with boosting trees.
+631    %   An information-theoretic approach to automatic query expansion.
+632    %   Exploring Question Selection Bias to Identify Experts and Potential Experts in Community Question Answering.
+633    %   Incorporating contextual information in recommender systems using a multidimensional approach.
+634    %   A Hypermedia Version Control Framework.
+635    %   Causal Relationship Detection in Archival Collections of Product Reviews for Understanding Technology Evolution.
+636    %   Early user - system interaction for database selection in massive domain-specific online environments.
+637    %   A distributed, service-based framework for knowledge applications with multimedia.
+638    %   GRAS: An effective and efficient stemming algorithm for information retrieval.
+639    %   Collaborative Conceptual Schema Design: A Process Model and Prototype System.
+640    %   Cost-Aware Collaborative Filtering for Travel Tour Recommendations.
+641    %   Discovering tasks from search engine query logs.
+642    %   Exploiting Representations from Statistical Machine Translation for Cross-Language Information Retrieval.
+643    %   Historical spatio-temporal aggregation.
+644    %   Harp: A Distributed Query System for Legacy Public Libraries and Structured Databases.
+645    %   Arnoldi versus GMRES for computing pageRank: A theoretical contribution to google's pageRank problem.
+646    %   Evolution of web site design patterns.
+647    %   Set-based vector model: An efficient approach for correlation-based ranking.
+648    %   Efficient fuzzy search in large text collections.
+649    %   Multiple testing in statistical analysis of systems-based information retrieval experiments.
+650    %   Scaling question answering to the web.
+651    %   Predicate Rewriting for Translating Boolean Queries in a Heterogeneous Information System.
+652    %   Volunteerism Tendency Prediction via Harvesting Multiple Social Networks.
+653    %   A Probabilistic Model to Combine Tags and Acoustic Similarity for Music Retrieval.
+654    %   Efficient mining of both positive and negative association rules.
+655    %   Reducing human interactions in Web directory searches.
+656    %   Incorporating User Expectations and Behavior into the Measurement of Search Effectiveness.
+657    %   On setting the hyper-parameters of term frequency normalization for information retrieval.
+658    %   Improving retrieval feedback with multiple term-ranking function combination.
+659    %   Static index pruning in web search engines: Combining term and document popularities with query views.
+660    %   A Pólya Urn Document Language Model for Improved Information Retrieval.
+661    %   Understanding Intrinsic Diversity in Web Search: Improving Whole-Session Relevance.
+662    %   Information scraps: How and why information eludes our personal information management tools.
+663    %   Subspace Frequency Analysis-Based Field Indices Extraction for Electricity Customer Classification.
+664    %   Social Question Answering: Textual, User, and Network Features for Best Answer Prediction.
+665    %   Discovering personally meaningful places: An interactive clustering approach.
+666    %   Multidocument summarization: An added value to clustering in interactive retrieval.
+667    %   Identifying Opportunities for Valuable Encounters: Toward Context-Aware Social Matching Systems.
+668    %   PIC matrices: a computationally tractable class of probabilistic query operators.
+669    %   A General SIMD-Based Approach to Accelerating Compression Algorithms.
+670    %   Data Structures for Efficient Broker Implementation.
+671    %   Corpus-Based Stemming Using Cooccurrence of Word Cariants.
+672    %   A space-partitioning-based indexing method for multidimensional non-ordered discrete data spaces.
+673    %   Influence Estimation and Maximization in Continuous-Time Diffusion Networks.
+674    %   The nonverbal structure of patient case discussions in multidisciplinary medical team meetings.
+675    %   Overview of the Special Issue on Trust and Veracity of Information in Social Media.
+676    %   TISoN: Trust Inference in Trust-Oriented Social Networks.
+677    %   Organizing and managing personal electronic files: A mechanical engineer's perspective.
+678    %   Rank-biased precision for measurement of retrieval effectiveness.
+679    %   Robust result merging using sample-based score estimates.
+680    %   Query-based sampling of text databases.
+681    %   A large scale, corpus-based approach for automatically disambiguating biomedical abbreviations.
+682    %   PicASHOW: pictorial authority search by hyperlinks on the web.
+683    %   Predicting Query Performance by Query-Drift Estimation.
+684    %   Detecting Fake Medical Web Sites Using Recursive Trust Labeling.
+685    %   How people recall, recognize, and reuse search results.
+686    %   Toward automatic facet analysis and need negotiation: Lessons from mediated search.
+687    %   Detection of video sequences using compact signatures.
+688    %   A Semidiscrete Matrix Decomposition for Latent Semantic Indexing Information Retrieval.
+689    %   TOIS Reviewers: October 2009 To September 2012.
+690    %   Engineering basic algorithms of an in-memory text search engine.
+691    %   Efficient Entity Translation Mining: A Parallelized Graph Alignment Approach.
+692    %   Introduction to recommender systems: Algorithms and Evaluation.
+693    %   A formal model of annotations of digital content.
+694    %   The Effect of Accessing Nonmatching Documents on Relevance Feedback.
+695    %   A Multilevel Approach to Intelligent Information Filtering: Model, System, and Evaluation.
+696    %   Content redundancy in YouTube and its application to video tagging.
+697    %   A statechart-based model for hypermedia applications.
+698    %   Semisupervised SVM batch mode active learning with applications to image retrieval.
+699    %   Application of aboutness to functional benchmarking in information retrieval.
+700    %   Probabilistic models for answer-ranking in multilingual question-answering.
+701    %   Automatic classification of Web queries using very large unlabeled query logs.
+702    %   QProber: A system for automatic classification of hidden-Web databases.
+703    %   DirichletRank: Solving the zero-one gap problem of PageRank.
+704    %   Clusters, language models, and ad hoc information retrieval.
+705    %   Articulating information needs in XML query languages.
+706    %   Exploring memory in email refinding.
+707    %   Comparing Pointwise and Listwise Objective Functions for Random-Forest-Based Learning-to-Rank.
+708    %   A Corpus Analysis Approach for Automatic Query Expansion and Its Extension to Multiple Databases.
+709    %   PageRank: Functional dependencies.
+710    %   Efficient Index-Based Snippet Generation.
+711    %   Latent semantic models for collaborative filtering.
+712    %   A highly scalable and effective method for metasearch.
+713    %   Belief Dynamics and Biases in Web Search.
+714    %   Correlation-based retrieval for heavily changed near-duplicate videos.
+715    %   Temporal profiles of queries.
+716    %   A novel XML music information retrieval method using graph invariants.
+717    %   TOIS reviewers June 2007 through May 2008.
+718    %   Sibyl, a factoid question-answering system for spoken documents.
+719    %   Toward a semantic granularity model for domain-specific information retrieval.
+720    %   Browse-to-Search: Interactive Exploratory Search with Visual Entities.
+721    %   Fast candidate generation for real-time tweet search with bloom filter chains.
+722    %   Introduction to the special issue on XML retrieval.
+723    %   Improving Text Classification Accuracy by Training Label Cleaning.
+724    %   A maximal figure-of-merit (MFoM)-learning approach to robust classifier design for text categorization.
+725    %   Efficient set intersection for inverted indexing.
+726    %   Local versus global link information in the Web.
+727    %   Detecting and Tracking Topics and Events from Web Search Logs.
+728    %   Customizing Information Capture and Access.
+729    %   Integrating geometrical and linguistic analysis for email signature block parsing.
+730    %   Stability of Recommendation Algorithms.
+731    %   Patent Query Formulation by Synthesizing Multiple Sources of Relevance Evidence.
+732    %   Boosting Recommendation in Unexplored Categories by User Price Preference.
+733    %   Textual analysis of stock market prediction using breaking financial news: The AZFin text system.
+734    %   Cost-Effective Online Trending Topic Detection and Popularity Prediction in Microblogging.
+735    %   X-Class: Associative Classification of XML Documents by Structure.
+736    %   TOIS reviewers January 2006 through May 2007.
+737    %   WebQuilt: A proxy-based approach to remote web usability testing.
+738    %   Task-Based Information Interaction Evaluation: The Viewpoint of Program Theory.
+739    %   User evaluation of Físchlár-News: An automatic broadcast news delivery system.
+740    %   A Flexible Authorization Mechanism for Relational Data Management Systems.
+741    %   Trip Recommendation Meets Real-World Constraints: POI Availability, Diversity, and Traveling Time Uncertainty.
+742    %   A market-based approach to recommender systems.
+743    %   Collection statistics for fast duplicate document detection.
+744    %   A study of smoothing methods for language models applied to information retrieval.
+745    %   Qualitative decision making in adaptive presentation of structured information.
+746    %   About learning models with multiple query-dependent features.
+747    %   Answering Arabic Why-Questions: Baseline vs. RST-Based Approach.
+748    %   Targeted Advertising in Public Transportation Systems with Quantitative Evaluation.
+749    %   Understanding and Supporting Cross-Device Web Search for Exploratory Tasks with Mobile Touch Interactions.
+750    %   Sound and complete relevance assessment for XML retrieval.
+751    %   Probabilistic static pruning of inverted files.
+752    %   MWI-Sum: A Multilingual Summarizer Based on Frequent Weighted Itemsets.
+753    %   A Measurement Framework for Evaluating Emulators for Digital Preservation.
+754    %   On ranking techniques for desktop search.
+755    %   High-performance processing of text queries with tunable pruned term and term pair indexes.
+756    %   eXtended cumulated gain measures for the evaluation of content-oriented XML retrieval.
+757    %   Ranking-Oriented Collaborative Filtering: A Listwise Approach.
+758    %   Editorial: Reviewer merits and review control in an age of electronic manuscript management systems.
+759    %   Learning Informative Priors from Heterogeneous Domains to Improve Recommendation in Cold-Start User Domains.
+760    %   Writeprints: A stylometric approach to identity-level identification and similarity detection in cyberspace.
+761    %   Named entity translation matching and learning: With application for mining unseen translations.
+762    %   Learning author-topic models from text corpora.
+763    %   CrimeNet explorer: a framework for criminal network knowledge discovery.
+764    %   The Effect of Social and Physical Detachment on Information Need.
+765    %   Browsing Hierarchy Construction by Minimum Evolution.
+766    %   An adaptive threshold framework for event detection using HMM-based life profiles.
+767    %   Enhancing relevance feedback in image retrieval using unlabeled data.
+768    %   Georeferencing Wikipedia Documents Using Data from Social Media Sources.
+769    %   Repeatable evaluation of search services in dynamic environments.
+770    %   Document Score Distribution Models for Query Performance Inference and Prediction.
+771    %   SALSA: the stochastic approach for link-structure analysis.
+772    %   Joint Modeling of User Check-in Behaviors for Real-time Point-of-Interest Recommendation.
+773    %   Extended probabilistic HAL with close temporal association for psychiatric query document retrieval.
+774    %   Tuning the capacity of search engines: Load-driven routing and incremental caching to reduce and balance the load.
+775    %   A semisupervised learning method to merge search engine results.
+776    %   Content-Based Video Copy Detection Benchmarking at TRECVID.
+777    %   On Crowdsourcing Relevance Magnitudes for Information Retrieval Evaluation.
+778    %   PageRank without hyperlinks: Structural reranking using links induced by language models.
+779    %   Clustering-based incremental web crawling.
+780    %   Ad Hoc, self-supervising peer-to-peer search networks.
+781    %   Beyond intratransaction association analysis: mining multidimensional intertransaction association rules.
+782    %   Semantic clustering of XML documents.
+783    %   Query-independent evidence in home page finding.
+784    %   The Equalizing Impact of a Group Support System on Status Differentials.
+785    %   Improving the effectiveness of information retrieval with local context analysis.
+786    %   Trustworthy 100-year digital objects: durable encoding for when it's too late to ask.
+787    %   Evaluating implicit feedback models using searcher simulations.
+788    %   Overview of the Special Issue on Contextual Search and Recommendation.
+789    %   Introduction to keeping, refinding and sharing personal information.
+790    %   Knowledge encapsulation for focused search from pervasive devices.
+791    %   Answering XML queries by means of data summaries.
+792    %   Taxonomy generation for text segments: A practical web-based approach.
+793    %   N recommendation algorithms.
+794    %   Structured Hypertext with Domain Semantics.
+795    %   LCARS: A Spatial Item Recommender System.
+796    %   Inverted Treaps.
+797    %   Effective and Robust Query-Based Stemming.
+798    %   Access Control for Large Collections.
+799    %   Hyperform: A Hypermedia System Development Environment.
+800    %   A Comparative Analysis of Interleaving Methods for Aggregated Search.
+801    %   Effects of position and number of relevant documents retrieved on users' evaluations of system performance.
+802    %   Placing search in context: the concept revisited.
+803    %   Peer-to-peer data trading to preserve information.
+804    %   Experiences with Selecting Search Engines Using Metasearch.
+805    %   Utilizing inter-passage and inter-document similarities for reranking search results.
+806    %   k Advertisement Matching in News Stream Applications.
+807    %   Evaluating the accuracy of implicit feedback from clicks and query reformulations in Web search.
+808    %   Time-Aware Click Model.
+809    %   Analysis of lexical signatures for improving information persistence on the World Wide Web.
+810    %   MUADDIB: A distributed recommender system supporting device adaptivity.
+811    %   Incremental Formalization with the Hyper-Object Substrate.
+812    %   Learning to crawl: Comparing classification schemes.
+813    %   Misinformation in Online Social Networks: Detect Them All with a Limited Budget.
+814    %   Selective Search: Efficient and Effective Search of Large Textual Collections.
+815    %   Statistical lattice-based spoken document retrieval.
+816    %   Automatic metadata generation using associative networks.
+817    %   Query clustering using user logs.
+818    %   Burst tries: a fast, efficient data structure for string keys.
+819    %   Word-based self-indexes for natural language text.
+820    %   YASS: Yet another suffix stripper.
+821    %   Streams, structures, spaces, scenarios, societies (5s): A formal model for digital libraries.
+822    %   Model-driven development of Web applications: the AutoWeb system.
+823    %   Fast construction of the HYB index.
+824    %   Interest-based personalized search.
+825    %   Metric Details for Natural-Language Spatial Relations.
+826    %   User language model for collaborative personalized search.
+827    %   An Online Learning Framework for Refining Recency Search Results with User Click Feedback.
+828    %   Approaches to Exploring Category Information for Question Retrieval in Community Question-Answer Archives.
+829    %   Classification-aware hidden-web text database selection.
+830    %   Self-Spacial Join Selectivity Estimation Using Fractal Concepts.
+831    %   Two-Stage Document Length Normalization for Information Retrieval.
+832    %   A text Compression Scheme that Allows Fast Searching Directly in the Compressed File.
+833    %   Latent Discriminative Models for Social Emotion Detection with Emotional Dependency.
+834    %   Diagnostic Evaluation of Information Retrieval Models.
+835    %   Social Link Prediction in Online Social Tagging Systems.
+836    %   Effects of Usage-Based Feedback on Video Retrieval: A Simulation-Based Study.
+837    %   Contextual Video Recommendation by Multimodal Relevance and User Feedback.
+838    %   Assessing multivariate Bernoulli models for information retrieval.
+839    %   Evaluating the performance of distributed architectures for information retrieval using a variety of workloads.
+840    %   Improving Recommender Systems by Incorporating Social Contextual Information.
+841    %   The Impacts of Structural Difference and Temporality of Tweets on Retrieval Effectiveness.
+842    %   Building a framework for the probability ranking principle by a family of expected weighted rank.
+843    %   Cross-Lingual Topic Discovery From Multilingual Search Engine Query Log.
+844    %   A Tensor-Based Information Framework for Predicting the Stock Market.
+845    %   Context Interchange: New Features and Formalisms for the Intelligent Integration of Information.
+846    %   A general-purpose compression scheme for large collections.
+847    %   Dependable filtering: Philosophy and realizations.
+848    %   Cyberchondria: Studies of the escalation of medical concerns in Web search.
+849    %   Applying associative retrieval techniques to alleviate the sparsity problem in collaborative filtering.
+850    %   Methods for Information Server Selection.
+851    %   Fast and flexible word searching on compressed text.
+852    %   Interpreting TF-IDF term weights as making relevance decisions.
+853    %   Modeling Word Occurrences for the Compression of Concordances.
+854    %   Computing graphical queries over XML data.
+855    %   A novel framework for efficient automated singer identification in large music databases.
+856    %   Combining relations for information extraction from free text.
+857    %   A Decision-Theoretic Approach to Database Selection in Networked IR.
+858    %   Arithmetic Coding Revisited.
+859    %   Measuring praise and criticism: Inference of semantic orientation from association.
+860    %   Summary in context: Searching versus browsing.
+861    %   Exploiting neighborhood knowledge for single document summarization and keyphrase extraction.
+862    %   Exploiting query logs for cross-lingual query suggestions.
+863    %   Geoparsing and Geosemantics for Social Media: Spatiotemporal Grounding of Content Propagating Rumors to Support Trust and Veracity Analysis during Breaking News.
+864    %   Fast-Forward Index Methods for Pseudo-Relevance Feedback Retrieval.
+865    %   Meta methods for model sharing in personal information systems.
+866    %   A Document Retrieval Model Based on Digital Signal Filtering.
+867    %   Comparison of methods for language-dependent and language-independent query-by-example spoken term detection.
+868    %   Extending document management systems with user-specific active properties.
+869    %   combinFormation: Mixed-initiative composition of image and text surrogates promotes information discovery.
+870    %   A methodology for analyzing SAGE libraries for cancer profiling.
+871    %   Beneath the surface of organizational processes: a social representation framework for business process redesign.
+872    %   User Activity Patterns During Information Search.
+873    %   Data integration using similarity joins and a word-based information representation language.
+874    %   TASC: A Transformation-Aware Soft Cascading Approach for Multimodal Video Copy Detection.
+875    %   Electronic Mail as a Coalition-Building Information Technology.
+876    %   TopPRF: A Probabilistic Framework for Integrating Topic Space into Pseudo Relevance Feedback.
+877    %   A Meta-Framework for Modeling the Human Reading Process in Sentiment Analysis.
+878    %   Modeling Term Associations for Probabilistic Information Retrieval.
+879    %   Exploring the music similarity space on the web.
+880    %   Soft pattern matching models for definitional question answering.
+881    %   Encoding Syntactic Knowledge in Neural Networks for Sentiment Classification.
+882    %   Mining near-duplicate graph for cluster-based reranking of web video search results.
+883    %   On Automated Message Processing in Electronic Commerce and Work Support Systems: Speech Act Theory and Expressive Felicity.
+884    %   Enriching Documents with Examples: A Corpus Mining Approach.
+885    %   The maximum entropy approach and probabilistic IR models.
+886    %   Does a one-size recommendation system fit all? the effectiveness of collaborative filtering based recommendation systems across different domains and search modes.
+887    %   Dynamic User Modeling in Social Media Systems.
+888    %   Learning to Recommend Descriptive Tags for Questions in Social Forums.
+889    %   Studying the clustering paradox and scalability of search in highly distributed environments.
+890    %   Cumulated gain-based evaluation of IR techniques.
+891    %   Who, Where, When, and What: A Nonparametric Bayesian Approach to Context-aware Recommendation and Search for Twitter Users.
+892    %   KNET: A General Framework for Learning Word Embedding Using Morphological Knowledge.
+893    %   Deep Dependency Substructure-Based Learning for Multidocument Summarization.
+894    %   Concept-Based Information Retrieval Using Explicit Semantic Analysis.
+895    %   An intelligent approach to handling imperfect information in concept-based natural language queries.
+896    %   Behavioral dynamics on the web: Learning, modeling, and prediction.
+897    %   Indexing Word Sequences for Ranked Retrieval.
+898    %   A novel document retrieval method using the discrete wavelet transform.
+899    %   Special issue on searching speech.
+900    %   Extraction of coherent relevant passages using hidden Markov models.

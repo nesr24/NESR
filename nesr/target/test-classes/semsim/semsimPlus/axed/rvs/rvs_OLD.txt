@@ -1,0 +1,1 @@
+0 = [Cilindrata_LOW:H; Porte_5:H; PrezzoListino_LOW:M; CostoConsumoPerKm_LOW:M; Alimentazione_Benzina:H; InStock_Giacenza_HIGH:H; CostoAcquisto_HIGH:H; Interesse_HIGH:H]

@@ -1,0 +1,4 @@
+0 = [Campsite; EthnicMeal; RockConcert; Bus]
+1 = [InternationalHotel; InternationalMeal; ArtGallery; Flight]
+2 = [Pension; MediterraneanMeal; Cinema; ShoppingCenter]
+3 = [CountryResort; LightMeal; ArcheologicalSite; Museum; Train]

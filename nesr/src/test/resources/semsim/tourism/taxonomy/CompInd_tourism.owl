@@ -1,0 +1,364 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://semsim.saks.iasi.cnr.it/CompInd_tourism#"
+     xml:base="http://semsim.saks.iasi.cnr.it/CompInd_tourism"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Accommodation -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Accommodation"/>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#AlternativeAccommodation -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#AlternativeAccommodation">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#ArcheologicalSite -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#ArcheologicalSite">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Attraction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#ArtGallery -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#ArtGallery">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Salon"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Attraction -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Attraction"/>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Bazaar -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Bazaar">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Bus -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Bus">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Transportation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Campsite -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Campsite">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#AlternativeAccommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#CarRental -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#CarRental">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Transportation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Cinema -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Cinema">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Exhibition"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#ClassicalConcert -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#ClassicalConcert">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Concert"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Concert -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Concert">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Exhibition"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#CountryResort -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#CountryResort">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#CozyAccommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#CozyAccommodation -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#CozyAccommodation">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#EthnicMeal -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#EthnicMeal">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Gastronomy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Exhibition -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Exhibition">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Attraction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#FarmHouse -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#FarmHouse">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#AlternativeAccommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Flight -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Flight">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Transportation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#FrenchMeal -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#FrenchMeal">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#RegularMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Gastronomy -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Gastronomy"/>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#IndianMeal -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#IndianMeal">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#EthnicMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#InternationalHotel -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#InternationalHotel">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#RegularAccommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#InternationalMeal -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#InternationalMeal">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#RegularMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#LightMeal -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#LightMeal">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Gastronomy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#MediterraneanMeal -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#MediterraneanMeal">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#LightMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#MexicanMeal -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#MexicanMeal">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#EthnicMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Museum -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Museum">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Attraction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Pension -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Pension">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#RegularAccommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#PictureGallery -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#PictureGallery">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Salon"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#PrivateHouse -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#PrivateHouse">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#RegularAccommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#RegularAccommodation -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#RegularAccommodation">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#RegularMeal -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#RegularMeal">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Gastronomy"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#RockConcert -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#RockConcert">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Concert"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Salon -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Salon">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Attraction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#SeasideCottage -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#SeasideCottage">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#CozyAccommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Ship -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Ship">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Transportation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Shopping -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Shopping"/>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#ShoppingCenter -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#ShoppingCenter">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#ThaiMeal -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#ThaiMeal">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#EthnicMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Theatre -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Theatre">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Exhibition"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Train -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Train">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Transportation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#Transportation -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#Transportation"/>
+    
+
+
+    <!-- http://semsim.saks.iasi.cnr.it/CompInd_tourism#VegetarianMeal -->
+
+    <owl:Class rdf:about="http://semsim.saks.iasi.cnr.it/CompInd_tourism#VegetarianMeal">
+        <rdfs:subClassOf rdf:resource="http://semsim.saks.iasi.cnr.it/CompInd_tourism#LightMeal"/>
+    </owl:Class>
+</rdf:RDF>

@@ -1,0 +1,189 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>it.cnr.iasi.saks</groupId>
+  <artifactId>semrel2</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>SemRel</name>
+  <properties>
+	<artifact.jar.mainclass>it.cnr.iasi.saks.semrel.main.Main</artifact.jar.mainclass>
+<!--	<junit.version>4.13.1</junit.version> -->
+	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<maven.compiler>3.6.1</maven.compiler>
+	<maven.compiler.source>1.8</maven.compiler.source>
+	<maven.compiler.target>1.8</maven.compiler.target>
+	<maven.jar.version>3.0.0</maven.jar.version>
+	<maven.exec.version>1.6.0</maven.exec.version>
+	<slf4j.version>1.7.12</slf4j.version>
+	<jena_arq.version>3.1.1</jena_arq.version>
+	<colt.version>1.2.0</colt.version>
+  </properties>
+  <developers>
+	<developer>
+		<id>ftaglino</id>
+		<name>Francesco Taglino</name>
+	</developer>
+  </developers>
+
+<!--  
+  <scm>
+	<url>https://github.com/IASI-LEKS/bedspread.git</url>
+	<tag>HEAD</tag>
+  </scm>
+-->
+
+  <licenses>
+  	<license>
+		<name>GNU General Public License (GPL ver.3)</name>
+		<url>http://www.gnu.org/licenses/gpl.txt</url>
+	</license>
+  </licenses>
+  
+  	<dependencies>
+		<!-- https://mvnrepository.com/artifact/junit/junit -->
+<!--	<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>${junit.version}</version>
+			<scope>test</scope>
+		</dependency>
+-->	
+<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+<dependency>
+    <groupId>org.junit.jupiter</groupId>
+    <artifactId>junit-jupiter-api</artifactId>
+    <version>5.11.0</version>
+    <scope>test</scope>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.junit.platform/junit-platform-launcher -->
+<dependency>
+    <groupId>org.junit.platform</groupId>
+    <artifactId>junit-platform-launcher</artifactId>
+    <version>1.11.0</version>
+    <scope>test</scope>
+</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.jena/jena-arq -->
+		<dependency>
+			<groupId>org.apache.jena</groupId>
+			<artifactId>jena-arq</artifactId>
+			<version>${jena_arq.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<version>${slf4j.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>${slf4j.version}</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-math3 -->
+		<dependency>
+	    	<groupId>org.apache.commons</groupId>
+    		<artifactId>commons-math3</artifactId>
+    		<version>3.6.1</version>
+		</dependency>
+				
+		<!-- https://mvnrepository.com/artifact/colt/colt -->
+		<dependency>
+    		<groupId>colt</groupId>
+    		<artifactId>colt</artifactId>
+    		<version>${colt.version}</version>
+		</dependency>
+		
+		<dependency>
+		    <groupId>org.junit.vintage</groupId>
+    		<artifactId>junit-vintage-engine</artifactId>
+    		<version>5.7.0</version>
+		</dependency>
+
+		<!-- https://mvnrepository.com/artifact/org.apache.spark/spark-mllib -->
+		<dependency>
+    		<groupId>org.apache.spark</groupId>
+    		<artifactId>spark-mllib_2.12</artifactId>
+    		<version>3.1.1</version>
+    		<scope>provided</scope>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-math -->
+		<dependency>
+    		<groupId>org.apache.commons</groupId>
+    		<artifactId>commons-math</artifactId>
+    		<version>2.2</version>
+		</dependency>	
+		
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.5.10</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/edu.mit/jwi -->
+		<dependency>
+    		<groupId>edu.mit</groupId>
+    		<artifactId>jwi</artifactId>
+    		<version>2.2.3</version>
+		</dependency>
+		
+		<!-- https://mvnrepository.com/artifact/com.github.sharispe/slib-dist -->
+<!--		<dependency>
+    		<groupId>com.github.sharispe</groupId>
+		    <artifactId>slib-dist</artifactId>
+		    <version>0.9.1</version>
+		    <type>pom</type>
+		</dependency>
+-->
+  		<dependency>
+  			<groupId>it.cnr.iasi.saks</groupId>
+  			<artifactId>semrel</artifactId>
+  			<version>0.0.1-SNAPSHOT</version>
+  		</dependency>
+  	</dependencies>
+
+	<build>
+		<testResources>
+        	<testResource>
+            	<directory>${project.basedir}/src/test/resources</directory>
+        	</testResource>
+    	</testResources>
+		<finalName>${project.artifactId}</finalName>
+		<plugins>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>${maven.compiler}</version>
+				<configuration>
+					<source>${maven.compiler.source}</source>
+					<target>${maven.compiler.target}</target>
+					<encoding>${project.build.sourceEncoding}</encoding>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>${maven.jar.version}</version>
+				<configuration>
+					<archive>
+						<manifest>
+							<addClasspath>true</addClasspath>
+							<classpathPrefix>lib/</classpathPrefix>
+							<mainClass>${artifact.jar.mainclass}</mainClass>
+						</manifest>
+					</archive>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>exec-maven-plugin</artifactId>
+				<version>${maven.exec.version}</version>
+				<configuration>
+					<mainClass>it.cnr.iasi.saks.semrel.main.Main</mainClass>
+				</configuration>
+			</plugin>
+</plugins>
+</build>
+  
+</project>

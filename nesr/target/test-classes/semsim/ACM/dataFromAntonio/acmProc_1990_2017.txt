@@ -1,0 +1,1103 @@
+0	2011	Generating sound workflow views for correct provenance analysis.	Ziyang Liu/Susan B. Davidson/Yi Chen 0001
+1	2010	A survey of B-tree locking techniques.	Goetz Graefe
+2	2006	B-tree concurrency control and recovery in page-server database systems.	Ibrahim Jaluta/Seppo Sippu/Eljas Soisalon-Soininen
+3	2016	A Declarative Framework for Linking Entities.	Douglas Burdick/Ronald Fagin/Phokion G. Kolaitis/Lucian Popa/Wang-Chiew Tan
+4	2006	Maintaining stream statistics over multiscale sliding windows.	Yishan Jiao
+5	2008	On static and dynamic methods for condensation-based privacy-preserving data mining.	Charu C. Aggarwal/Philip S. Yu
+6	2014	A Scalable Lock Manager for Multicores.	Hyungsoo Jung/Hyuck Han/Alan Fekete/Gernot Heiser/Heon Young Yeom
+7	2014	k-Nearest Neighbor Search.	Ying Lu/Jiaheng Lu/Gao Cong/Wei Wu/Cyrus Shahabi
+8	2000	A cost model for query processing in high dimensional data spaces.	Christian Böhm
+9	2000	A new approach to developing and implementing eager database replication protocols.	Bettina Kemme/Gustavo Alonso
+10	2009	Serializable isolation for snapshot databases.	Michael J. Cahill/Uwe Röhm/Alan David Fekete
+11	2013	Consistent thinning of large geographical data for map visualization.	Anish Das Sarma/Hongrae Lee/Hector Gonzalez/Jayant Madhavan/Alon Y. Halevy
+12	2002	Searching in metric spaces with user-defined and approximate distances.	Paolo Ciaccia/Marco Patella
+13	2012	Revisiting answering tree pattern queries using views.	Junhu Wang/Jeffrey Xu Yu
+14	2008	Algorithms and metrics for processing multiple heterogeneous continuous queries.	Mohamed A. Sharaf/Panos K. Chrysanthis/Alexandros Labrinidis/Kirk Pruhs
+15	2005	Capturing summarizability with integrity constraints in OLAP.	Carlos A. Hurtado/Claudio Gutiérrez/Alberto O. Mendelzon
+16	2014	Finding Robust Itemsets under Subsampling.	Nikolaj Tatti/Fabian Moerchen/Toon Calders
+17	2015	Reducing Layered Database Applications to their Essence through Vertical Integration.	Kristian F. D. Rietveld/Harry A. G. Wijshoff
+18	2005	Incremental maintenance of shortest distance and transitive closure in first-order logic and SQL.	Chaoyi Pang/Guozhu Dong/Kotagiri Ramamohanarao
+19	2012	Cardinal directions between complex regions.	Markus Schneider 0001/Tao Chen/Ganesh Viswanathan/Wenjie Yuan
+20	2007	Physical design refinement: The 'merge-reduce' approach.	Nicolas Bruno/Surajit Chaudhuri
+21	2015	Editorial: Updates to the Editorial Board.	Christian S. Jensen
+22	2005	Graph indexing based on discriminative frequent structure analysis.	Xifeng Yan/Philip S. Yu/Jiawei Han 0001
+23	2014	Foreword to Invited Articles Issue.	Christian S. Jensen
+24	2017	UniAD: A Unified Ad Hoc Data Processing System.	Xiaogang Shi/Bin Cui/Gillian Dobbie/Beng Chin Ooi
+25	2016	The Exact Complexity of the First-Order Logic Definability Problem.	Marcelo Arenas/Gonzalo I. Diaz
+26	2007	Modeling and managing changes in text databases.	Panagiotis G. Ipeirotis/Alexandros Ntoulas/Junghoo Cho/Luis Gravano
+27	2013	Moving spatial keyword queries: Formulation, methods, and analysis.	Dingming Wu 0001/Man Lung Yiu/Christian S. Jensen
+28	2014	Privacy-Preserving Ad-Hoc Equi-Join on Outsourced Data.	HweeHwa Pang/Xuhua Ding
+29	2001	Flexible support for multiple access control policies.	Sushil Jajodia/Pierangela Samarati/Maria Luisa Sapino/V. S. Subrahmanian
+30	2008	Workload-aware anonymization techniques for large-scale datasets.	Kristen LeFevre/David J. DeWitt/Raghu Ramakrishnan
+31	2009	Small synopses for group-by query verification on outsourced data streams.	Ke Yi/Feifei Li 0001/Graham Cormode/Marios Hadjieleftheriou/George Kollios/Divesh Srivastava
+32	2012	Partial Evaluation for Distributed XPath Query Processing and Beyond.	Gao Cong/Wenfei Fan/Anastasios Kementsietsidis/Jianzhong Li/Xianmin Liu
+33	2014	Deletion without rebalancing in multiway search trees.	Siddhartha Sen/Robert Endre Tarjan
+34	2005	Optimization of query streams using semantic prefetching.	Ivan T. Bowman/Kenneth Salem
+35	2014	A Theory of Pricing Private Data.	Chao Li/Daniel Yang Li/Gerome Miklau/Dan Suciu
+36	2012	Proximity measures for rank join.	Davide Martinenghi/Marco Tagliasacchi
+37	1998	Information Gathering in the World-Wide Web: The W3QL Query Language and the W3QS System.	David Konopnicki/Oded Shmueli
+38	2009	Efficient reasoning about a robust XML key fragment.	Sven Hartmann/Sebastian Link
+39	2000	Temporal statement modifiers.	Michael H. Böhlen/Christian S. Jensen/Richard T. Snodgrass
+40	2008	Information preserving XML schema embedding.	Wenfei Fan/Philip Bohannon
+41	2013	Flexible and extensible preference evaluation in database systems.	Justin J. Levandoski/Ahmed Eldawy/Mohamed F. Mokbel/Mohamed E. Khalefa
+42	2006	Feature-based similarity search in graph structures.	Xifeng Yan/Feida Zhu/Philip S. Yu/Jiawei Han 0001
+43	2014	Editorial.	Christian S. Jensen
+44	2003	Iterative spatial join.	Edwin H. Jacox/Hanan Samet
+45	2004	k queries over web-accessible databases.	Amélie Marian/Nicolas Bruno/Luis Gravano
+46	2006	Adaptive pull-based policies for wide area data delivery.	Laura Bright/Avigdor Gal/Louiqa Raschid
+47	2008	Commutativity analysis for XML updates.	Giorgio Ghelli/Kristoffer Høgsbro Rose/Jérôme Siméon
+48	2008	Metric space similarity joins.	Edwin H. Jacox/Hanan Samet
+49	2008	On computing temporal aggregates with range predicates.	Donghui Zhang/Alexander Markowetz/Vassilis J. Tsotras/Dimitrios Gunopulos/Bernhard Seeger
+50	2008	Quasi-inverses of schema mappings.	Ronald Fagin/Phokion G. Kolaitis/Lucian Popa/Wang Chiew Tan
+51	1998	Conceptual Schema Analysis: Techniques and Applications.	Silvana Castano/Valeria De Antonellis/Maria Grazia Fugini/Barbara Pernici
+52	2006	Strategies for query unnesting in XML databases.	Norman May/Sven Helmer/Guido Moerkotte
+53	2017	Smart Meter Data Analytics: Systems, Algorithms, and Benchmarking.	Xiufeng Liu/Lukasz Golab/Wojciech M. Golab/Ihab F. Ilyas/Shichao Jin
+54	2015	Optimal Location Queries in Road Networks.	Zhitong Chen/Yubao Liu/Raymond Chi-Wing Wong/Jiamin Xiong/Ganglin Mai/Cheng Long
+55	2017	Approximation Algorithms for Schema-Mapping Discovery from Data Examples.	Balder ten Cate/Phokion G. Kolaitis/Kun Qian/Wang-Chiew Tan
+56	1997	Database Design with Common Sense Business Reasoning and Learning.	Veda C. Storey/Roger H. L. Chiang/Debabrata Dey/Robert C. Goldstein/Shankar Sundaresan
+57	2009	Anonymization-based attacks in privacy-preserving data publishing.	Raymond Chi-Wing Wong/Ada Wai-Chee Fu/Ke Wang/Jian Pei
+58	2000	An algebraic approach to static analysis of active database rules.	Elena Baralis/Jennifer Widom
+59	2007	NaLIX: A generic natural language search environment for XML data.	Yunyao Li/Huahai Yang/H. V. Jagadish
+60	2015	Optimizing Batch Linear Queries under Exact and Approximate Differential Privacy.	Ganzhao Yuan/Zhenjie Zhang/Marianne Winslett/Xiaokui Xiao/Yin Yang/Zhifeng Hao
+61	2016	Processing Top-k Dominating Queries in Metric Spaces.	Eleftherios Tiakas/George Valkanas/Apostolos N. Papadopoulos/Yannis Manolopoulos/Dimitrios Gunopulos
+62	2003	Index-driven similarity search in metric spaces.	Gísli R. Hjaltason/Hanan Samet
+63	2006	Probabilistic information retrieval approach for ranking of database query results.	Surajit Chaudhuri/Gautam Das/Vagelis Hristidis/Gerhard Weikum
+64	2006	Query optimization in distributed networks of autonomous database systems.	Fragkiskos Pentaris/Yannis E. Ioannidis
+65	2007	Estimating the selectivity of approximate string queries.	Arturas Mazeika/Michael H. Böhlen/Nick Koudas/Divesh Srivastava
+66	2003	Preference formulas in relational queries.	Jan Chomicki
+67	2010	Automatic virtual machine configuration for database workloads.	Ahmed A. Soror/Umar Farooq Minhas/Ashraf Aboulnaga/Kenneth Salem/Peter Kokosielis/Sunil Kamath
+68	2001	Applying an update method to a set of receivers.	Marc Andries/Luca Cabibbo/Jan Paredaens/Jan Van den Bussche
+69	2016	ENFrame: A Framework for Processing Probabilistic Data.	Dan Olteanu/Sebastiaan J. van Schaik
+70	2009	Semantics and complexity of SPARQL.	Jorge Pérez 0001/Marcelo Arenas/Claudio Gutierrez
+71	2007	Optimizing top-k queries for middleware access: A unified cost-based approach.	Seung-won Hwang/Kevin Chen-Chuan Chang
+72	2012	Entangled queries: Enabling declarative data-driven coordination.	Nitin Gupta 0003/Lucja Kot/Sudip Roy 0002/Gabriel Bender/Johannes Gehrke/Christoph Koch 0001
+73	2006	Approximation and streaming algorithms for histogram construction problems.	Sudipto Guha/Nick Koudas/Kyuseok Shim
+74	2009	Snapshot isolation and integrity constraints in replicated databases.	Yi Lin/Bettina Kemme/Ricardo Jiménez-Peris/Marta Patiño-Martínez/José Enrique Armendáriz-Iñigo
+75	2009	From XQuery to relational logics.	Michael Benedikt/Christoph Koch 0001
+76	2017	Consistent Query Answering for Self-Join-Free Conjunctive Queries Under Primary Key Constraints.	Paraschos Koutris/Jef Wijsen
+77	2001	Probabilistic temporal databases, I: algebra.	Alex Dekhtyar/Robert B. Ross/V. S. Subrahmanian
+78	2004	Strong functional dependencies and their application to normal forms in XML.	Millist W. Vincent/Jixue Liu/Chengfei Liu
+79	2007	Mining constraint violations.	Stefano Ceri/Francesco Di Giunta/Pier Luca Lanzi
+80	2015	Boosting the Quality of Approximate String Matching by Synonyms.	Jiaheng Lu/Chunbin Lin/Wei Wang 0011/Chen Li/Xiaokui Xiao
+81	2005	Composing schema mappings: Second-order dependencies to the rescue.	Ronald Fagin/Phokion G. Kolaitis/Lucian Popa/Wang Chiew Tan
+82	2004	Processing XML streams with deterministic automata and stream indexes.	Todd J. Green/Ashish Gupta 0008/Gerome Miklau/Makoto Onizuka/Dan Suciu
+83	2010	An information-theoretic analysis of worst-case redundancy in database design.	Solmaz Kolahi/Leonid Libkin
+84	2001	An extension of the relational data model to incorporate ordered domains.	Wilfred Ng
+85	2011	Query-preserving watermarking of relational databases and Xml documents.	David Gross-Amblard
+86	2011	Designing fast architecture-sensitive tree search on modern multicore/many-core processors.	Changkyu Kim/Jatin Chhugani/Nadathur Satish/Eric Sedlar/Anthony D. Nguyen/Tim Kaldewey/Victor W. Lee/Scott A. Brandt/Pradeep Dubey
+87	2012	Online subspace skyline query processing using the compressed skycube.	Tian Xia/Donghui Zhang/Zheng Fang/Cindy X. Chen/Jie Wang 0002
+88	2013	Validating XML documents in the streaming model with external memory.	Christian Konrad/Frédéric Magniez
+89	2001	A case for dynamic view management.	Yannis Kotidis/Nick Roussopoulos
+90	2005	TinyDB: an acquisitional query processing system for sensor networks.	Samuel Madden/Michael J. Franklin/Joseph M. Hellerstein/Wei Hong
+91	2014	Top-k and Clustering with Noisy Comparisons.	Susan B. Davidson/Sanjeev Khanna/Tova Milo/Sudeepa Roy
+92	2012	Foreword.	Z. Meral Özsoyoglu
+93	2004	Incremental validation of XML documents.	Andrey Balmin/Yannis Papakonstantinou/Victor Vianu
+94	2002	Searching for dependencies at multiple abstraction levels.	Toon Calders/Raymond T. Ng/Jef Wijsen
+95	2006	Integrating XML data sources using approximate joins.	Sudipto Guha/H. V. Jagadish/Nick Koudas/Divesh Srivastava/Ting Yu
+96	1997	Object Normal Forms and Dependency Constraints for Object-Oriented Schemata.	Zahir Tari/John Stokes/Stefano Spaccapietra
+97	2016	Synchronization of Queries and Views Upon Schema Evolutions: A Survey.	Loredana Caruccio/Giuseppe Polese/Genoveffa Tortora
+98	2011	Relational languages and data models for continuous queries on sequences and data streams.	Yan-Nei Law/Haixun Wang/Carlo Zaniolo
+99	2010	Continuous online index tuning in moving object databases.	Su Chen/Mario A. Nascimento/Beng Chin Ooi/Kian-Lee Tan
+100	1999	Security of Random Data Perturbation Methods.	Krishnamurty Muralidhar/Rathindra Sarathy
+101	2015	Uncertain Graph Processing through Representative Instances.	Panos Parchas/Francesco Gullo/Dimitris Papadias/Francesco Bonchi
+102	2006	k elements in data streams.	Ahmed Metwally/Divyakant Agrawal/Amr El Abbadi
+103	2001	Probabilistic object bases.	Thomas Eiter/James J. Lu/Thomas Lukasiewicz/V. S. Subrahmanian
+104	2013	A graph-theoretic approach to map conceptual designs to XML schemas.	Massimo Franceschet/Donatella Gubiani/Angelo Montanari/Carla Piazza
+105	2016	Guarded-Based Disjunctive Tuple-Generating Dependencies.	Pierre Bourhis/Marco Manna/Michael Morak/Andreas Pieris
+106	2006	Consensus on transaction commit.	Jim Gray/Leslie Lamport
+107	2010	Comments on "an integrated efficient solution for computing frequent and top-k elements in data streams".	Hongyan Liu/Xiaoyu Wang/Yinghui Yang
+108	2010	I/O efficient algorithms for serial and parallel suffix tree construction.	Amol Ghoting/Konstantin Makarychev
+109	2012	On Provenance Minimization.	Yael Amsterdamer/Daniel Deutch/Tova Milo/Val Tannen
+110	2010	Relative information completeness.	Wenfei Fan/Floris Geerts
+111	2001	Querying ATSQL databases with temporal logic.	Jan Chomicki/David Toman/Michael H. Böhlen
+112	2009	ODE: Ontology-assisted data extraction.	Weifeng Su/Jiying Wang/Frederick H. Lochovsky
+113	2011	Collaborative personalized top-k processing.	Xiao Bai 0002/Rachid Guerraoui/Anne-Marie Kermarrec/Vincent Leroy
+114	2005	Progressive skyline computation in database systems.	Dimitris Papadias/Yufei Tao/Greg Fu/Bernhard Seeger
+115	2016	Plan Bouquets: A Fragrant Approach to Robust Query Processing.	Anshuman Dutt/Jayant R. Haritsa
+116	2016	The Goal Behind the Action: Toward Goal-Aware Systems and Applications.	Dimitra Papadimitriou/Georgia Koutrika/John Mylopoulos/Yannis Velegrakis
+117	2016	Faster Random Walks by Rewiring Online Social Networks On-the-Fly.	Zhuojie Zhou/Nan Zhang 0004/Zhiguo Gong/Gautam Das
+118	2014	Maximizing Range Sum in External Memory.	Dong-Wan Choi/Chin-Wan Chung/Yufei Tao
+119	2011	A relational approach to functional decomposition of logic circuits.	Tony T. Lee/Tong Ye
+120	2014	Strong simulation: Capturing topology in graph pattern matching.	Shuai Ma/Yang Cao/Wenfei Fan/Jinpeng Huai/Tianyu Wo
+121	2007	Exporting and interactively querying Web service-accessed sources: The CLIDE System.	Michalis Petropoulos/Alin Deutsch/Yannis Papakonstantinou/Yannis Katsis
+122	2003	Spatial queries in dynamic environments.	Yufei Tao/Dimitris Papadias
+123	2013	Mergeable summaries.	Pankaj K. Agarwal/Graham Cormode/Zengfeng Huang/Jeff M. Phillips/Zhewei Wei/Ke Yi
+124	2004	Accelerating XPath evaluation in any RDBMS.	Torsten Grust/Maurice van Keulen/Jens Teubner
+125	2013	XLynx - An FPGA-based XML filter for hybrid XQuery processing.	Jens Teubner/Louis Woods/Chongling Nie
+126	2012	SCALLA: A Platform for Scalable One-Pass Analytics Using MapReduce.	Boduo Li/Edward Mazur/Yanlei Diao/Andrew McGregor 0001/Prashant J. Shenoy
+127	2012	Foster b-trees.	Goetz Graefe/Hideaki Kimura/Harumi A. Kuno
+128	1999	GlOSS: Text-Source Discovery over the Internet.	Luis Gravano/Hector Garcia-Molina/Anthony Tomasic
+129	2006	Sequencing XML data and query twigs for fast pattern matching.	Praveen Rao/Bongki Moon
+130	2015	Cost-Effective Conceptual Design for Information Extraction.	Arash Termehchy/Ali Vakilian/Yodsawalai Chodpathumwan/Marianne Winslett
+131	2010	Personalizing queries based on networks of composite preferences.	Georgia Koutrika/Yannis E. Ioannidis
+132	2009	Detecting outlying properties of exceptional objects.	Fabrizio Angiulli/Fabio Fassetti/Luigi Palopoli
+133	2005	What's hot and what's not: tracking most frequent items dynamically.	Graham Cormode/S. Muthukrishnan
+134	2005	Conditional XPath.	Maarten Marx
+135	2005	Relational languages for metadata integration.	Catharine M. Wyss/Edward L. Robertson
+136	2010	Towards a theory of search queries.	George H. L. Fletcher/Jan Van den Bussche/Dirk Van Gucht/Stijn Vansummeren
+137	2015	Technical Correspondence: "Differential Dependencies: Reasoning and Discovery" Revisited.	Millist W. Vincent/Jixue Liu/Hong-Cheu Liu/Sebastian Link
+138	2015	Efficient Processing of Skyline-Join Queries over Multiple Data Sources.	Mithila Nagendra/K. Selçuk Candan
+139	2013	Revisiting "forward node-selecting queries over trees".	James Cheney
+140	1998	An Access Control Model Supporting Periodicity Constraints and Temporal Reasoning.	Elisa Bertino/Claudio Bettini/Elena Ferrari/Pierangela Samarati
+141	2013	Observing SQL queries in their natural habitat.	Torsten Grust/Jan Rittinger
+142	2016	Scalable Atomic Visibility with RAMP Transactions.	Peter Bailis/Alan Fekete/Ali Ghodsi/Joseph M. Hellerstein/Ion Stoica
+143	1999	Distance Browsing in Spatial Databases.	Gísli R. Hjaltason/Hanan Samet
+144	2005	Advanced SQL modeling in RDBMS.	Andrew Witkowski/Srikanth Bellamkonda/Tolga Bozkaya/Nathan Folkert/Abhinav Gupta/John Haydu/Lei Sheng/Sankar Subramanian
+145	2007	Forward node-selecting queries over trees.	Dan Olteanu
+146	2008	Hierarchical synopses with optimal error guarantees.	Panagiotis Karras/Nikos Mamoulis
+147	2006	Automatic complex schema matching across Web query interfaces: A correlation mining approach.	Bin He 0001/Kevin Chen-Chuan Chang
+148	2010	Efficient and accurate nearest neighbor and closest pair search in high-dimensional space.	Yufei Tao/Ke Yi/Cheng Sheng 0001/Panos Kalnis
+149	2006	Indexing the past, present, and anticipated future positions of moving objects.	Mindaugas Pelanis/Simonas Saltenis/Christian S. Jensen
+150	2003	Analysis of predictive spatio-temporal queries.	Yufei Tao/Jimeng Sun/Dimitris Papadias
+151	2012	Maximizing Conjunctive Views in Deletion Propagation.	Benny Kimelfeld/Jan Vondrák/Ryan Williams 0001
+152	1997	An Adaptive Data Replication Algorithm.	Ouri Wolfson/Sushil Jajodia/Yixiu Huang
+153	2004	A normal form for XML documents.	Marcelo Arenas/Leonid Libkin
+154	2011	Characterizing schema mappings via data examples.	Bogdan Alexe/Balder ten Cate/Phokion G. Kolaitis/Wang Chiew Tan
+155	2010	pq-gram distance between ordered labeled trees.	Nikolaus Augsten/Michael H. Böhlen/Johann Gamper
+156	1999	An Ontological Analysis of the Relationship Construct in Conceptual Modeling.	Yair Wand/Veda C. Storey/Ron Weber
+157	2004	A compressed accessibility map for XML.	Ting Yu/Divesh Srivastava/Laks V. S. Lakshmanan/H. V. Jagadish
+158	2006	Triggers over nested views of relational data.	Feng Shao/Antal Novak/Jayavel Shanmugasundaram
+159	2007	Efficient estimation of joint queries from multiple OLAP databases.	Elaheh Pourabbas/Arie Shoshani
+160	2014	Indexing for summary queries: Theory and practice.	Ke Yi/Lu Wang/Zhewei Wei
+161	2010	Improving XML search by generating and utilizing informative result snippets.	Ziyang Liu/Yu Huang 0008/Yi Chen 0001
+162	2007	SQL query optimization through nested relational algebra.	Bin Cao/Antonio Badia
+163	2015	Efficient Computation of the Tree Edit Distance.	Mateusz Pawlik/Nikolaus Augsten
+164	2007	Query-sensitive embeddings.	Vassilis Athitsos/Marios Hadjieleftheriou/George Kollios/Stan Sclaroff
+165	2014	Query Rewriting and Optimization for Ontological Databases.	Georg Gottlob/Giorgio Orsi/Andreas Pieris
+166	2008	Introduction to the PODS 2007 special section.	Leonid Libkin
+167	2006	Topological relationships between complex spatial objects.	Markus Schneider 0001/Thomas Behr
+168	2004	Multiversion-based view maintenance over distributed data sources.	Songting Chen/Bin Liu 0005/Elke A. Rundensteiner
+169	2010	Reverse skyline search in uncertain databases.	Xiang Lian/Lei Chen 0002
+170	2016	Dichotomies for Queries with Negation in Probabilistic Databases.	Robert Fink/Dan Olteanu
+171	2002	Locally adaptive dimensionality reduction for indexing large time series databases.	Kaushik Chakrabarti/Eamonn J. Keogh/Sharad Mehrotra/Michael J. Pazzani
+172	2014	Discovering XSD Keys from XML Data.	Marcelo Arenas/Jonny Daenen/Frank Neven/Martín Ugarte/Jan Van den Bussche/Stijn Vansummeren
+173	2016	Inferring Social Strength from Spatiotemporal Data.	Huy Pham/Cyrus Shahabi/Yan Liu
+174	2003	Effective page refresh policies for Web crawlers.	Junghoo Cho/Hector Garcia-Molina
+175	2014	Pufferfish: A framework for mathematical privacy definitions.	Daniel Kifer/Ashwin Machanavajjhala
+176	2006	Expressive power of an algebra for data mining.	Toon Calders/Laks V. S. Lakshmanan/Raymond T. Ng/Jan Paredaens
+177	2008	Confidence bounds for sampling-based group by estimates.	Fei Xu/Christopher M. Jermaine/Alin Dobra
+178	2016	Capturing Missing Tuples and Missing Values.	Ting Deng/Wenfei Fan/Floris Geerts
+179	1997	Logical Design for Temporal Databases with Multiple Granularities.	Xiaoyang Sean Wang/Claudio Bettini/Alexander Brodsky/Sushil Jajodia
+180	2007	Optimized stratified sampling for approximate query processing.	Surajit Chaudhuri/Gautam Das/Vivek R. Narasayya
+181	2010	Supporting views in data stream management systems.	Thanaa M. Ghanem/Ahmed K. Elmagarmid/Per-Åke Larson/Walid G. Aref
+182	1999	Broadcast Protocols to Support Efficient Retrieval from Databases by Mobile Users.	Anindya Datta/Debra E. VanderMeer/Aslihan Celik/Vijay Kumar 0002
+183	2000	A model for compound type changes encountered in schema evolution.	Barbara Staudt Lerner
+184	2011	Bag equivalence of tree patterns.	Sara Cohen/Yaacov Y. Weiss
+185	2007	Spatial join techniques.	Edwin H. Jacox/Hanan Samet
+186	2010	Towards a logical reconstruction of a theory for locally closed databases.	Marc Denecker/Alvaro Cortés-Calabuig/Maurice Bruynooghe/Ofer Arieli
+187	2014	Domination in the Probabilistic World: Computing Skylines for Arbitrary Correlations and Ranking Semantics.	Ilaria Bartolini/Paolo Ciaccia/Marco Patella
+188	2006	Peer data exchange.	Ariel Fuxman/Phokion G. Kolaitis/Renée J. Miller/Wang Chiew Tan
+189	2003	Adaptive algorithms for set containment joins.	Sergey Melnik/Hector Garcia-Molina
+190	2017	Computational Fact Checking through Query Perturbations.	You Wu 0001/Pankaj K. Agarwal/Chengkai Li/Jun Yang/Cong Yu 0001
+191	2007	Unified framework for fast exact and approximate search in dissimilarity spaces.	Tomás Skopal
+192	1998	Safe Query Languages for Constraint Databases.	Peter Z. Revesz
+193	2008	Forensic analysis of database tampering.	Kyriacos E. Pavlou/Richard T. Snodgrass
+194	2001	SchemaSQL: An extension to SQL for multidatabase interoperability.	Laks V. S. Lakshmanan/Fereidoon Sadri/Subbu N. Subramanian
+195	2005	+-tree based indexing method for nearest neighbor search.	H. V. Jagadish/Beng Chin Ooi/Kian-Lee Tan/Cui Yu/Rui Zhang 0003
+196	2013	Generalizing database forensics.	Kyriacos E. Pavlou/Richard T. Snodgrass
+197	2012	Exploiting Web querying for Web people search.	Rabia Nuray-Turan/Dmitri V. Kalashnikov/Sharad Mehrotra
+198	2012	Determining the Currency of Data.	Wenfei Fan/Floris Geerts/Jef Wijsen
+199	2009	Incorporating constraints in probabilistic XML.	Sara Cohen/Benny Kimelfeld/Yehoshua Sagiv
+200	1998	Inverted Files Versus Signature Files for Text Indexing.	Justin Zobel/Alistair Moffat/Kotagiri Ramamohanarao
+201	2008	Repair localization for query answering from inconsistent databases.	Thomas Eiter/Michael Fink/Gianluigi Greco/Domenico Lembo
+202	2011	Instant anonymization.	Mehmet Ercan Nergiz/Acar Tamersoy/Yücel Saygin
+203	2017	DBMS Metrology: Measuring Query Time.	Sabah Currim/Richard T. Snodgrass/Young-Kyoon Suh/Rui Zhang
+204	1999	Temporal FDs on Complex Objects.	Jef Wijsen
+205	2005	Data exchange: getting to the core.	Ronald Fagin/Phokion G. Kolaitis/Lucian Popa
+206	2010	Optimal matching between spatial datasets under capacity constraints.	Leong Hou U/Kyriakos Mouratidis/Man Lung Yiu/Nikos Mamoulis
+207	2006	XSKETCH synopses for XML data graphs.	Neoklis Polyzotis/Minos N. Garofalakis
+208	2013	Incremental graph pattern matching.	Wenfei Fan/Xin Wang/Yinghui Wu
+209	1998	Safe Stratified Datalog with Integer Order Does Not Have Syntax.	Alexei P. Stolboushkin/Michael A. Taitslin
+210	2009	A framework for efficient data anonymization under privacy and accuracy constraints.	Gabriel Ghinita/Panagiotis Karras/Panos Kalnis/Nikos Mamoulis
+211	2016	SQL's Three-Valued Logic and Certain Answers.	Leonid Libkin
+212	1997	An Axiomatic Model of Dynamic Schema Evolution in Objectbase Systems.	Randal J. Peters/M. Tamer Özsu
+213	2004	Querying web metadata: Native score management and text support in databases.	Gultekin Özsoyoglu/Ismail Sengör Altingövde/Abdullah Al-Hamdani/Selma Ayse Özel/Özgür Ulusoy/Z. Meral Özsoyoglu
+214	2014	Private Analysis of Graph Structure.	Vishesh Karwa/Sofya Raskhodnikova/Adam D. Smith/Grigory Yaroslavtsev
+215	2001	Editorial.	Richard T. Snodgrass
+216	2017	Exact and Approximate Maximum Inner Product Search with LEMP.	Christina Teflioudi/Rainer Gemulla
+217	2010	Analyses of multi-level and multi-component compressed bitmap indexes.	Kesheng Wu/Arie Shoshani/Kurt Stockinger
+218	2002	Fast incremental maintenance of approximate histograms.	Phillip B. Gibbons/Yossi Matias/Viswanath Poosala
+219	2001	Data Mining with optimized two-dimensional association rules.	Takeshi Fukuda/Yasuhiko Morimoto/Shinichi Morishita/Takeshi Tokuyama
+220	1999	The SIFT Information Dissemination System.	Tak W. Yan/Hector Garcia-Molina
+221	2006	Dynamic indexing for multidimensional non-ordered discrete data spaces using a data-partitioning approach.	Gang Qian/Qiang Zhu/Qiang Xue/Sakti Pramanik
+222	2004	Extracting predicates from mining models for efficient query evaluation.	Surajit Chaudhuri/Vivek R. Narasayya/Sunita Sarawagi
+223	2012	A survey of B-tree logging and recovery techniques.	Goetz Graefe
+224	2009	The design of a query monitoring system.	Chaitanya Mishra/Nick Koudas
+225	2017	Response to "Differential Dependencies Revisited".	Shaoxu Song/Lei Chen 0002
+226	2016	Weaker Forms of Monotonicity for Declarative Networking: A More Fine-Grained Answer to the CALM-Conjecture.	Tom J. Ameloot/Bas Ketsman/Frank Neven/Daniel Zinn
+227	2012	Reordering rows for better compression: Beyond the lexicographic order.	Daniel Lemire/Owen Kaser/Eduardo Gutarra
+228	1997	Extended Ehemeral Logging: Log Storage Management for Applications with Long Lived Transactions.	John S. Keen/William J. Dally
+229	2004	Selection conditions in main memory.	Kenneth A. Ross
+230	2012	Foreword.	Z. Meral Özsoyoglu
+231	1997	ProbView: A Flexible Probabilistic Database System.	Laks V. S. Lakshmanan/Nicola Leone/Robert B. Ross/V. S. Subrahmanian
+232	2012	Attribute and object selection queries on objects with probabilistic attributes.	Rabia Nuray-Turan/Dmitri V. Kalashnikov/Sharad Mehrotra/Yaming Yu
+233	2013	ElasTraS: An elastic, scalable, and self-managing transactional database for the cloud.	Sudipto Das/Divyakant Agrawal/Amr El Abbadi
+234	2010	Incremental XPath evaluation.	Henrik Björklund/Wouter Gelade/Wim Martens
+235	1998	Supporting Valid-Time Indeterminacy.	Curtis E. Dyreson/Richard T. Snodgrass
+236	2005	Generalized multidimensional data mapping and query processing.	Rui Zhang 0003/Panos Kalnis/Beng Chin Ooi/Kian-Lee Tan
+237	2007	Inverting schema mappings.	Ronald Fagin
+238	1997	Disjunctive Datalog.	Thomas Eiter/Georg Gottlob/Heikki Mannila
+239	2012	Secure distributed computation of anonymized views of shared databases.	Tamir Tassa/Ehud Gudes
+240	2009	Keyword search over relational tables and streams.	Alexander Markowetz/Yin Yang/Dimitris Papadias
+241	1997	Transactional Client-Server Cache Consistency: Alternatives and Performance.	Michael J. Franklin/Michael J. Carey/Miron Livny
+242	2016	Generating Plans from Proofs.	Michael Benedikt/Balder ten Cate/Efthymia Tsamoura
+243	2015	Online Updates on Data Warehouses via Judicious Use of Solid-State Storage.	Manos Athanassoulis/Shimin Chen/Anastasia Ailamaki/Phillip B. Gibbons/Radu Stoica
+244	2015	Closing the Gap: Sequence Mining at Scale.	Kaustubh Beedkar/Klaus Berberich/Rainer Gemulla/Iris Miliaraki
+245	1999	Specification and Implementation of Exceptions in Workflow Management Systems.	Fabio Casati/Stefano Ceri/Stefano Paraboschi/Giuseppe Pozzi
+246	2015	Editorial: The Best of Two Worlds - Present Your TODS Paper at SIGMOD.	Christian S. Jensen
+247	2011	Path-tree: An efficient reachability indexing scheme for large directed graphs.	Ruoming Jin/Ning Ruan/Yang Xiang/Haixun Wang
+248	2008	Efficient sort-based skyline evaluation.	Ilaria Bartolini/Paolo Ciaccia/Marco Patella
+249	2016	Private and Scalable Execution of SQL Aggregates on a Secure Decentralized Architecture.	Quoc-Cuong To/Benjamin Nguyen/Philippe Pucheral
+250	2005	Database repairing using updates.	Jef Wijsen
+251	2005	Foreword.	Dan Suciu/Gerhard Weikum
+252	2009	Robust approximate aggregation in sensor data management systems.	Jeffrey Considine/Marios Hadjieleftheriou/Feifei Li 0001/John W. Byers/George Kollios
+253	2010	Optimal algorithms for evaluating rank joins in database systems.	Karl Schnaitter/Neoklis Polyzotis
+254	2001	Editorial.	Richard T. Snodgrass
+255	2011	A survey on representation, composition and application of preferences in database systems.	Kostas Stefanidis/Georgia Koutrika/Evaggelia Pitoura
+256	2007	Extended wavelets for multiple measures.	Antonios Deligiannakis/Minos N. Garofalakis/Nick Roussopoulos
+257	2014	Ontology-Based Data Access: A Study through Disjunctive Datalog, CSP, and MMSNP.	Meghyn Bienvenu/Balder ten Cate/Carsten Lutz/Frank Wolter
+258	2005	Exchanging intensional XML data.	Tova Milo/Serge Abiteboul/Bernd Amann/Omar Benjelloun/Frederic Dang Ngoc
+259	2015	Size Bounds for Factorised Representations of Query Results.	Dan Olteanu/Jakub Závodný
+260	2009	Input-sensitive scalable continuous join query processing.	Pankaj K. Agarwal/Junyi Xie/Jun Yang 0001/Hai Yu
+261	2007	A geometric approach to monitoring threshold functions over distributed data streams.	Izchak Sharfman/Assaf Schuster/Daniel Keren
+262	2004	Archiving scientific data.	Peter Buneman/Sanjeev Khanna/Keishi Tajima/Wang Chiew Tan
+263	2014	Efficient range searching for categorical and plain data.	Yakov Nekrich
+264	2003	Efficient dynamic mining of constrained frequent sets.	Laks V. S. Lakshmanan/Carson Kai-Sang Leung/Raymond T. Ng
+265	2009	Processing spatial skyline queries in both vector spaces and spatial network databases.	Mehdi Sharifzadeh/Cyrus Shahabi/Leyla Kazemi
+266	2016	Skycube Materialization Using the Topmost Skyline or Functional Dependencies.	Sofian Maabout/Carlos Ordonez/Patrick Kamnang Wanko/Nicolas Hanusse
+267	2016	Extending the Kernel of a Relational DBMS with Comprehensive Support for Sequenced Temporal Queries.	Anton Dignös/Michael H. Böhlen/Johann Gamper/Christian S. Jensen
+268	2007	Introduction to ACM SIGMOD 2006 conference papers.	Surajit Chaudhuri
+269	2015	Efficient Processing of Spatial Group Keyword Queries.	Xin Cao/Gao Cong/Tao Guo/Christian S. Jensen/Beng Chin Ooi
+270	2002	Distributed query evaluation on semistructured data.	Dan Suciu
+271	2016	Learning Join Queries from User Examples.	Angela Bonifati/Radu Ciucanu/Slawek Staworko
+272	2009	Static analysis of active XML systems.	Serge Abiteboul/Luc Segoufin/Victor Vianu
+273	2007	k aggregation of ranked inputs.	Nikos Mamoulis/Man Lung Yiu/Kit Hung Cheng/David W. Cheung
+274	2015	Analysis of Schemas with Access Restrictions.	Michael Benedikt/Pierre Bourhis/Clemens Ley
+275	2013	Optimizing XML querying using type-based document projection.	Véronique Benzaken/Giuseppe Castagna/Dario Colazzo/Kim Nguyen 0001
+276	2014	On the Complexity of Query Result Diversification.	Ting Deng/Wenfei Fan
+277	2016	Exploiting Integrity Constraints for Cleaning Trajectories of RFID-Monitored Objects.	Bettina Fazzinga/Sergio Flesca/Filippo Furfaro/Francesco Parisi
+278	2016	BEVA: An Efficient Query Processing Algorithm for Error-Tolerant Autocompletion.	Xiaoling Zhou/Jianbin Qin/Chuan Xiao/Wei Wang 0011/Xuemin Lin/Yoshiharu Ishikawa
+279	2014	Extending string similarity join to tolerant fuzzy token matching.	Jiannan Wang/Guoliang Li/Jianhua Feng
+280	2008	k and ranking-aggregate queries.	Mohamed A. Soliman/Ihab F. Ilyas/Kevin Chen-Chuan Chang
+281	2010	Encryption policies for regulating access to outsourced data.	Sabrina De Capitani di Vimercati/Sara Foresti/Sushil Jajodia/Stefano Paraboschi/Pierangela Samarati
+282	2011	Design and analysis of a ranking approach to private location-based services.	Man Lung Yiu/Christian S. Jensen/Jesper Møller/Hua Lu
+283	2006	Optimizing bitmap indices with efficient compression.	Kesheng Wu/Ekow J. Otoo/Arie Shoshani
+284	2002	Atomicity and isolation for transactional processes.	Heiko Schuldt/Gustavo Alonso/Catriel Beeri/Hans-Jörg Schek
+285	2001	I/O reference behavior of production database workloads and the TPC benchmarks - an analysis at the logical level.	Windsor W. Hsu/Alan Jay Smith/Honesty C. Young
+286	2011	Output privacy in data mining.	Ting Wang/Ling Liu
+287	2011	Querying XML data sources that export very large sets of views.	Bogdan Cautis/Alin Deutsch/Nicola Onose/Vasilis Vassalos
+288	2011	Capturing continuous data and answering aggregate queries in probabilistic XML.	Serge Abiteboul/T.-H. Hubert Chan/Evgeny Kharlamov/Werner Nutt/Pierre Senellart
+289	2014	Fast Distributed Transactions and Strongly Consistent Replication for OLTP Database Systems.	Alexander Thomson/Thaddeus Diamond/Shu-Chun Weng/Kun Ren/Philip Shao/Daniel J. Abadi
+290	2012	Understanding cardinality estimation using entropy maximization.	Christopher Ré/Dan Suciu
+291	2008	Efficient online index construction for text databases.	Nicholas Lester/Alistair Moffat/Justin Zobel
+292	2012	Certain conjunctive query answering in first-order logic.	Jef Wijsen
+293	2005	Aggregate nearest neighbor queries in spatial databases.	Dimitris Papadias/Yufei Tao/Kyriakos Mouratidis/Chun Kit Hui
+294	2007	Multi-resolution bitmap indexes for scientific data.	Rishi Rakesh Sinha/Marianne Winslett
+295	2000	A foundation for representing and querying moving objects.	Ralf Hartmut Güting/Michael H. Böhlen/Martin Erwig/Christian S. Jensen/Nikos A. Lorentzos/Markus Schneider 0001/Michalis Vazirgiannis
+296	2004	Foreword.	Phokion G. Kolaitis/Michael J. Franklin
+297	2014	Optimality of Clustering Properties of Space-Filling Curves.	Pan Xu/Srikanta Tirthapura
+298	2008	Authority-based keyword search in databases.	Vagelis Hristidis/Heasoo Hwang/Yannis Papakonstantinou
+299	2006	The role of domain ontologies in database design: An ontology management and conceptual modeling environment.	Vijayan Sugumaran/Veda C. Storey
+300	2004	Probabilistic wavelet synopses.	Minos N. Garofalakis/Phillip B. Gibbons
+301	2017	Outlier Detection over Massive-Scale Trajectory Streams.	Yanwei Yu/Lei Cao/Elke A. Rundensteiner/Qin Wang
+302	2008	Expressiveness and complexity of XML publishing transducers.	Wenfei Fan/Floris Geerts/Frank Neven
+303	2000	Cache investment: integrating query optimization and distributed data placement.	Donald Kossmann/Michael J. Franklin/Gerhard Drasch
+304	2003	Removing permissions in the flexible authorization framework.	Duminda Wijesekera/Sushil Jajodia/Francesco Parisi-Presicce/Åsa Hagström
+305	2006	Representing and querying XML with incomplete information.	Serge Abiteboul/Luc Segoufin/Victor Vianu
+306	2011	Foreword to TODS invited papers issue 2011.	Z. Meral Özsoyoglu
+307	2006	A divide-and-merge methodology for clustering.	David Cheng/Ravi Kannan/Santosh Vempala/Grant Wang
+308	2011	Asymptotically efficient algorithms for skyline probabilities of uncertain data.	Mikhail J. Atallah/Yinian Qi/Hao Yuan
+309	2017	Exact Model Counting of Query Expressions: Limitations of Propositional Methods.	Paul Beame/Jerry Li 0001/Sudeepa Roy/Dan Suciu
+310	2010	Transparent anonymization: Thwarting adversaries who know the algorithm.	Xiaokui Xiao/Yufei Tao/Nick Koudas
+311	2016	Sloth: Being Lazy Is a Virtue (When Issuing Database Queries).	Alvin Cheung/Samuel Madden/Armando Solar-Lezama
+312	2004	Essential classification rule sets.	Elena Baralis/Silvia Chiusano
+313	2005	Example): A visual interface to the standard XML query language.	Daniele Braga/Alessandro Campi/Stefano Ceri
+314	1999	Type-Checking OQL Queries In the ODMG Type Systems.	Suad Alagic
+315	2008	Sketches for size of join estimation.	Florin Rusu/Alin Dobra
+316	2001	Answering queries with useful bindings.	Chen Li 0001/Edward Y. Chang
+317	2009	Semantics and implementation of continuous sliding window queries over data streams.	Jürgen Krämer/Bernhard Seeger
+318	2013	Algebraic incremental maintenance of XML views.	Angela Bonifati/Martin Hugh Goodfellow/Ioana Manolescu/Domenica Sileo
+319	2012	Finding Alternative Shortest Paths in Spatial Networks.	Kexin Xie/Ke Deng/Shuo Shang/Xiaofang Zhou/Kai Zheng
+320	2014	Distributed Geometric Query Monitoring Using Prediction Models.	Nikos Giatrakos/Antonios Deligiannakis/Minos N. Garofalakis/Izchak Sharfman/Assaf Schuster
+321	2016	Monadic Datalog and Regular Tree Pattern Queries.	Filip Mazowiecki/Filip Murlak/Adam Witkowski
+322	2012	Comparing workflow specification languages: A matter of views.	Serge Abiteboul/Pierre Bourhis/Victor Vianu
+323	2006	Summarizing level-two topological relations in large spatial datasets.	Xuemin Lin/Qing Liu/Yidong Yuan/Xiaofang Zhou/Hongjun Lu
+324	2007	Editorial: Single- versus double-blind reviewing.	Richard T. Snodgrass
+325	1997	On the Semantics of "Now" in Databases	James Clifford/Curtis E. Dyreson/Tomás Isakowitz/Christian S. Jensen/Richard T. Snodgrass
+326	2010	Views and queries: Determinacy and rewriting.	Alan Nash/Luc Segoufin/Victor Vianu
+327	2013	A partition-based method for string similarity joins with edit-distance constraints.	Guoliang Li/Dong Deng/Jianhua Feng
+328	2013	Foreword to invited papers issue.	Z. Meral Özsoyoglu
+329	1998	Multiview Access Protocols for Large-Scale Replication.	Xiangning Liu/Abdelsalam Helal/Weimin Du
+330	2012	Exact and approximate algorithms for the most connected vertex problem.	Cheng Sheng 0001/Yufei Tao/Jianzhong Li
+331	2011	Closed world data exchange.	André Hernich/Leonid Libkin/Nicole Schweikardt
+332	2013	Static analysis and optimization of semantic web queries.	Andrés Letelier/Jorge Pérez 0001/Reinhard Pichler/Sebastian Skritek
+333	2007	Range search on multidimensional uncertain data.	Yufei Tao/Xiaokui Xiao/Reynold Cheng
+334	2003	Description logics for semantic query optimization in object-oriented database systems.	Domenico Beneventano/Sonia Bergamaschi/Claudio Sartori 0001
+335	2013	Collaborative data sharing via update exchange and provenance.	Grigoris Karvounarakis/Todd J. Green/Zachary G. Ives/Val Tannen
+336	2005	Tight upper bounds on the number of candidate patterns.	Floris Geerts/Bart Goethals/Jan Van den Bussche
+337	2007	Introduction to the PODS 2006 special section.	Jan Van den Bussche
+338	2006	Improving instruction cache performance in OLTP.	Stavros Harizopoulos/Anastassia Ailamaki
+339	1997	Adaptive, Fine-Grained Sharing in a Client-Server OODBMS: A Callback-Based Approach.	Markos Zaharioudakis/Michael J. Carey/Michael J. Franklin
+340	2007	An adaptive packed-memory array.	Michael A. Bender/Haodong Hu
+341	2008	Estimating statistical aggregates on probabilistic data streams.	T. S. Jayram/Andrew McGregor 0001/S. Muthukrishnan/Erik Vee
+342	2006	Towards multidimensional subspace skyline analysis.	Jian Pei/Yidong Yuan/Xuemin Lin/Wen Jin/Martin Ester/Qing Liu/Wei Wang 0011/Yufei Tao/Jeffrey Xu Yu/Qing Zhang
+343	2016	The Complexity of Learning Tree Patterns from Example Graphs.	Sara Cohen/Yaacov Y. Weiss
+344	2005	Self-tuning cost modeling of user-defined functions in an object-relational DBMS.	Zhen He/Byung Suk Lee/Robert R. Snapp
+345	2013	Almost-linear inclusion for XML regular expression types.	Dario Colazzo/Giorgio Ghelli/Luca Pardini/Carlo Sartiani
+346	2012	Shared execution strategy for neighbor-based pattern mining requests over streaming windows.	Di Yang/Elke A. Rundensteiner/Matthew O. Ward
+347	1999	Optimization of Queries with User-Defined Predicates.	Surajit Chaudhuri/Kyuseok Shim
+348	2003	Path sharing and predicate evaluation for high-performance XML filtering.	Yanlei Diao/Mehmet Altinel/Michael J. Franklin/Hao Zhang/Peter M. Fischer 0001
+349	2012	Efficient reasoning about data trees via integer linear programming.	Claire David/Leonid Libkin/Tony Tan
+350	2009	TuG synopses for approximate query answering.	Joshua Spiegel/Neoklis Polyzotis
+351	2005	XML stream processing using tree-edit distance embeddings.	Minos N. Garofalakis/Amit Kumar 0001
+352	2010	Querying and repairing inconsistent numerical databases.	Sergio Flesca/Filippo Furfaro/Francesco Parisi
+353	2005	Making snapshot isolation serializable.	Alan Fekete/Dimitrios Liarokapis/Elizabeth J. O'Neil/Patrick E. O'Neil/Dennis E. Shasha
+354	2002	SilkRoute: A framework for publishing relational data in XML.	Mary F. Fernandez/Yana Kadiyska/Dan Suciu/Atsuyuki Morishima/Wang Chiew Tan
+355	2016	Declarative Cleaning of Inconsistencies in Information Extraction.	Ronald Fagin/Benny Kimelfeld/Frederick Reiss/Stijn Vansummeren
+356	2008	Compiling mappings to bridge applications and databases.	Sergey Melnik/Atul Adya/Philip A. Bernstein
+357	2013	RFID-data compression for supporting aggregate queries.	Bettina Fazzinga/Sergio Flesca/Filippo Furfaro/Elio Masciari
+358	2017	An Indexing Framework for Queries on Probabilistic Graphs.	Silviu Maniu/Reynold Cheng/Pierre Senellart
+359	2006	PATAXÓ: A framework to allow updates through XML views.	Vanessa P. Braganholo/Susan B. Davidson/Carlos A. Heuser
+360	2006	Expressiveness and complexity of XML Schema.	Wim Martens/Frank Neven/Thomas Schwentick/Geert Jan Bex
+361	1998	Ensuring Consistency in Multidatabases by Preserving Two-Level Serializability.	Sharad Mehrotra/Rajeev Rastogi/Henry F. Korth/Abraham Silberschatz
+362	2017	Editorial: Updates to the Editorial Board.	Christian S. Jensen
+363	2006	The Sort-Merge-Shrink join.	Chris Jermaine/Alin Dobra/Subramanian Arumugam/Shantanu Joshi 0001/Abhijit Pol
+364	2014	Sharing across Multiple MapReduce Jobs.	Tomasz Nykiel/Michalis Potamias/Chaitanya Mishra/George Kollios/Nick Koudas
+365	2000	Theory of dependence values.	Rosa Meo
+366	2017	COMPRESS: A Comprehensive Framework of Trajectory Compression in Road Networks.	Yunheng Han/Weiwei Sun/Baihua Zheng
+367	2007	Introduction to the EDBT 2006 special section.	Yannis E. Ioannidis
+368	2004	Proxy-based acceleration of dynamically generated content on the world wide web: An approach and implementation.	Anindya Datta/Kaushik Dutta/Helen M. Thomas/Debra E. VanderMeer/Krithi Ramamritham
+369	2013	The complexity of regular expressions and property paths in SPARQL.	Katja Losemann/Wim Martens
+370	2016	Editorial: The Dark Citations of TODS Papers and What to Do about It - or: Cite the Journal Paper.	Christian S. Jensen
+371	1999	Database Design for Incomplete Relations.	Mark Levene/George Loizou
+372	2012	The implication problem of data dependencies over SQL table definitions: Axiomatic, algorithmic and logical characterizations.	Sven Hartmann/Sebastian Link
+373	2000	Optimizing object queries using an effective calculus.	Leonidas Fegaras/David Maier
+374	2002	A logical foundation for deductive object-oriented databases.	Mengchi Liu/Gillian Dobbie/Tok Wang Ling
+375	1998	Towards a Theory of Cost Management for Digital Libraries and Electronic Commerce.	A. Prasad Sistla/Ouri Wolfson/Yelena Yesha/Robert H. Sloan
+376	2016	Bounded Repairability for Regular Tree Languages.	Pierre Bourhis/Gabriele Puppis/Cristian Riveros/Slawek Staworko
+377	2005	RS - a highly-available scalable distributed data structure.	Witold Litwin/Rim Moussa/Thomas J. E. Schwarz
+378	2016	B-Trees and Cache-Oblivious B-Trees with Different-Sized Atomic Keys.	Michael A. Bender/Roozbeh Ebrahimi/Haodong Hu/Bradley C. Kuszmaul
+379	2003	A simple algorithm for finding frequent elements in streams and bags.	Richard M. Karp/Scott Shenker/Christos H. Papadimitriou
+380	2009	Relational query coprocessing on graphics processors.	Bingsheng He/Mian Lu/Ke Yang/Rui Fang/Naga K. Govindaraju/Qiong Luo/Pedro V. Sander
+381	2013	Top-k diversity queries over bounded regions.	Ilio Catallo/Eleonora Ciceri/Piero Fraternali/Davide Martinenghi/Marco Tagliasacchi
+382	2008	Fault-tolerance in the borealis distributed stream processing system.	Magdalena Balazinska/Hari Balakrishnan/Samuel Madden/Michael Stonebraker
+383	2010	Inference of concise regular expressions and DTDs.	Geert Jan Bex/Frank Neven/Thomas Schwentick/Stijn Vansummeren
+384	1997	Outerjoin Simplification and Reordering for Query Optimization.	César A. Galindo-Legaria/Arnon Rosenthal
+385	2013	Analysis and optimization for boolean expression indexing.	Mohammad Sadoghi/Hans-Arno Jacobsen
+386	2012	Worst-Case I/O-Efficient Skyline Algorithms.	Cheng Sheng 0001/Yufei Tao
+387	2014	Mining order-preserving submatrices from probabilistic matrices.	Qiong Fang/Wilfred Ng/Jianlin Feng/Yuliang Li
+388	1998	Optimization Techniques for Queries with Expensive Methods.	Joseph M. Hellerstein
+389	2003	On the computation of relational view complements.	Jens Lechtenbörger/Gottfried Vossen
+390	2015	SCANRAW: A Database Meta-Operator for Parallel In-Situ Processing and Loading.	Yu Cheng/Florin Rusu
+391	2009	Efficient query processing on graph databases.	James Cheng/Yiping Ke/Wilfred Ng
+392	2008	Approximate continuous querying over distributed streams.	Graham Cormode/Minos N. Garofalakis
+393	2011	Differential dependencies: Reasoning and discovery.	Shaoxu Song/Lei Chen 0002
+394	2016	Editorial: Updates to the Editorial Board.	Christian S. Jensen
+395	2005	Efficient algorithms for processing XPath queries.	Georg Gottlob/Christoph Koch 0001/Reinhard Pichler
+396	2014	Naïve Evaluation of Queries over Incomplete Databases.	Amélie Gheerbrant/Leonid Libkin/Cristina Sirangelo
+397	2002	Cost models for overlapping and multiversion structures.	Yufei Tao/Dimitris Papadias/Jun Zhang 0005
+398	2004	k-constraints to reduce memory overhead in continuous queries over data streams.	Shivnath Babu/Utkarsh Srivastava/Jennifer Widom
+399	2016	Negative Factor: Improving Regular-Expression Matching in Strings.	Xiaochun Yang/Tao Qiu/Bin Wang/Baihua Zheng/Yaoshu Wang/Chen Li 0001
+400	1998	An Efficient Method for Checking Object-Oriented Database Schema Correctness.	Anna Formica/Hans Dietmar Gröger/Michele Missikoff
+401	2001	Multiway spatial joins.	Nikos Mamoulis/Dimitris Papadias
+402	2016	Joins via Geometric Resolutions: Worst Case and Beyond.	Mahmoud Abo Khamis/Hung Q. Ngo 0001/Christopher Ré/Atri Rudra
+403	2013	High-level change detection in RDF(S) KBs.	Vicky Papavasileiou/Giorgos Flouris/Irini Fundulaki/Dimitris Kotzinos/Vassilis Christophides
+404	2016	Materialization Optimizations for Feature Selection Workloads.	Ce Zhang/Arun Kumar/Christopher Ré
+405	2005	Wavelet synopses for general error metrics.	Minos N. Garofalakis/Amit Kumar 0001
+406	2000	Emancipating instances from the tyranny of classes in information modeling.	Jeffrey Parsons/Yair Wand
+407	2014	Lightweight Query Authentication on Streams.	Stavros Papadopoulos/Graham Cormode/Antonios Deligiannakis/Minos N. Garofalakis
+408	2014	Oblivious bounds on the probability of boolean functions.	Wolfgang Gatterbauer/Dan Suciu
+409	2016	Building a Hybrid Warehouse: Efficient Joins between Data Stored in HDFS and Enterprise Warehouse.	Yuanyuan Tian/Fatma Özcan/Tao Zou/Romulo Goncalves/Hamid Pirahesh
+410	2014	Robust Distributed Query Processing for Streaming Data.	Chuan Lei/Elke A. Rundensteiner
+411	2015	Time- and Space-Efficient Sliding Window Top-k Query Processing.	Kresimir Pripuzic/Ivana Podnar Zarko/Karl Aberer
+412	2013	Schema matching and embedded value mapping for databases with opaque column names and mixed continuous and discrete-valued data fields.	Anuj R. Jaiswal/David J. Miller 0001/Prasenjit Mitra
+413	2011	Reverse data exchange: Coping with nulls.	Ronald Fagin/Phokion G. Kolaitis/Lucian Popa/Wang Chiew Tan
+414	2006	Foreword to special section on SIGMOD/PODS 2005.	Foto N. Afrati/Jennifer Widom
+415	2011	Finding maximal cliques in massive networks.	James Cheng/Yiping Ke/Ada Wai-Chee Fu/Jeffrey Xu Yu/Linhong Zhu
+416	2012	Differentiating search results on structured data.	Ziyang Liu/Yi Chen 0001
+417	2003	Discovering all most specific sentences.	Dimitrios Gunopulos/Roni Khardon/Heikki Mannila/Sanjeev Saluja/Hannu Toivonen/Ram Sewak Sharm
+418	2012	Stochastic skylines.	Wenjie Zhang/Xuemin Lin/Ying Zhang/Muhammad Aamir Cheema/Qing Zhang
+419	2004	Characterizing memory requirements for queries over continuous data streams.	Arvind Arasu/Brian Babcock/Shivnath Babu/Jon McAlister/Jennifer Widom
+420	2002	Understanding the global semantics of referential actions using logic rules.	Wolfgang May/Bertram Ludäscher
+421	2010	Return specification inference and result clustering for keyword search on XML.	Ziyang Liu/Yi Chen 0001
+422	2011	The monte carlo database system: Stochastic analysis close to the data.	Ravi Jampani/Fei Xu/Mingxi Wu/Luis Leopoldo Perez/Chris Jermaine/Peter J. Haas
+423	2007	Composition of mappings given by embedded dependencies.	Alan Nash/Philip A. Bernstein/Sergey Melnik
+424	2008	Introduction to ACM SIGMOD 2007 special section.	Beng Chin Ooi
+425	2011	Embedding-based subsequence matching in time-series databases.	Panagiotis Papapetrou/Vassilis Athitsos/Michalis Potamias/George Kollios/Dimitrios Gunopulos
+426	2011	Efficient similarity joins for near-duplicate detection.	Chuan Xiao/Wei Wang 0011/Xuemin Lin/Jeffrey Xu Yu/Guoren Wang
+427	2012	Expressive Languages for Path Queries over Graph-Structured Data.	Pablo Barceló/Leonid Libkin/Anthony Widjaja Lin/Peter T. Wood
+428	2000	Tracing the lineage of view data in a warehousing environment.	Yingwei Cui/Jennifer Widom/Janet L. Wiener
+429	2007	Towards a query optimizer for text-centric tasks.	Panagiotis G. Ipeirotis/Eugene Agichtein/Pranay Jain/Luis Gravano
+430	2011	The data cyclotron query processing scheme.	Romulo Goncalves/Martin L. Kersten
+431	2006	On the complexity of nonrecursive XQuery and functional query languages on complex values.	Christoph Koch 0001
+432	2006	Introduction to special ICDT section.	Thomas Eiter/Leonid Libkin
+433	2006	Domain-independent data cleaning via analysis of entity-relationship graph.	Dmitri V. Kalashnikov/Sharad Mehrotra
+434	2004	Expressing and optimizing sequence queries in database systems.	Reza Sadri/Carlo Zaniolo/Amir M. Zarkesh/Jafar Adibi
+435	2004	Decoupling partitioning and grouping: Overcoming shortcomings of spatial indexing with bucketing.	Hanan Samet
+436	2005	Concise descriptions of subsets of structured sets.	Ken Q. Pu/Alberto O. Mendelzon
+437	2011	Using structural information in XML keyword search effectively.	Arash Termehchy/Marianne Winslett
+438	2015	Multiple Radii DisC Diversity: Result Diversification Based on Dissimilarity and Coverage.	Marina Drosou/Evaggelia Pitoura
+439	2015	Workload-Driven Antijoin Cardinality Estimation.	Florin Rusu/Zixuan Zhuang/Mingxi Wu/Chris Jermaine
+440	2016	Random Walk with Restart on Large Graphs Using Block Elimination.	Jinhong Jung/Kijung Shin/Lee Sael/U. Kang
+441	2014	The Complexity of Mining Maximal Frequent Subgraphs.	Benny Kimelfeld/Phokion G. Kolaitis
+442	2008	Scalable approximate query processing with the DBO engine.	Chris Jermaine/Subramanian Arumugam/Abhijit Pol/Alin Dobra
+443	2010	Privacy-aware location data publishing.	Haibo Hu/Jianliang Xu/Sai Tung On/Jing Du/Joseph Kee-Yin Ng
+444	2012	Artifact systems with data dependencies and arithmetic.	Elio Damaggio/Alin Deutsch/Victor Vianu
+445	1997	Applying Formal Methods to Semantic-Based Decomposition of Transactions.	Paul Ammann/Sushil Jajodia/Indrakshi Ray
+446	2006	K-nn and spatial join queries on continuously moving points.	Glenn Simmons Iwerks/Hanan Samet/Kenneth P. Smith
+447	2006	Theory of nearest neighbors indexability.	Uri Shaft/Raghu Ramakrishnan
+448	2007	Improving hash join performance through prefetching.	Shimin Chen/Anastassia Ailamaki/Phillip B. Gibbons/Todd C. Mowry
+449	2003	Are quorums an alternative for data replication?	Ricardo Jiménez-Peris/Marta Patiño-Martínez/Gustavo Alonso/Bettina Kemme
+450	2008	Cache-oblivious databases: Limitations and opportunities.	Bingsheng He/Qiong Luo
+451	2009	A quality-aware optimizer for information extraction.	Alpa Jain/Panagiotis G. Ipeirotis
+452	2009	Foreword to TODS SIGMOD/PODS 2008 special issue.	Dennis E. Shasha/Maurizio Lenzerini/Z. Meral Özsoyoglu
+453	2010	Foreword to TODS invited papers issue.	Z. Meral Özsoyoglu
+454	2005	XSQ: A streaming XPath engine.	Feng Peng/Sudarshan S. Chawathe
+455	1999	Indexing Large Metric Spaces for Similarity Search Queries.	Tolga Bozkaya/Z. Meral Özsoyoglu
+456	2008	Correlated pattern mining in quantitative databases.	Yiping Ke/James Cheng/Wilfred Ng
+457	2008	On the expressiveness of implicit provenance in query and update languages.	Peter Buneman/James Cheney/Stijn Vansummeren
+458	2015	Deciding Determinism with Fairness for Simple Transducer Networks.	Tom J. Ameloot
+459	2014	Classification of annotation semirings over containment of conjunctive queries.	Egor V. Kostylev/Juan L. Reutter/András Z. Salamon
+460	2002	Top-k selection queries over relational databases: Mapping strategies and performance evaluation.	Nicolas Bruno/Surajit Chaudhuri/Luis Gravano
+461	2013	Asymmetric signature schemes for efficient exact edit similarity query processing.	Jianbin Qin/Wei Wang 0011/Chuan Xiao/Yifei Lu/Xuemin Lin/Haixun Wang
+462	1999	Improving Database Design Through the Analysis of Relationships.	Debabrata Dey/Veda C. Storey/Terence M. Barron
+463	2013	High-performance complex event processing over hierarchical data.	Barzan Mozafari/Kai Zeng/Loris D'Antoni/Carlo Zaniolo
+464	2007	Out-of-core coherent closed quasi-clique mining from large dense graph databases.	Zhiping Zeng/Jianyong Wang/Lizhu Zhou/George Karypis
+465	2007	Pseudo-random number generation for sketch-based estimations.	Florin Rusu/Alin Dobra
+466	2008	Introduction to ICDT 2007 special section.	Thomas Schwentick/Dan Suciu
+467	2006	Adaptive rank-aware query optimization in relational databases.	Ihab F. Ilyas/Walid G. Aref/Ahmed K. Elmagarmid/Hicham G. Elmongui/Rahul Shah/Jeffrey Scott Vitter
+468	2004	Managing uncertainty in moving objects databases.	Goce Trajcevski/Ouri Wolfson/Klaus H. Hinrichs/Sam Chamberlain
+469	2013	Learning schema mappings.	Balder ten Cate/Víctor Dalmau/Phokion G. Kolaitis
+470	2000	Iterative dynamic programming: a new class of query optimization algorithms.	Donald Kossmann/Konrad Stocker
+471	2009	Casper*: Query processing for location services without compromising privacy.	Chi-Yin Chow/Mohamed F. Mokbel/Walid G. Aref
+472	2014	I/O-Efficient Algorithms on Triangle Listing and Counting.	Xiaocheng Hu/Yufei Tao/Chin-Wan Chung
+473	2005	Synopses for query optimization: A space-complexity perspective.	Raghav Kaushik/Jeffrey F. Naughton/Raghu Ramakrishnan/Venkatesan T. Chakaravarthy
+474	2010	Space-optimal heavy hitters with strong error bounds.	Radu Berinde/Piotr Indyk/Graham Cormode/Martin J. Strauss
+475	2014	Towards a Painless Index for Spatial Objects.	Rui Zhang 0003/Jianzhong Qi/Martin Stradling/Jin Huang
+476	2008	Conditional functional dependencies for capturing data inconsistencies.	Wenfei Fan/Floris Geerts/Xibei Jia/Anastasios Kementsietsidis
+477	2004	A declarative approach to optimize bulk loading into databases.	Sihem Amer-Yahia/Sophie Cluet
+478	2010	An architecture for recycling intermediates in a column-store.	Milena Ivanova/Martin L. Kersten/Niels J. Nes/Romulo Goncalves
+479	2014	A Join-Like Operator to Combine Data Cubes and Answer Queries from Multiple Data Cubes.	Francesco M. Malvestuto
+480	2011	Continuous nearest-neighbor search in the presence of obstacles.	Yunjun Gao/Baihua Zheng/Gang Chen 0001/Chun Chen/Qing Li
+481	2006	Rewriting queries with arbitrary aggregation functions using views.	Sara Cohen/Werner Nutt/Yehoshua Sagiv
+482	2012	WHAM: A High-Throughput Sequence Alignment Method.	Yinan Li/Jignesh M. Patel/Allison Terrell
+483	2008	Foreword to TODS SIGMOD/PODS/ICDT 2007 special issue.	Z. Meral Özsoyoglu
+484	2009	The recovery of a schema mapping: Bringing exchanged data back.	Marcelo Arenas/Jorge Pérez 0001/Cristian Riveros
+485	2017	Fast and Accurate Time-Series Clustering.	John Paparrizos/Luis Gravano
+486	2002	A semantic network-based design methodology for XML documents.	Ling Feng/Elizabeth Chang/Tharam S. Dillon
+487	2004	Anchor text mining for translation of Web queries: A transitive translation approach.	Wen-Hsiang Lu/Lee-Feng Chien/Hsi-Jian Lee
+488	2016	Fast Ranking with Additive Ensembles of Oblivious and Non-Oblivious Regression Trees.	Domenico Dato/Claudio Lucchese/Franco Maria Nardini/Salvatore Orlando/Raffaele Perego/Nicola Tonellotto/Rossano Venturini
+489	2015	Induced Sorting Suffixes in External Memory.	Ge Nong/Wai Hong Chan/Sheng Qing Hu/Yi Wu 0011
+490	2003	Exploiting hierarchical domain structure to compute similarity.	Prasanna Ganesan/Hector Garcia-Molina/Jennifer Widom
+491	2003	The use of dynamic context to improve casual internet searching.	Gondy Leroy/Ann M. Lally/Hsinchun Chen
+492	2012	Peer-to-Peer Information Retrieval: An Overview.	Almer S. Tigelaar/Djoerd Hiemstra/Dolf Trieschnigg
+493	2003	Coverage, relevance, and ranking: The impact of query operators on Web search engine results.	Caroline M. Eastman/Bernard J. Jansen
+494	2016	Diversifying Query Auto-Completion.	Fei Cai/Ridho Reinanda/Maarten de Rijke
+495	2015	Web Query Reformulation via Joint Modeling of Latent Topic Dependency and Term Context.	Lidong Bing/Wai Lam/Tak-Lam Wong/Shoaib Jameel
+496	2004	Relevance models to help estimate document and query parameters.	David Bodoff
+497	2006	Preparing heterogeneous XML for full-text search.	Miro Lehtonen
+498	1999	The impact on retrieval effectiveness of skewed frequency distributions.	Mark Sanderson/C. J. van Rijsbergen
+499	2007	Adaptive hypermedia through contextualized open hypermedia structures.	Christopher Bailey/Wendy Hall/David E. Millard/Mark J. Weal
+500	2007	An empirical investigation of user term feedback in text-based targeted image search.	Joyce Y. Chai/Chen Zhang/Rong Jin
+501	2003	MEGA - the maximizing expected generalization algorithm for learning complex query concepts.	Edward Y. Chang/Beitao Li
+502	1999	Context-Sensitive Learning Methods for Text Categorization.	William W. Cohen/Yoram Singer
+503	2013	Regularized Latent Semantic Indexing: A New Approach to Large-Scale Topic Modeling.	Quan Wang/Jun Xu 0001/Hang Li/Nick Craswell
+504	2010	Extraction, characterization and utility of prototypical communication groups in the blogosphere.	Munmun De Choudhury/Hari Sundaram/Ajita John/Dorée Duncan Seligmann
+505	2012	Oracle in Image Search: A Content-Based Approach to Performance Prediction.	Liqiang Nie/Meng Wang/Zheng-Jun Zha/Tat-Seng Chua
+506	2011	Upper-bound approximations for dynamic pruning.	Craig Macdonald/Iadh Ounis/Nicola Tonellotto
+507	2001	On the design of a learning crawler for topical resource discovery.	Charu C. Aggarwal/Fatima Al-Garawi/Philip S. Yu
+508	2006	A system for the static analysis of XPath.	Pierre Genevès/Nabil Layaïda
+509	1997	Making a Digital Library: The Contents of the CORE Project.	Richard Entlich/Lorrin Garson/Michael Lesk/Lorraine Normore/Jan Olsen/Stuart Weibel
+510	1998	Evaluation of an Algorithm for Finding a Match of a Distorted Texture Pattern in a Large Image Database.	Nenad Vujovic/Dragana Brzakovic
+511	2011	Identifying, Indexing, and Ranking Chemical Formulae and Chemical Names in Digital Documents.	Bingjun Sun/Prasenjit Mitra/C. Lee Giles/Karl T. Mueller
+512	2016	The Effects of Aggregated Search Coherence on Search Behavior.	Jaime Arguello/Robert Capra
+513	2013	Approximate Recall Confidence Intervals.	William Webber
+514	2007	Frequency-based identification of correct translation equivalents (FITE) obtained through transformation rules.	Ari Pirkola/Jarmo Toivonen/Heikki Keskustalo/Kalervo Järvelin
+515	2016	Examining Additivity and Weak Baselines.	Sadegh Kharazmi/Falk Scholer/David Vallet/Mark Sanderson
+516	1998	Augmenting Organizational Memory: A Field Study of Answer Garden.	Mark S. Ackerman
+517	2017	Improving the Quality of Recommendations for Users and Items in the Tail of Distribution.	Liang Hu/Longbing Cao/Jian Cao/Zhiping Gu/Guandong Xu/Jie Wang
+518	1997	Recursive Hashing Functions for n-Grams.	Jonathan D. Cohen
+519	2004	Information systems interoperability: What lies beneath?	Jinsoo Park/Sudha Ram
+520	2016	Digital Wildfires: Propagation, Verification, Regulation, and Responsible Innovation.	Helena Webb/Pete Burnap/Rob Procter/Omer F. Rana/Bernd Carsten Stahl/Matthew L. Williams/William Housley/Adam Edwards/Marina Jirotka
+521	2000	Chimera: hypermedia for heterogeneous software development enviroments.	Kenneth M. Anderson/Richard N. Taylor/E. James Whitehead Jr.
+522	2014	Trust Prediction via Belief Propagation.	Richong Zhang/Yongyi Mao
+523	1999	Interface and Data Architecture for Query Preview in Networked Information Systems.	Catherine Plaisant/Ben Shneiderman/Khoa Doan/Tom Bruns
+524	2006	Query enrichment for web-query classification.	Dou Shen/Rong Pan/Jian-Tao Sun/Jeffrey Junfeng Pan/Kangheng Wu/Jie Yin/Qiang Yang 0001
+525	2010	Efficient k-nearest neighbor searching in nonordered discrete data spaces.	Dashiell Kolbe/Qiang Zhu/Sakti Pramanik
+526	2008	Towards a belief-revision-based adaptive and context-sensitive information retrieval system.	Raymond Y. K. Lau/Peter D. Bruza/Dawei Song
+527	2005	An efficient normalized maximum likelihood algorithm for DNA sequence compression.	Gergely Korodi/Ioan Tabus
+528	2014	Topic Modeling for Wikipedia Link Disambiguation.	Bradley Skaggs/Lise Getoor
+529	2009	Bounded coordinate system indexing for real-time video clip search.	Zi Huang/Heng Tao Shen/Jie Shao/Xiaofang Zhou/Bin Cui
+530	2013	Transfer joint embedding for cross-domain named entity recognition.	Sinno Jialin Pan/Zhiqiang Toh/Jian Su
+531	2006	CLAIRE: A modular support vector image indexing and classification system.	Chih-Fong Tsai/Kenneth McGarry/John Tait
+532	2006	TOIS reviewers 2003--2005.	Gary Marchionini
+533	2009	An analysis of latent semantic term self-correlation.	Laurence Anthony F. Park/Kotagiri Ramamohanarao
+534	2016	Transfer Learning to Infer Social Ties across Heterogeneous Networks.	Jie Tang/Tiancheng Lou/Jon M. Kleinberg/Sen Wu 0001
+535	2012	Direct posterior confidence for out-of-vocabulary spoken term detection.	Dong Wang/Simon King/Joe Frankel/Ravichander Vipperla/Nicholas W. D. Evans/Raphaël Troncy
+536	2003	A hierarchical access control model for video database systems.	Elisa Bertino/Jianping Fan 0001/Elena Ferrari/Mohand-Said Hacid/Ahmed K. Elmagarmid/Xingquan Zhu
+537	2012	Authorship Attribution Based on Specific Vocabulary.	Jacques Savoy
+538	2010	The task-dependent effect of tags and ratings on social media access.	Maarten Clements/Arjen P. de Vries/Marcel J. T. Reinders
+539	2012	Aggregation Methods for Proximity-Based Opinion Retrieval.	Shima Gerani/Mark James Carman/Fabio Crestani
+540	1997	A Probabilistic Relational Algebra for the Integration of Information Retrieval and Database Systems.	Norbert Fuhr/Thomas Rölleke
+541	2016	Query Performance Prediction Using Reference Lists.	Anna Shtok/Oren Kurland/David Carmel
+542	2010	A similarity measure for indefinite rankings.	William Webber/Alistair Moffat/Justin Zobel
+543	2015	Unsupervised Visual and Textual Information Fusion in CBMIR Using Graph-Based Methods.	Julien Ah-Pine/Gabriela Csurka/Stéphane Clinchant
+544	1998	The Knowledge in Multiple Human Relevance Judgments.	W. John Wilbur
+545	2007	Error correction vs. query garbling for Arabic OCR document retrieval.	Kareem Darwish/Walid Magdy
+546	2016	A Probabilistic Lifestyle-Based Trajectory Model for Social Strength Inference from Human Trajectory Data.	Wayne Xin Zhao/Ningnan Zhou/Wenhui Zhang/Ji-Rong Wen/Shan Wang/Edward Y. Chang
+547	1997	Proximal Nodes: A Model to Query Document Databases by Content and Structure.	Gonzalo Navarro/Ricardo A. Baeza-Yates
+548	2014	Suffix Array Construction in External Memory Using D-Critical Substrings.	Ge Nong/Wai Hong Chan/Sen Zhang/Xiao Feng Guan
+549	2014	XXS: Efficient XPath Evaluation on Compressed XML Documents.	Nieves R. Brisaboa/Ana Cerdeira-Pena/Gonzalo Navarro
+550	2008	Unified relevance models for rating prediction in collaborative filtering.	Jun Wang 0012/Arjen P. de Vries/Marcel J. T. Reinders
+551	2003	Logical and physical design issues for smart card databases.	Cristiana Bolchini/Fabio Salice/Fabio A. Schreiber/Letizia Tanca
+552	2000	Efficient content-based indexing of large image databases.	Essam A. El-Kwae/Mansur R. Kabuka
+553	2016	Probabilistic Models for Contextual Agreement in Preferences.	Loc Do/Hady Wirawan Lauw
+554	2004	Distributed content-based visual information retrieval system on peer-to-peer networks.	Irwin King/Cheuk Hang Ng/Ka Cheung Sia
+555	2017	Compact Indexing and Judicious Searching for Billion-Scale Microblog Retrieval.	Dongxiang Zhang/Liqiang Nie/Huanbo Luan/Kian-Lee Tan/Tat-Seng Chua/Heng Tao Shen
+556	2008	Trusting spam reporters: A reporter-based reputation system for email filtering.	Elena Zheleva/Aleksander Kolcz/Lise Getoor
+557	2015	Metrics and Algorithms for Routing Questions to User Communities.	Aditya Pal
+558	2007	ServiceFinder: A method towards enhancing service portals.	Xiao Fang/Olivia R. Liu Sheng/Michael Chau
+559	1998	A Study of Probability Kinematics in Information Retrieval.	Fabio Crestani/C. J. van Rijsbergen
+560	2015	The Query Change Model: Modeling Session Search as a Markov Decision Process.	Hui Yang 0001/Dongyi Guan/Sicong Zhang
+561	2014	Cache Design of SSD-Based Search Engine Architectures: An Experimental Study.	Jianguo Wang/Eric Lo/Man Lung Yiu/Jiancong Tong/Gang Wang/Xiaoguang Liu
+562	2006	Dynamic element retrieval in a structured environment.	Carolyn J. Crouch
+563	2004	Fast phrase querying with combined indexes.	Hugh E. Williams/Justin Zobel/Dirk Bahle
+564	2008	Improved search engines and navigation preference in personal information management.	Ofer Bergman/Ruth Beyth-Marom/Rafi Nachmias/Noa Gradovitch/Steve Whittaker
+565	2013	Sparse hashing for fast multimedia search.	Xiaofeng Zhu/Zi Huang/Hong Cheng/Jiangtao Cui/Heng Tao Shen
+566	2003	Region proximity in metric spaces and its use for approximate similarity search.	Giuseppe Amato/Fausto Rabitti/Pasquale Savino/Pavel Zezula
+567	2011	Query modeling for entity search based on terms, categories, and examples.	Krisztian Balog/Marc Bron/Maarten de Rijke
+568	2004	Ontological user profiling in recommender systems.	Stuart E. Middleton/Nigel Shadbolt/David De Roure
+569	2008	Incremental cluster-based retrieval using compressed cluster-skipping inverted files.	Ismail Sengör Altingövde/Engin Demir/Fazli Can/Özgür Ulusoy
+570	2005	Introduction to genomic information retrieval.	Hugh E. Williams
+571	2013	O(1)-workspace suffix sorting for constant alphabets.	Ge Nong
+572	2009	A few good topics: Experiments in topic set reduction for retrieval evaluation.	John Guiver/Stefano Mizzaro/Stephen Robertson
+573	2014	Social-Sensed Image Search.	Peng Cui/Shaowei Liu/Wenwu Zhu 0001/Huan-Bo Luan/Tat-Seng Chua/Shi-Qiang Yang
+574	2001	Building a distributed full-text index for the web.	Sergey Melnik/Sriram Raghavan/Beverly Yang/Hector Garcia-Molina
+575	2006	iVIBRATE: Interactive visualization-based framework for clustering large datasets.	Keke Chen/Ling Liu
+576	2012	Large-scale validation and analysis of interleaved search evaluation.	Olivier Chapelle/Thorsten Joachims/Filip Radlinski/Yisong Yue
+577	1999	A Robust Framework for Content-based Retrieval by Spatial Similarity in Image Databases.	Essam A. El-Kwae/Mansur R. Kabuka
+578	2002	When experts agree: using non-affiliated experts to rank popular topics.	Krishna Bharat/George A. Mihaila
+579	2004	XIRQL: An XML query language based on information retrieval concepts.	Norbert Fuhr/Kai Großjohann
+580	2002	Probabilistic models of information retrieval based on measuring the divergence from randomness.	Gianni Amati/C. J. van Rijsbergen
+581	2016	Power Law Distributions in Information Retrieval.	Casper Petersen/Jakob Grue Simonsen/Christina Lioma
+582	2006	Boosting the performance of Web search engines: Caching and prefetching query results by exploiting historical usage data.	Tiziano Fagni/Raffaele Perego/Fabrizio Silvestri/Salvatore Orlando
+583	2017	Hilbert Exclusion: Improved Metric Search through Finite Isometric Embeddings.	Richard C. H. Connor/Franco Alberto Cardillo/Lucia Vadicamo/Fausto Rabitti
+584	2012	Summarizing figures, tables, and algorithms in scientific publications to augment search results.	Sumit Bhatia/Prasenjit Mitra
+585	1998	Hyperdocuments as Automata: Verification of Trace-Based Browsing Properties by Model Checking.	P. David Stotts/Richard Furuta/Cyrano Ruiz Cabarrus
+586	2004	Trustworthy 100-year digital objects: Evidence after every witness is dead.	Henry M. Gladney
+587	2016	Context Trees: Augmenting Geospatial Trajectories with Context.	Alasdair Thomason/Nathan Griffiths/Victor Sanchez
+588	2016	Measuring the Semantic Uncertainty of News Events for Evolution Potential Estimation.	Xiangfeng Luo/Junyu Xuan/Jie Lu/Guangquan Zhang
+589	2005	Evaluating implicit measures to improve web search.	Steve Fox/Kuldeep Karnawat/Mark Mydland/Susan T. Dumais/Thomas White
+590	2012	Sentimental Spidering: Leveraging Opinion Information in Focused Crawlers.	Tianjun Fu/Ahmed Abbasi/Daniel Zeng/Hsinchun Chen
+591	2004	Evaluating collaborative filtering recommender systems.	Jonathan L. Herlocker/Joseph A. Konstan/Loren G. Terveen/John Riedl
+592	2010	Dynamic lightweight text compression.	Nieves R. Brisaboa/Antonio Fariña/Gonzalo Navarro/José R. Paramá
+593	2013	Modeling reformulation using query distributions.	Xiaobing Xue/W. Bruce Croft
+594	2008	Sentiment analysis in multiple languages: Feature selection for opinion classification in Web forums.	Ahmed Abbasi/Hsinchun Chen/Arab Salem
+595	2014	Theoretical, Qualitative, and Quantitative Analyses of Small-Document Approaches to Resource Selection.	Ilya Markov/Fabio Crestani
+596	2010	STEvent: Spatio-temporal event model for social network discovery.	Hady Wirawan Lauw/Ee-Peng Lim/HweeHwa Pang/Teck-Tim Tan
+597	2015	Profile-Based Summarisation for Web Site Navigation.	Azhar Alhindi/Udo Kruschwitz/Chris Fox/M-Dyaa Albakour
+598	2010	Using topic themes for multi-document summarization.	Sanda M. Harabagiu/V. Finley Lacatusu
+599	2001	Genre taxonomy: A knowledge repository of communicative actions.	Takeshi Yoshioka/George Herman/JoAnne Yates/Wanda J. Orlikowski
+600	2004	PocketLens: Toward a personal recommender system.	Bradley N. Miller/Joseph A. Konstan/John Riedl
+601	2002	Theory of keyblock-based image retrieval.	Lei Zhu/Aibing Rao/Aidong Zhang
+602	2015	Stochastic Query Covering for Fast Approximate Document Retrieval.	Aris Anagnostopoulos/Luca Becchetti/Ilaria Bordino/Stefano Leonardi/Ida Mele/Piotr Sankowski
+603	2013	Mining pure high-order word associations via information geometry for information retrieval.	Yuexian Hou/Xiaozhao Zhao/Dawei Song/Wenjie Li
+604	2001	Complete answer aggregates for treelike databases: a novel approach to combine querying and navigation.	Holger Meuss/Klaus U. Schulz
+605	2008	A basis for information retrieval in context.	Massimo Melucci
+606	2002	Efficient web browsing on handheld devices using page and form summarization.	Orkut Buyukkokten/Oliver Kaljuvee/Hector Garcia-Molina/Andreas Paepcke/Terry Winograd
+607	2017	Re-Finding Behaviour in Vertical Domains.	Seyedeh Sargol Sadeghi/Roi Blanco/Peter Mika/Mark Sanderson/Falk Scholer/David Vallet
+608	2007	Online supervised spam filter evaluation.	Gordon V. Cormack/Thomas R. Lynam
+609	2009	Information filtering and query indexing for an information retrieval model.	Christos Tryfonopoulos/Manolis Koubarakis/Yannis Drougas
+610	2003	Performance issues and error analysis in an open-domain question answering system.	Dan I. Moldovan/Marius Pasca/Sanda M. Harabagiu/Mihai Surdeanu
+611	2007	Creating and exploiting a comparable corpus in cross-language information retrieval.	Tuomas Talvensaari/Jorma Laurikkala/Kalervo Järvelin/Martti Juhola/Heikki Keskustalo
+612	2007	Precision recall with user modeling (PRUM): Application to structured information retrieval.	Benjamin Piwowarski/Patrick Gallinari/Georges Dupret
+613	1999	Efficient passage ranking for document databases.	Marcin Kaszkiel/Justin Zobel/Ron Sacks-Davis
+614	2016	Accounting for Language Changes Over Time in Document Similarity Search.	Sara Morsy/George Karypis
+615	2013	Fidelity, Soundness, and Efficiency of Interleaved Comparison Methods.	Katja Hofmann/Shimon Whiteson/Maarten de Rijke
+616	2010	Improving graph-walk-based similarity with reranking: Case studies for personal information management.	Einat Minkov/William W. Cohen
+617	2017	Search Result Prefetching on Desktop and Mobile.	Ryen W. White/Fernando Diaz 0001/Qi Guo
+618	2014	Matrix Factorization with Explicit Trust and Distrust Side Information for Improved Social Recommendation.	Rana Forsati/Mehrdad Mahdavi/Mehrnoush Shamsfard/Mohamed Sarwat
+619	2000	Shortest-substring retrieval and ranking.	Charles L. A. Clarke/Gordon V. Cormack
+620	2001	Approximate spatio-temporal retrieval.	Dimitris Papadias/Nikos Mamoulis/Vasilis Delis
+621	2010	Learning with click graph for query intent classification.	Xiao Li/Ye-Yi Wang/Dou Shen/Alex Acero
+622	2016	On Effective Location-Aware Music Recommendation.	Zhiyong Cheng/Jialie Shen
+623	2011	Recommendation systems with complex constraints: A course recommendation perspective.	Aditya G. Parameswaran/Petros Venetis/Hector Garcia-Molina
+624	2009	SEA: Segment-enrich-annotate paradigm for adapting dialog-based content for improved accessibility.	K. Selçuk Candan/Mehmet Emin Dönderler/Terri Hedgpeth/Jong Wook Kim/Qing Li/Maria Luisa Sapino
+625	2010	An information-theoretic framework for semantic-multimedia retrieval.	João Magalhães/Stefan M. Rüger
+626	2003	Comparing the performance of collection selection algorithms.	Allison L. Powell/James C. French
+627	2008	Locality-Based pruning methods for web search.	Edleno Silva de Moura/Célia Francisca dos Santos/Bruno Dos Santos de Araujo/Altigran Soares da Silva/Pável Calado/Mario A. Nascimento
+628	2007	An exploration of the principles underlying redundancy-based factoid question answering.	Jimmy J. Lin
+629	2013	Efficient Video Stream Monitoring for Near-Duplicate Detection and Localization in a Large-Scale Repository.	Chih-Yi Chiu/Tsung-Han Tsai/Guei-Wun Han/Cheng-Yu Hsieh/Sheng-Yang Li
+630	2011	Ranking function adaptation with boosting trees.	Keke Chen/Jing Bai/Zhaohui Zheng
+631	2001	An information-theoretic approach to automatic query expansion.	Claudio Carpineto/Renato de Mori/Giovanni Romano 0002/Brigitte Bigi
+632	2012	Exploring Question Selection Bias to Identify Experts and Potential Experts in Community Question Answering.	Aditya Pal/F. Maxwell Harper/Joseph A. Konstan
+633	2005	Incorporating contextual information in recommender systems using a multidimensional approach.	Gediminas Adomavicius/Ramesh Sankaranarayanan/Shahana Sen/Alexander Tuzhilin
+634	1998	A Hypermedia Version Control Framework.	David L. Hicks/John J. Leggett/Peter J. Nürnberg/John L. Schnase
+635	2016	Causal Relationship Detection in Archival Collections of Product Reviews for Understanding Technology Evolution.	Yating Zhang/Adam Jatowt/Katsumi Tanaka
+636	2003	Early user - system interaction for database selection in massive domain-specific online environments.	Jack G. Conrad/Joanne S. Claussen
+637	2009	A distributed, service-based framework for knowledge applications with multimedia.	David Dupplaw/Srinandan Dasmahapatra/Bo Hu/Paul H. Lewis/Nigel Shadbolt
+638	2011	GRAS: An effective and efficient stemming algorithm for information retrieval.	Jiaul H. Paik/Mandar Mitra/Swapan K. Parui/Kalervo Järvelin
+639	1998	Collaborative Conceptual Schema Design: A Process Model and Prototype System.	Sudha Ram/Venkataraman Ramesh
+640	2014	Cost-Aware Collaborative Filtering for Travel Tour Recommendations.	Yong Ge/Hui Xiong/Alexander Tuzhilin/Qi Liu
+641	2013	Discovering tasks from search engine query logs.	Claudio Lucchese/Salvatore Orlando/Raffaele Perego/Fabrizio Silvestri/Gabriele Tolomei
+642	2014	Exploiting Representations from Statistical Machine Translation for Cross-Language Information Retrieval.	Ferhan Türe/Jimmy J. Lin
+643	2005	Historical spatio-temporal aggregation.	Yufei Tao/Dimitris Papadias
+644	1999	Harp: A Distributed Query System for Legacy Public Libraries and Structured Databases.	Ee-Peng Lim/Ying Lu
+645	2010	Arnoldi versus GMRES for computing pageRank: A theoretical contribution to google's pageRank problem.	Gang Wu/Yimin Wei
+646	2005	Evolution of web site design patterns.	Melody Y. Ivory/Rodrick Megraw
+647	2005	Set-based vector model: An efficient approach for correlation-based ranking.	Bruno Pôssas/Nivio Ziviani/Wagner Meira Jr./Berthier A. Ribeiro-Neto
+648	2013	Efficient fuzzy search in large text collections.	Hannah Bast/Marjan Celikik
+649	2012	Multiple testing in statistical analysis of systems-based information retrieval experiments.	Benjamin A. Carterette
+650	2001	Scaling question answering to the web.	Cody C. T. Kwok/Oren Etzioni/Daniel S. Weld
+651	1999	Predicate Rewriting for Translating Boolean Queries in a Heterogeneous Information System.	Kevin Chen-Chuan Chang/Hector Garcia-Molina/Andreas Paepcke
+652	2016	Volunteerism Tendency Prediction via Harvesting Multiple Social Networks.	Xuemeng Song/Zhaoyan Ming/Liqiang Nie/Yi-Liang Zhao/Tat-Seng Chua
+653	2012	A Probabilistic Model to Combine Tags and Acoustic Similarity for Music Retrieval.	Riccardo Miotto/Nicola Orio
+654	2004	Efficient mining of both positive and negative association rules.	Xindong Wu/Chengqi Zhang/Shichao Zhang
+655	2007	Reducing human interactions in Web directory searches.	Ornan Ori Gerstel/Shay Kutten/Eduardo Sany Laber/Rachel Matichin/David Peleg/Artur Alves Pessoa/Críston de Souza
+656	2017	Incorporating User Expectations and Behavior into the Measurement of Search Effectiveness.	Alistair Moffat/Peter Bailey/Falk Scholer/Paul Thomas
+657	2007	On setting the hyper-parameters of term frequency normalization for information retrieval.	Ben He/Iadh Ounis
+658	2002	Improving retrieval feedback with multiple term-ranking function combination.	Claudio Carpineto/Giovanni Romano 0002/Vittorio Giannini
+659	2012	Static index pruning in web search engines: Combining term and document popularities with query views.	Ismail Sengör Altingövde/Rifat Ozcan/Özgür Ulusoy
+660	2015	A Pólya Urn Document Language Model for Improved Information Retrieval.	Ronan Cummins/Jiaul H. Paik/Yuanhua Lv
+661	2014	Understanding Intrinsic Diversity in Web Search: Improving Whole-Session Relevance.	Karthik Raman/Paul N. Bennett/Kevyn Collins-Thompson
+662	2008	Information scraps: How and why information eludes our personal information management tools.	Michael S. Bernstein/Max Van Kleek/David R. Karger/m. c. schraefel
+663	2016	Subspace Frequency Analysis-Based Field Indices Extraction for Electricity Customer Classification.	Minghao Piao/Keun Ho Ryu
+664	2016	Social Question Answering: Textual, User, and Network Features for Best Answer Prediction.	Piero Molino/Luca Maria Aiello/Pasquale Lops
+665	2007	Discovering personally meaningful places: An interactive clustering approach.	Changqing Zhou/Dan Frankowski/Pamela J. Ludford/Shashi Shekhar/Loren G. Terveen
+666	2004	Multidocument summarization: An added value to clustering in interactive retrieval.	Manuel J. Maña López/Manuel de Buenaga Rodríguez/José María Gómez Hidalgo
+667	2015	Identifying Opportunities for Valuable Encounters: Toward Context-Aware Social Matching Systems.	Julia M. Mayer/Quentin Jones/Starr Roxanne Hiltz
+668	1999	PIC matrices: a computationally tractable class of probabilistic query operators.	Warren R. Greiff/W. Bruce Croft/Howard R. Turtle
+669	2015	A General SIMD-Based Approach to Accelerating Compression Algorithms.	Wayne Xin Zhao/Xudong Zhang/Daniel Lemire/Dongdong Shan/Jian-Yun Nie/Hongfei Yan/Ji-Rong Wen
+670	1997	Data Structures for Efficient Broker Implementation.	Anthony Tomasic/Luis Gravano/Calvin Lue/Peter M. Schwarz/Laura M. Haas
+671	1998	Corpus-Based Stemming Using Cooccurrence of Word Cariants.	Jinxi Xu/W. Bruce Croft
+672	2006	A space-partitioning-based indexing method for multidimensional non-ordered discrete data spaces.	Gang Qian/Qiang Zhu/Qiang Xue/Sakti Pramanik
+673	2016	Influence Estimation and Maximization in Continuous-Time Diffusion Networks.	Manuel Gomez-Rodriguez/Le Song/Nan Du/Hongyuan Zha/Bernhard Schölkopf
+674	2012	The nonverbal structure of patient case discussions in multidisciplinary medical team meetings.	Saturnino Luz
+675	2016	Overview of the Special Issue on Trust and Veracity of Information in Social Media.	Symeon Papadopoulos/Kalina Bontcheva/Eva Jaho/Mihai Lupu/Carlos Castillo 0001
+676	2016	TISoN: Trust Inference in Trust-Oriented Social Networks.	Sana Hamdi/Alda Lopes Gançarski/Amel Bouzeghoub/Sadok Ben Yahia
+677	2008	Organizing and managing personal electronic files: A mechanical engineer's perspective.	Ben J. Hicks/Andy Dong/R. Palmer/Hamish C. McAlpine
+678	2008	Rank-biased precision for measurement of retrieval effectiveness.	Alistair Moffat/Justin Zobel
+679	2009	Robust result merging using sample-based score estimates.	Milad Shokouhi/Justin Zobel
+680	2001	Query-based sampling of text databases.	James P. Callan/Margaret E. Connell
+681	2006	A large scale, corpus-based approach for automatically disambiguating biomedical abbreviations.	Hong Yu/Won Kim/Vasileios Hatzivassiloglou/W. John Wilbur
+682	2002	PicASHOW: pictorial authority search by hyperlinks on the web.	Ronny Lempel/Aya Soffer
+683	2012	Predicting Query Performance by Query-Drift Estimation.	Anna Shtok/Oren Kurland/David Carmel/Fiana Raiber/Gad Markovits
+684	2012	Detecting Fake Medical Web Sites Using Recursive Trust Labeling.	Ahmed Abbasi/Fatemeh "Mariam" Zahedi/Siddharth Kaza
+685	2008	How people recall, recognize, and reuse search results.	Jaime Teevan
+686	2008	Toward automatic facet analysis and need negotiation: Lessons from mediated search.	Jimmy J. Lin/Philip Wu/Eileen G. Abels
+687	2006	Detection of video sequences using compact signatures.	Justin Zobel/Timothy C. Hoad
+688	1998	A Semidiscrete Matrix Decomposition for Latent Semantic Indexing Information Retrieval.	Tamara G. Kolda/Dianne P. O'Leary
+689	2012	TOIS Reviewers: October 2009 To September 2012.	Jamie Callan
+690	2010	Engineering basic algorithms of an in-memory text search engine.	Frederik Transier/Peter Sanders 0001
+691	2012	Efficient Entity Translation Mining: A Parallelized Graph Alignment Approach.	Gae-won You/Seung-won Hwang/Young-In Song/Long Jiang/Zaiqing Nie
+692	2004	Introduction to recommender systems: Algorithms and Evaluation.	Joseph A. Konstan
+693	2007	A formal model of annotations of digital content.	Maristella Agosti/Nicola Ferro
+694	1997	The Effect of Accessing Nonmatching Documents on Relevance Feedback.	Mark D. Dunlop
+695	1997	A Multilevel Approach to Intelligent Information Filtering: Model, System, and Evaluation.	Javed Mostafa/Snehasis Mukhopadhyay/Wai Lam/Mathew J. Palakal
+696	2011	Content redundancy in YouTube and its application to video tagging.	José San Pedro/Stefan Siersdorfer/Mark Sanderson
+697	2001	A statechart-based model for hypermedia applications.	Maria Cristina Ferreira de Oliveira/Marcelo Augusto Santos Turine/Paulo Cesar Masiero
+698	2009	Semisupervised SVM batch mode active learning with applications to image retrieval.	Steven C. H. Hoi/Rong Jin/Jianke Zhu/Michael R. Lyu
+699	2001	Application of aboutness to functional benchmarking in information retrieval.	Kam-Fai Wong/Dawei Song/Peter Bruza/Chun Hung Cheng
+700	2010	Probabilistic models for answer-ranking in multilingual question-answering.	Jeongwoo Ko/Luo Si/Eric Nyberg/Teruko Mitamura
+701	2007	Automatic classification of Web queries using very large unlabeled query logs.	Steven M. Beitzel/Eric C. Jensen/David D. Lewis/Abdur Chowdhury/Ophir Frieder
+702	2003	QProber: A system for automatic classification of hidden-Web databases.	Luis Gravano/Panagiotis G. Ipeirotis/Mehran Sahami
+703	2008	DirichletRank: Solving the zero-one gap problem of PageRank.	Xuanhui Wang/Tao Tao/Jian-Tao Sun/Azadeh Shakery/Chengxiang Zhai
+704	2009	Clusters, language models, and ad hoc information retrieval.	Oren Kurland/Lillian Lee
+705	2006	Articulating information needs in XML query languages.	Jaap Kamps/Maarten Marx/Maarten de Rijke/Börkur Sigurbjörnsson
+706	2008	Exploring memory in email refinding.	David Elsweiler/Mark Baillie/Ian Ruthven
+707	2016	Comparing Pointwise and Listwise Objective Functions for Random-Forest-Based Learning-to-Rank.	Muhammad Ibrahim/Mark James Carman
+708	1999	A Corpus Analysis Approach for Automatic Query Expansion and Its Extension to Multiple Databases.	Susan Gauch/Jianying Wang/Satya Mahesh Rachakonda
+709	2009	PageRank: Functional dependencies.	Paolo Boldi/Massimo Santini/Sebastiano Vigna
+710	2014	Efficient Index-Based Snippet Generation.	Hannah Bast/Marjan Celikik
+711	2004	Latent semantic models for collaborative filtering.	Thomas Hofmann
+712	2001	A highly scalable and effective method for metasearch.	Weiyi Meng/Zonghuan Wu/Clement T. Yu/Zhuogang Li
+713	2015	Belief Dynamics and Biases in Web Search.	Ryen W. White/Eric Horvitz
+714	2011	Correlation-based retrieval for heavily changed near-duplicate videos.	Jiajun Liu/Zi Huang/Heng Tao Shen/Bin Cui
+715	2007	Temporal profiles of queries.	Rosie Jones/Fernando Diaz 0001
+716	2007	A novel XML music information retrieval method using graph invariants.	Alberto Pinto/Goffredo Haus
+717	2008	TOIS reviewers June 2007 through May 2008.	Gary Marchionini
+718	2012	Sibyl, a factoid question-answering system for spoken documents.	Pere Comas/Jordi Turmo/Lluís Màrquez
+719	2011	Toward a semantic granularity model for domain-specific information retrieval.	Xin Yan 0002/Raymond Y. K. Lau/Dawei Song/Xue Li/Jian Ma
+720	2014	Browse-to-Search: Interactive Exploratory Search with Visual Entities.	Shiyang Lu/Tao Mei/Jingdong Wang/Jian Zhang/Zhiyong Wang/Shipeng Li
+721	2013	Fast candidate generation for real-time tweet search with bloom filter chains.	Nima Asadi 0001/Jimmy J. Lin
+722	2006	Introduction to the special issue on XML retrieval.	Ricardo A. Baeza-Yates/Norbert Fuhr/Yoëlle S. Maarek
+723	2013	Improving Text Classification Accuracy by Training Label Cleaning.	Andrea Esuli/Fabrizio Sebastiani 0001
+724	2006	A maximal figure-of-merit (MFoM)-learning approach to robust classifier design for text categorization.	Sheng Gao/Wen Wu/Chin-Hui Lee/Tat-Seng Chua
+725	2010	Efficient set intersection for inverted indexing.	J. Shane Culpepper/Alistair Moffat
+726	2003	Local versus global link information in the Web.	Pável Calado/Berthier A. Ribeiro-Neto/Nivio Ziviani/Edleno Silva de Moura/Ilmério Silva
+727	2012	Detecting and Tracking Topics and Events from Web Search Logs.	Hongyan Liu/Jun He/Yingqin Gu/Hui Xiong/Xiaoyong Du
+728	1997	Customizing Information Capture and Access.	Daniela Rus/Devika Subramanian
+729	1999	Integrating geometrical and linguistic analysis for email signature block parsing.	Hao Chen 0003/Jianying Hu/Richard Sproat
+730	2012	Stability of Recommendation Algorithms.	Gediminas Adomavicius/Jingjing Zhang
+731	2014	Patent Query Formulation by Synthesizing Multiple Sources of Relevance Evidence.	Parvaz Mahdabi/Fabio Crestani
+732	2016	Boosting Recommendation in Unexplored Categories by User Price Preference.	Jia Chen/Qin Jin/Shiwan Zhao/Shenghua Bao/Li Zhang/Zhong Su/Yong Yu
+733	2009	Textual analysis of stock market prediction using breaking financial news: The AZFin text system.	Robert P. Schumaker/Hsinchun Chen
+734	2017	Cost-Effective Online Trending Topic Detection and Popularity Prediction in Microblogging.	Zhongchen Miao/Kai Chen 0006/Yi Fang/Jianhua He/Yi Zhou/Wenjun Zhang 0001/Hongyuan Zha
+735	2013	X-Class: Associative Classification of XML Documents by Structure.	Gianni Costa/Riccardo Ortale/Ettore Ritacco
+736	2007	TOIS reviewers January 2006 through May 2007.	Gary Marchionini
+737	2001	WebQuilt: A proxy-based approach to remote web usability testing.	Jason I. Hong/Jeffrey Heer/Sarah Waterson/James A. Landay
+738	2015	Task-Based Information Interaction Evaluation: The Viewpoint of Program Theory.	Kalervo Järvelin/Pertti Vakkari/Paavo Arvola/Feza Baskaya/Anni Järvelin/Jaana Kekäläinen/Heikki Keskustalo/Sanna Kumpulainen/Miamaria Saastamoinen/Reijo Savolainen/Eero Sormunen
+739	2006	User evaluation of Físchlár-News: An automatic broadcast news delivery system.	Hyowon Lee/Alan F. Smeaton/Noel E. O'Connor/Barry Smyth
+740	1999	A Flexible Authorization Mechanism for Relational Data Management Systems.	Elisa Bertino/Sushil Jajodia/Pierangela Samarati
+741	2016	Trip Recommendation Meets Real-World Constraints: POI Availability, Diversity, and Traveling Time Uncertainty.	Chenyi Zhang/Hongwei Liang/Ke Wang
+742	2005	A market-based approach to recommender systems.	Yan Zheng Wei/Luc Moreau/Nicholas R. Jennings
+743	2002	Collection statistics for fast duplicate document detection.	Abdur Chowdhury/Ophir Frieder/David A. Grossman/M. Catherine McCabe
+744	2004	A study of smoothing methods for language models applied to information retrieval.	ChengXiang Zhai/John D. Lafferty
+745	2004	Qualitative decision making in adaptive presentation of structured information.	Ronen I. Brafman/Carmel Domshlak/Solomon Eyal Shimony
+746	2013	About learning models with multiple query-dependent features.	Craig Macdonald/Rodrygo L. T. Santos/Iadh Ounis/Ben He
+747	2016	Answering Arabic Why-Questions: Baseline vs. RST-Based Approach.	Aqil M. Azmi/Nouf Al-Shenaifi
+748	2017	Targeted Advertising in Public Transportation Systems with Quantitative Evaluation.	Dongxiang Zhang/Long Guo/Liqiang Nie/Jie Shao/Sai Wu/Heng Tao Shen
+749	2015	Understanding and Supporting Cross-Device Web Search for Exploratory Tasks with Mobile Touch Interactions.	Shuguang Han/Zhen Yue/Daqing He
+750	2008	Sound and complete relevance assessment for XML retrieval.	Benjamin Piwowarski/Andrew Trotman/Mounia Lalmas
+751	2010	Probabilistic static pruning of inverted files.	Roi Blanco/Alvaro Barreiro
+752	2015	MWI-Sum: A Multilingual Summarizer Based on Frequent Weighted Itemsets.	Elena Baralis/Luca Cagliero/Alessandro Fiori/Paolo Garza
+753	2012	A Measurement Framework for Evaluating Emulators for Digital Preservation.	Mark Guttenbrunner/Andreas Rauber
+754	2008	On ranking techniques for desktop search.	Sara Cohen/Carmel Domshlak/Naama Zwerdling
+755	2012	High-performance processing of text queries with tunable pruned term and term pair indexes.	Andreas Broschart/Ralf Schenkel
+756	2006	eXtended cumulated gain measures for the evaluation of content-oriented XML retrieval.	Gabriella Kazai/Mounia Lalmas
+757	2016	Ranking-Oriented Collaborative Filtering: A Listwise Approach.	Shuaiqiang Wang/Shanshan Huang/Tie-Yan Liu/Jun Ma/Zhumin Chen/Jari Veijalainen
+758	2008	Editorial: Reviewer merits and review control in an age of electronic manuscript management systems.	Gary Marchionini
+759	2016	Learning Informative Priors from Heterogeneous Domains to Improve Recommendation in Cold-Start User Domains.	Liang Hu/Longbing Cao/Jian Cao/Zhiping Gu/Guandong Xu/Dingyu Yang
+760	2008	Writeprints: A stylometric approach to identity-level identification and similarity detection in cyberspace.	Ahmed Abbasi/Hsinchun Chen
+761	2007	Named entity translation matching and learning: With application for mining unseen translations.	Wai Lam/Shing-Kit Chan/Ruizhang Huang
+762	2010	Learning author-topic models from text corpora.	Michal Rosen-Zvi/Chaitanya Chemudugunta/Thomas L. Griffiths/Padhraic Smyth/Mark Steyvers
+763	2005	CrimeNet explorer: a framework for criminal network knowledge discovery.	Jennifer Jie Xu/Hsinchun Chen
+764	2013	The Effect of Social and Physical Detachment on Information Need.	Elad Yom-Tov/Fernando Diaz 0001
+765	2015	Browsing Hierarchy Construction by Minimum Evolution.	Hui Yang 0001
+766	2009	An adaptive threshold framework for event detection using HMM-based life profiles.	Chien Chin Chen/Meng Chang Chen/Ming-Syan Chen
+767	2006	Enhancing relevance feedback in image retrieval using unlabeled data.	Zhi-Hua Zhou/Ke-Jia Chen/Hong-Bin Dai
+768	2014	Georeferencing Wikipedia Documents Using Data from Social Media Sources.	Olivier Van Laere/Steven Schockaert/Vlad Tanasescu/Bart Dhoedt/Christopher B. Jones
+769	2007	Repeatable evaluation of search services in dynamic environments.	Eric C. Jensen/Steven M. Beitzel/Abdur Chowdhury/Ophir Frieder
+770	2014	Document Score Distribution Models for Query Performance Inference and Prediction.	Ronan Cummins
+771	2001	SALSA: the stochastic approach for link-structure analysis.	Ronny Lempel/Shlomo Moran
+772	2016	Joint Modeling of User Check-in Behaviors for Real-time Point-of-Interest Recommendation.	Hongzhi Yin/Bin Cui/Xiaofang Zhou/Weiqing Wang/Zi Huang/Shazia W. Sadiq
+773	2008	Extended probabilistic HAL with close temporal association for psychiatric query document retrieval.	Jui-Feng Yeh/Chung-Hsien Wu/Liang-Chih Yu/Yu-Sheng Lai
+774	2010	Tuning the capacity of search engines: Load-driven routing and incremental caching to reduce and balance the load.	Diego Puppin/Fabrizio Silvestri/Raffaele Perego/Ricardo A. Baeza-Yates
+775	2003	A semisupervised learning method to merge search engine results.	Luo Si/Jamie Callan
+776	2014	Content-Based Video Copy Detection Benchmarking at TRECVID.	George Awad/Paul Over/Wessel Kraaij
+777	2017	On Crowdsourcing Relevance Magnitudes for Information Retrieval Evaluation.	Eddy Maddalena/Stefano Mizzaro/Falk Scholer/Andrew Turpin
+778	2010	PageRank without hyperlinks: Structural reranking using links induced by language models.	Oren Kurland/Lillian Lee
+779	2010	Clustering-based incremental web crawling.	Qingzhao Tan/Prasenjit Mitra
+780	2005	Ad Hoc, self-supervising peer-to-peer search networks.	Brian F. Cooper/Hector Garcia-Molina
+781	2000	Beyond intratransaction association analysis: mining multidimensional intertransaction association rules.	Hongjun Lu/Ling Feng/Jiawei Han 0001
+782	2010	Semantic clustering of XML documents.	Andrea Tagarelli/Sergio Greco
+783	2003	Query-independent evidence in home page finding.	Trystan Upstill/Nick Craswell/David Hawking
+784	1999	The Equalizing Impact of a Group Support System on Status Differentials.	Bernard C. Y. Tan/Kwok Kee Wei/Richard T. Watson
+785	2000	Improving the effectiveness of information retrieval with local context analysis.	Jinxi Xu/W. Bruce Croft
+786	2005	Trustworthy 100-year digital objects: durable encoding for when it's too late to ask.	Henry M. Gladney/Raymond A. Lorie
+787	2005	Evaluating implicit feedback models using searcher simulations.	Ryen W. White/Ian Ruthven/Joemon M. Jose/C. J. van Rijsbergen
+788	2015	Overview of the Special Issue on Contextual Search and Recommendation.	Paul N. Bennett/Kevyn Collins-Thompson/Diane Kelly 0001/Ryen W. White/Yi Zhang
+789	2008	Introduction to keeping, refinding and sharing personal information.	Deborah Barreau/Robert Capra/Susan T. Dumais/William Jones/Manuel A. Pérez-Quiñones
+790	2002	Knowledge encapsulation for focused search from pervasive devices.	Yariv Aridor/David Carmel/Yoëlle S. Maarek/Aya Soffer/Ronny Lempel
+791	2007	Answering XML queries by means of data summaries.	Elena Baralis/Paolo Garza/Elisa Quintarelli/Letizia Tanca
+792	2005	Taxonomy generation for text segments: A practical web-based approach.	Shui-Lung Chuang/Lee-Feng Chien
+793	2004	N recommendation algorithms.	Mukund Deshpande/George Karypis
+794	1998	Structured Hypertext with Domain Semantics.	Weigang Wang/Roy Rada
+795	2014	LCARS: A Spatial Item Recommender System.	Hongzhi Yin/Bin Cui/Yizhou Sun/Zhiting Hu/Ling Chen
+796	2017	Inverted Treaps.	Roberto Konow/Gonzalo Navarro/Charles L. A. Clarke/Alejandro López-Ortiz
+797	2013	Effective and Robust Query-Based Stemming.	Jiaul H. Paik/Swapan K. Parui/Dipasree Pal/Stephen E. Robertson
+798	1997	Access Control for Large Collections.	H. M. Gladney
+799	1997	Hyperform: A Hypermedia System Development Environment.	Uffe Kock Wiil/John J. Leggett
+800	2015	A Comparative Analysis of Interleaving Methods for Aggregated Search.	Aleksandr Chuklin/Anne Schuth/Ke Zhou/Maarten de Rijke
+801	2010	Effects of position and number of relevant documents retrieved on users' evaluations of system performance.	Diane Kelly 0001/Xin Fu/Chirag Shah
+802	2002	Placing search in context: the concept revisited.	Lev Finkelstein/Evgeniy Gabrilovich/Yossi Matias/Ehud Rivlin/Zach Solan/Gadi Wolfman/Eytan Ruppin
+803	2002	Peer-to-peer data trading to preserve information.	Brian F. Cooper/Hector Garcia-Molina
+804	1997	Experiences with Selecting Search Engines Using Metasearch.	Daniel Dreilinger/Adele E. Howe
+805	2010	Utilizing inter-passage and inter-document similarities for reranking search results.	Eyal Krikon/Oren Kurland/Michael Bendersky
+806	2017	k Advertisement Matching in News Stream Applications.	Dongxiang Zhang/Yuchen Li/Ju Fan/Lianli Gao/Fumin Shen/Heng Tao Shen
+807	2007	Evaluating the accuracy of implicit feedback from clicks and query reformulations in Web search.	Thorsten Joachims/Laura A. Granka/Bing Pan/Helene Hembrooke/Filip Radlinski/Geri Gay
+808	2017	Time-Aware Click Model.	Yiqun Liu/Xiaohui Xie/Chao Wang/Jian-Yun Nie/Min Zhang/Shaoping Ma
+809	2004	Analysis of lexical signatures for improving information persistence on the World Wide Web.	Seung-Taek Park/David M. Pennock/C. Lee Giles/Robert Krovetz
+810	2009	MUADDIB: A distributed recommender system supporting device adaptivity.	Domenico Rosaci/Giuseppe M. L. Sarnè/Salvatore Garruzzo
+811	1999	Incremental Formalization with the Hyper-Object Substrate.	Frank M. Shipman III/Raymond McCall
+812	2005	Learning to crawl: Comparing classification schemes.	Gautam Pant/Padmini Srinivasan
+813	2016	Misinformation in Online Social Networks: Detect Them All with a Limited Budget.	Huiling Zhang/Md Abdul Alim/Xiang Li/My T. Thai/Hien T. Nguyen
+814	2015	Selective Search: Efficient and Effective Search of Large Textual Collections.	Anagha Kulkarni/Jamie Callan
+815	2010	Statistical lattice-based spoken document retrieval.	Tee Kiah Chia/Khe Chai Sim/Haizhou Li/Hwee Tou Ng
+816	2009	Automatic metadata generation using associative networks.	Marko A. Rodriguez/Johan Bollen/Herbert Van de Sompel
+817	2002	Query clustering using user logs.	Ji-Rong Wen/Jian-Yun Nie/HongJiang Zhang
+818	2002	Burst tries: a fast, efficient data structure for string keys.	Steffen Heinz/Justin Zobel/Hugh E. Williams
+819	2012	Word-based self-indexes for natural language text.	Antonio Fariña/Nieves R. Brisaboa/Gonzalo Navarro/Francisco Claude/Ángeles S. Places/Eduardo Rodríguez
+820	2007	YASS: Yet another suffix stripper.	Prasenjit Majumder/Mandar Mitra/Swapan K. Parui/Gobinda Kole/Pabitra Mitra/Kalyankumar Datta
+821	2004	Streams, structures, spaces, scenarios, societies (5s): A formal model for digital libraries.	Marcos André Gonçalves/Edward A. Fox/Layne T. Watson/Neill A. Kipp
+822	2000	Model-driven development of Web applications: the AutoWeb system.	Piero Fraternali/Paolo Paolini
+823	2011	Fast construction of the HYB index.	Hannah Bast/Marjan Celikik
+824	2007	Interest-based personalized search.	Zhongming Ma/Gautam Pant/Olivia R. Liu Sheng
+825	1998	Metric Details for Natural-Language Spatial Relations.	Max J. Egenhofer/A. Rashid B. M. Shariff
+826	2009	User language model for collaborative personalized search.	Gui-Rong Xue/Jie Han/Yong Yu/Qiang Yang 0001
+827	2012	An Online Learning Framework for Refining Recency Search Results with User Click Feedback.	Taesup Moon/Wei Chu/Lihong Li/Zhaohui Zheng/Yi Chang
+828	2012	Approaches to Exploring Category Information for Question Retrieval in Community Question-Answer Archives.	Xin Cao/Gao Cong/Bin Cui/Christian S. Jensen/Quan Yuan
+829	2008	Classification-aware hidden-web text database selection.	Panagiotis G. Ipeirotis/Luis Gravano
+830	1998	Self-Spacial Join Selectivity Estimation Using Fractal Concepts.	Alberto Belussi/Christos Faloutsos
+831	2015	Two-Stage Document Length Normalization for Information Retrieval.	Seung-Hoon Na
+832	1997	A text Compression Scheme that Allows Fast Searching Directly in the Compressed File.	Udi Manber
+833	2015	Latent Discriminative Models for Social Emotion Detection with Emotional Dependency.	Xiaojun Quan/Qifan Wang/Ying Zhang/Luo Si/Wenyin Liu
+834	2011	Diagnostic Evaluation of Information Retrieval Models.	Hui Fang 0001/Tao Tao/ChengXiang Zhai
+835	2013	Social Link Prediction in Online Social Tagging Systems.	Charalampos Chelmis/Viktor K. Prasanna
+836	2011	Effects of Usage-Based Feedback on Video Retrieval: A Simulation-Based Study.	David Vallet/Frank Hopfgartner/Joemon M. Jose/Pablo Castells
+837	2011	Contextual Video Recommendation by Multimodal Relevance and User Feedback.	Tao Mei/Bo Yang 0008/Xian-Sheng Hua/Shipeng Li
+838	2008	Assessing multivariate Bernoulli models for information retrieval.	David E. Losada/Leif Azzopardi
+839	2000	Evaluating the performance of distributed architectures for information retrieval using a variety of workloads.	Brendon Cahoon/Kathryn S. McKinley/Zhihong Lu
+840	2011	Improving Recommender Systems by Incorporating Social Contextual Information.	Hao Ma/Tom Chao Zhou/Michael R. Lyu/Irwin King
+841	2013	The Impacts of Structural Difference and Temporality of Tweets on Retrieval Effectiveness.	Lifeng Jia/Clement T. Yu/Weiyi Meng
+842	2009	Building a framework for the probability ranking principle by a family of expected weighted rank.	Edward Kai Fung Dang/Ho Chung Wu/Robert Wing Pong Luk/Kam-Fai Wong
+843	2016	Cross-Lingual Topic Discovery From Multilingual Search Engine Query Log.	Di Jiang/Yongxin Tong/Yuanfeng Song
+844	2016	A Tensor-Based Information Framework for Predicting the Stock Market.	Qing Li/Yuanzhu Chen/LiLing Jiang/Ping Li/Hsinchun Chen
+845	1999	Context Interchange: New Features and Formalisms for the Intelligent Integration of Information.	Cheng Hian Goh/Stéphane Bressan/Stuart E. Madnick/Michael Siegel
+846	2002	A general-purpose compression scheme for large collections.	Adam Cannane/Hugh E. Williams
+847	2010	Dependable filtering: Philosophy and realizations.	Matteo Dell'Amico/Licia Capra
+848	2009	Cyberchondria: Studies of the escalation of medical concerns in Web search.	Ryen W. White/Eric Horvitz
+849	2004	Applying associative retrieval techniques to alleviate the sparsity problem in collaborative filtering.	Zan Huang/Hsinchun Chen/Daniel Dajun Zeng
+850	1999	Methods for Information Server Selection.	David Hawking/Paul B. Thistlewaite
+851	2000	Fast and flexible word searching on compressed text.	Edleno Silva de Moura/Gonzalo Navarro/Nivio Ziviani/Ricardo A. Baeza-Yates
+852	2008	Interpreting TF-IDF term weights as making relevance decisions.	Ho Chung Wu/Robert Wing Pong Luk/Kam-Fai Wong/Kui-Lam Kwok
+853	1997	Modeling Word Occurrences for the Compression of Concordances.	Abraham Bookstein/Shmuel T. Klein/Timo Raita
+854	2001	Computing graphical queries over XML data.	Sara Comai/Ernesto Damiani/Piero Fraternali
+855	2009	A novel framework for efficient automated singer identification in large music databases.	Jialie Shen/John Shepherd/Bin Cui/Kian-Lee Tan
+856	2010	Combining relations for information extraction from free text.	Mstislav Maslennikov/Tat-Seng Chua
+857	1999	A Decision-Theoretic Approach to Database Selection in Networked IR.	Norbert Fuhr
+858	1998	Arithmetic Coding Revisited.	Alistair Moffat/Radford M. Neal/Ian H. Witten
+859	2003	Measuring praise and criticism: Inference of semantic orientation from association.	Peter D. Turney/Michael L. Littman
+860	2006	Summary in context: Searching versus browsing.	Daniel McDonald/Hsinchun Chen
+861	2010	Exploiting neighborhood knowledge for single document summarization and keyphrase extraction.	Xiaojun Wan/Jianguo Xiao
+862	2010	Exploiting query logs for cross-lingual query suggestions.	Wei Gao/Cheng Niu/Jian-Yun Nie/Ming Zhou/Kam-Fai Wong/Hsiao-Wuen Hon
+863	2016	Geoparsing and Geosemantics for Social Media: Spatiotemporal Grounding of Content Propagating Rumors to Support Trust and Veracity Analysis during Breaking News.	Stuart E. Middleton/Vadims Krivcovs
+864	2015	Fast-Forward Index Methods for Pseudo-Relevance Feedback Retrieval.	Edward Kai Fung Dang/Robert Wing Pong Luk/James Allan
+865	2008	Meta methods for model sharing in personal information systems.	Stefan Siersdorfer/Sergej Sizov
+866	2015	A Document Retrieval Model Based on Digital Signal Filtering.	Alberto Costa/Emanuele Di Buccio/Massimo Melucci
+867	2012	Comparison of methods for language-dependent and language-independent query-by-example spoken term detection.	Javier Tejedor/Michal Fapso/Igor Szöke/Jan Cernocký/Frantisek Grézl
+868	2000	Extending document management systems with user-specific active properties.	Paul Dourish/W. Keith Edwards/Anthony LaMarca/John Lamping/Karin Petersen/Michael Salisbury/Douglas B. Terry/James D. Thornton
+869	2008	combinFormation: Mixed-initiative composition of image and text surrogates promotes information discovery.	Andruid Kerne/Eunyee Koh/Steven M. Smith/Andrew M. Webb/Blake Dworaczyk
+870	2005	A methodology for analyzing SAGE libraries for cancer profiling.	Jörg Sander/Raymond T. Ng/Monica C. Sleumer/Man Saint Yuen/Steven J. M. Jones
+871	2000	Beneath the surface of organizational processes: a social representation framework for business process redesign.	Gary Katzenstein/F. Javier Lerch
+872	2015	User Activity Patterns During Information Search.	Michael J. Cole/Chathra Hendahewa/Nicholas J. Belkin/Chirag Shah
+873	2000	Data integration using similarity joins and a word-based information representation language.	William W. Cohen
+874	2015	TASC: A Transformation-Aware Soft Cascading Approach for Multimodal Video Copy Detection.	YongHong Tian/Mengren Qian/Tiejun Huang
+875	1998	Electronic Mail as a Coalition-Building Information Technology.	Celia T. Romm/Nava Pliskin
+876	2016	TopPRF: A Probabilistic Framework for Integrating Topic Space into Pseudo Relevance Feedback.	Jun Miao/Jimmy Xiangji Huang/Jiashu Zhao
+877	2016	A Meta-Framework for Modeling the Human Reading Process in Sentiment Analysis.	Ramy Baly/Roula Hobeica/Hazem M. Hajj/Wassim El-Hajj/Khaled Bashir Shaban/Ahmad Al Sallab
+878	2014	Modeling Term Associations for Probabilistic Information Retrieval.	Jiashu Zhao/Jimmy Xiangji Huang/Zheng Ye
+879	2011	Exploring the music similarity space on the web.	Markus Schedl/Tim Pohle/Peter Knees/Gerhard Widmer
+880	2007	Soft pattern matching models for definitional question answering.	Hang Cui/Min-Yen Kan/Tat-Seng Chua
+881	2017	Encoding Syntactic Knowledge in Neural Networks for Sentiment Classification.	Minlie Huang/Qiao Qian/Xiaoyan Zhu
+882	2010	Mining near-duplicate graph for cluster-based reranking of web video search results.	Zi Huang/Bo Hu/Hong Cheng/Heng Tao Shen/Hongyan Liu/Xiaofang Zhou
+883	1997	On Automated Message Processing in Electronic Commerce and Work Support Systems: Speech Act Theory and Expressive Felicity.	Steven O. Kimbrough/Scott A. Moore
+884	2013	Enriching Documents with Examples: A Corpus Mining Approach.	Jinhan Kim/Sanghoon Lee/Seung-won Hwang/Sunghun Kim 0001
+885	2000	The maximum entropy approach and probabilistic IR models.	Warren R. Greiff/Jay M. Ponte
+886	2007	Does a one-size recommendation system fit all? the effectiveness of collaborative filtering based recommendation systems across different domains and search modes.	Il Im/Alexander Hars
+887	2015	Dynamic User Modeling in Social Media Systems.	Hongzhi Yin/Bin Cui/Ling Chen/Zhiting Hu/Xiaofang Zhou
+888	2014	Learning to Recommend Descriptive Tags for Questions in Social Forums.	Liqiang Nie/Yi-Liang Zhao/Xiangyu Wang/Jialie Shen/Tat-Seng Chua
+889	2013	Studying the clustering paradox and scalability of search in highly distributed environments.	Weimao Ke/Javed Mostafa
+890	2002	Cumulated gain-based evaluation of IR techniques.	Kalervo Järvelin/Jaana Kekäläinen
+891	2015	Who, Where, When, and What: A Nonparametric Bayesian Approach to Context-aware Recommendation and Search for Twitter Users.	Quan Yuan/Gao Cong/Kaiqi Zhao/Zongyang Ma/Aixin Sun
+892	2015	KNET: A General Framework for Learning Word Embedding Using Morphological Knowledge.	Qing Cui/Bin Gao/Jiang Bian/Siyu Qiu/Hanjun Dai/Tie-Yan Liu
+893	2015	Deep Dependency Substructure-Based Learning for Multidocument Summarization.	Su Yan/Xiaojun Wan
+894	2011	Concept-Based Information Retrieval Using Explicit Semantic Analysis.	Ofer Egozi/Shaul Markovitch/Evgeniy Gabrilovich
+895	2002	An intelligent approach to handling imperfect information in concept-based natural language queries.	Vesper Owei
+896	2013	Behavioral dynamics on the web: Learning, modeling, and prediction.	Kira Radinsky/Krysta Marie Svore/Susan T. Dumais/Milad Shokouhi/Jaime Teevan/Alex Bocharov/Eric Horvitz
+897	2014	Indexing Word Sequences for Ranked Retrieval.	Samuel Huston/J. Shane Culpepper/W. Bruce Croft
+898	2005	A novel document retrieval method using the discrete wavelet transform.	Laurence Anthony F. Park/Kotagiri Ramamohanarao/Marimuthu Palaniswami
+899	2012	Special issue on searching speech.	Martha Larson/Franciska de Jong/Wessel Kraaij/Steve Renals
+900	2006	Extraction of coherent relevant passages using hidden Markov models.	Jing Jiang/Chengxiang Zhai
+901	1996	Model and Verification of a Data Manager Based on ARIES.	Dean Kuo
+902	1996	Polymorphism and Type Inference in Database Programming.	Peter Buneman/Atsushi Ohori
+903	1993	The Logical Data Model.	Gabriel M. Kuper/Moshe Y. Vardi
+904	1993	Two-Phase Locking Performance and Its Thrashing Behavior.	Alexander Thomasian
+905	1994	A Modified Random Perturbation Method for Database Security.	Patrick Tendick/Norman S. Matloff
+906	1992	Performance Evaluation of Cautious Waiting.	Meichun Hsu/Bin Zhang 0004
+907	1991	An Incremental Access Method for ViewCache: Concept, Algorithms, and Cost Analysis.	Nick Roussopoulos
+908	1992	Reasoning about Functional Dependencies Generalized for Semantic Data Models.	Grant E. Weddell
+909	1995	Static Analysis Techniques for Predicting the Behavior of Active Database Rules.	Alexander Aiken/Joseph M. Hellerstein/Jennifer Widom
+910	1996	A Probabilistic Relational Model and Algebra.	Debabrata Dey/Sumit Sarkar
+911	1991	A Rule-Based Language with Functions and Sets.	Serge Abiteboul/Stéphane Grumbach
+912	1995	Efficient Checking of Temporal Integrity Constraints Using Bounded History Encoding.	Jan Chomicki
+913	1993	A Universal-Scheme Approach to Statistical Databases Containing Homogeneous Summary Tables.	Francesco M. Malvestuto
+914	1996	Modularization Techniques for Active Rules Design.	Elena Baralis/Stefano Ceri/Stefano Paraboschi
+915	1991	A Software Tool for Modular Database Design.	Marco A. Casanova/Antonio L. Furtado/Luiz Tucherman
+916	1993	Stochastic Query Optimization in Distributed Databases.	P. E. Drenick/E. J. Smith
+917	1993	Consistency and Orderability: Semantics-Based Correctness Criteria for Databases.	Divyakant Agrawal/Amr El Abbadi/Ambuj K. Singh
+918	1994	Automatic Generation of Production Rules for Integrity Maintenance.	Stefano Ceri/Piero Fraternali/Stefano Paraboschi/Letizia Tanca
+919	1994	Using Semantic Values to Falilitate Interoperability Among Heterogeneous Information Systems.	Edward Sciore/Michael Siegel/Arnon Rosenthal
+920	1995	The INCINERATE Data Model.	H. V. Jagadish
+921	1995	Transaction Chopping: Algorithms and Performance Studies	Dennis E. Shasha/François Llirbat/Eric Simon/Patrick Valduriez
+922	1993	Semantics for Null Extended Nested Relations.	Mark Levene/George Loizou
+923	1996	The Building Blocks for Specifying Communication Behavior of Complex Objects: An Activity-Driven Approach.	Ling Liu/Robert Meersman
+924	1993	Transitive Closure Algorithms Based on Graph Traversal.	Yannis E. Ioannidis/Raghu Ramakrishnan/Linda Winger
+925	1992	Scheduling Real-Time Transactions: A Performance Evaluation.	Robert K. Abbott/Hector Garcia-Molina
+926	1993	Open Commit Protocols Tolerating Commission Failures.	Kurt Rothermel/Stefan Pappe
+927	1992	Automatic Deduction of Temporal Information.	Roberto Maiocchi/Barbara Pernici/Federico Barbic
+928	1992	On Taxonomic Reasoning in Conceptual Design.	Sonia Bergamaschi/Claudio Sartori 0001
+929	1996	Magic Conditions.	Inderpal Singh Mumick/Sheldon J. Finkelstein/Hamid Pirahesh/Raghu Ramakrishnan
+930	1995	Declarative Updates of Relational Databases.	Weidong Chen
+931	1996	Implementing Deductive Databases by Mixed Integer Programming.	Colin Bell/Anil Nerode/Raymond T. Ng/V. S. Subrahmanian
+932	1991	Formal Semantics of SQL Queries.	Mauro Negri/Giuseppe Pelagatti/Licia Sbattella
+933	1992	Object Operations Benchmark.	R. G. G. Cattell/J. Skeen
+934	1994	Synthesis of Extended Transaction Models Using ACTA.	Panos K. Chrysanthis/Krithi Ramamritham
+935	1993	Empirical Performance Evaluation of Concurrency and Coherency Control Protocols for Database Sharing Systems.	Erhard Rahm
+936	1994	Bounded Ignorance: A Technique for Increasing Concurrency in a Replicated System.	Narayanan Krishnakumar/Arthur J. Bernstein
+937	1996	Tail Recursion Elimination in Deductive Databases.	Kenneth A. Ross
+938	1992	Representing Extended Entity-Relationship Structures in Relational Databases: A Modular Approach.	Victor M. Markowitz/Arie Shoshani
+939	1993	Finite Representation of Infinite Query Answers.	Jan Chomicki/Tomasz Imielinski
+940	1995	A Structured Approach for the Definition of the Semantics of Active Databases.	Piero Fraternali/Letizia Tanca
+941	1992	Updating Relational Databases Through Weak Instance Interfaces.	Paolo Atzeni/Riccardo Torlone
+942	1994	Formal Query Languages for Secure Relational Databases.	Marianne Winslett/Kenneth P. Smith/Xiaolei Qian
+943	1991	The Complexity of Operations on a Fragmented Relation.	Carlo Meghini/Costantino Thanos
+944	1991	A Note on Estimating the Cardinality of the Projection of a Database Relation.	Ravi Mukkamala/Sushil Jajodia
+945	1991	Reactive Consistency Control In Deductive Databases.	Guido Moerkotte/Peter C. Lockemann
+946	1993	Processing Time-Constrained Aggregate Queries in CASE-DB.	Wen-Chi Hou/Gultekin Özsoyoglu
+947	1992	A Method for Automatic Rule Derivation to Support Semantic Query Optimization.	Michael Siegel/Edward Sciore/Sharon C. Salveter
+948	1993	Solving Queries by Tree Projections.	Yehoshua Sagiv/Oded Shmueli
+949	1996	Declustering of Key-Based Partitioned Signature Files.	Paolo Ciaccia/Paolo Tiberio/Pavel Zezula
+950	1993	The Model, Language, and Implementation of an Object-Oriented Multimedia Knowledge Base Management System.	Hiroshi Ishikawa 0004/Fumio Suzuki/Fumihiko Kozakura/Akifumi Makinouchi/Mika Miyagishima/Yoshio Izumida/Masaaki Aoshima/Yasuo Yamane
+951	1993	Optimal Histograms for Limiting Worst-Case Error Propagation in the Size of Join Results.	Yannis E. Ioannidis/Stavros Christodoulakis
+952	1994	Quorum Consensus in Nested Transaction Systems.	Kenneth J. Goldman/Nancy A. Lynch
+953	1992	Simple Conditions for Guaranteeing Higher Normal Forms in Relational Databases.	C. J. Date/Ronald Fagin
+954	1996	Semantics for Update Rule Programs and Implementations in a Relational Database Management System.	Louiqa Raschid/Jorge Lobo
+955	1994	Index Structures for Selective Dissemination of Information Under the Boolean Model.	Tak W. Yan/Hector Garcia-Molina
+956	1993	Optimal Disk Allocation for Partial Match Queries.	Khaled A. S. Abdel-Ghaffar/Amr El Abbadi
+957	1991	Distributive Join: A New Algorithm for Joining Relations.	Mauro Negri/Giuseppe Pelagatti
+958	1996	LH* - A Scalable, Distributed Data Structure.	Witold Litwin/Marie-Anne Neimat/Donovan A. Schneider
+959	1991	Principles and Realization Strategies of Multilevel Transaction Management.	Gerhard Weikum
+960	1992	Intelligent Database Caching Through the Use of Page-Answers and Page-Traces.	Nabil Kamel/Roger King
+961	1992	Semantics-Based Concurrency Control: Beyond Commutativity.	B. R. Badrinath/Krithi Ramamritham
+962	1993	The Performance of Current B-Tree Algorithms.	Theodore Johnson/Dennis E. Shasha
+963	1996	Heraclitus: Elevating Deltas to be First-Class Citizens in a Database Programming Language.	Shahram Ghandeharizadeh/Richard Hull/Dean Jacobs
+964	1991	Towards a Semantic View of an Extended Entity-Relationship Model.	Martin Gogolla/Uwe Hohenstein
+965	1994	On Completeness of Historical Relational Query Languages.	James Clifford/Albert Croker/Alexander Tuzhilin
+966	1995	An Execution Model for Limited Ambiguity Rules and Its Application to Derived Data Update.	I-Min A. Chen/Richard Hull/Dennis McLeod
+967	1992	Optimal Weight Assignment for Signature Generation.	Chun-Wu Roger Leng/Dik Lun Lee
+968	1992	Constant-Time Maintainability: A Generalization of Independence.	Ke Wang/Marc H. Graham
+969	1994	Evaluation of Remote Backup Algorithms for Transaction-Processing Systems.	Christos A. Polyzois/Hector Garcia-Molina
+970	1994	A Taxonomy for Secure Object-Oriented Databases.	Martin S. Olivier/Sebastiaan H. von Solms
+971	1995	Containment of Conjunctive Queries: Beyond Relations as Sets	Yannis E. Ioannidis/Raghu Ramakrishnan
+972	1991	Optimizing Equijoin Queries In Distributed Databases Where Relations Are Hash Partitioned.	Dennis E. Shasha/Jason Tsong-Li Wang
+973	1993	Performance Analysis of File Organizations that Use Multibucket Data Leaves with Partial Expansions.	Gabriel Matsliach
+974	1991	Using Annotations to Support Multiple Kinds of Versioning in an Object-Oriented Database System.	Edward Sciore
+975	1995	Fast Algorithms for Universal Quantification in Large Databases.	Goetz Graefe/Richard L. Cole
+976	1994	Automated Resolution of Semantic Heterogeneity in Multidatabases.	M. W. Bright/Ali R. Hurson/Simin H. Pakzad
+977	1991	Simplification Rules and Complete Axiomatization for Relational Update Transactions.	Dino Karabeg/Victor Vianu
+978	1991	Safety and Translation of Relational Calculus Queries.	Allen Van Gelder/Rodney W. Topor
+979	1991	On Robust Transaction Routing and Load Sharing.	Philip S. Yu/Avraham Leff/Yann-Hang Lee
+980	1992	The Generalized Tree Quorum Protocol: An Efficient Approach for Managing Replicated Data.	Divyakant Agrawal/Amr El Abbadi
+981	1996	Solving Satisfiability and Implication Problems in Database Systems.	Sha Guo/Wei Sun 0002/Mark Allen Weiss
+982	1995	Space Optimization in Deductive Databases.	Divesh Srivastava/S. Sudarshan 0001/Raghu Ramakrishnan/Jeffrey F. Naughton
+983	1991	The Multicast Policy and Its Relationship to Replicated Data Placement.	Ouri Wolfson/Amir Milo
+984	1991	Management of a Remote Backup Copy for Disaster Recovery.	Richard P. King/Nagui Halim/Hector Garcia-Molina/Christos A. Polyzois
+985	1991	Constant-Time-Maintainable BCNF Database Schemes.	Héctor J. Hernández/Edward P. F. Chan
+986	1991	Functional Dependencies in Horn Clause Queries.	Alberto O. Mendelzon/Peter T. Wood
+987	1994	Formal Aspects of Concurrency Control in Long-Duration Transaction Systems Using the NT/PV Model.	Henry F. Korth/Gregory D. Speegle
+988	1994	Tools and Transformations - Rigorous and Otherwise - for Practical Database Design.	Arnon Rosenthal/David S. Reiner
+989	1992	Concurrency Control for High Contention Environments.	Peter A. Franaszek/John T. Robinson/Alexander Thomasian
+990	1993	The Deductive Synthesis of Database Transactions.	Xiaolei Qian
+991	1992	ARIES: A Transaction Recovery Method Supporting Fine-Granularity Locking and Partial Rollbacks Using Write-Ahead Logging.	C. Mohan 0001/Donald J. Haderle/Bruce G. Lindsay 0001/Hamid Pirahesh/Peter M. Schwarz
+992	1991	Conflict Detection Tradeoffs for Replicated Data.	Michael J. Carey/Miron Livny
+993	1996	A Normal Form for Precisely Characterizing Redundancy in Nested Relations.	Wai Yin Mok/Yiu-Kai Ng/David W. Embley
+994	1991	Statistical Estimators for Aggregate Relational Algebra Queries.	Wen-Chi Hou/Gultekin Özsoyoglu
+995	1995	Query Evaluation in Deductive Databases with Alternating Fixpoint Semantics	Weidong Chen
+996	1994	Amalgamating Knowledge Bases.	V. S. Subrahmanian
+997	1992	Rule-Based Optimization and Query Processing in an Extensible Geometric Database System.	Ludger Becker/Ralf Hartmut Güting
+998	1992	Converting Nested Algebra Expressions into Flat Algebra Expressions.	Jan Paredaens/Dirk Van Gucht
+999	1992	On Roth, Korth, and Silberschatz's Extended Algebra and Calculus for Nested Relational Databases.	Abdullah Uz Tansel/Lucy Garnett
+1000	1991	A Dynamic Hash Method with Signature.	Francesca Cesarini/Giovanni Soda
+1001	1993	Cost and Availability Tradeoffs in Replicated Data Concurrency Control.	Akhil Kumar 0001/Arie Segev
+1002	1995	Incremental Computation of Nested Relational Query Expressions.	Lars Bækgaard/Leo Mark
+1003	1991	A Model of Authorization for Next-Generation Database Systems.	Fausto Rabitti/Elisa Bertino/Won Kim/Darrell Woelk
+1004	1994	Altruistic Locking.	Kenneth Salem/Hector Garcia-Molina/Jeannie Shands
+1005	1992	A High-Level and Flexible Framework for Implementing Multiuser User Interfaces.	Prasun Dewan/Rajiv Choudhary
+1006	1991	Search Improvement via Automatic Query Reformulation.	Susan Gauch/John B. Smith
+1007	1994	Information as Basic for High-Precision Text Classification.	Ellen Riloff/Wendy G. Lehnert
+1008	1992	A Model for Input and Output for Multilingual Text in a Windowing Environment.	Yutaka Kataoka/Masato Morisaki/Hiroshi Kuribayashi/Hiroyoshi Ohara
+1009	1994	Probabilistic Information Retrieval as a Combination of Abstraction, Inductive Learning, and Probabilistic Assumptions.	Norbert Fuhr/Ulrich Pfeifer
+1010	1995	Generalized Fractal Views: A Fractal-Based Method for Controlling Information Display.	Hideki Koike
+1011	1995	A Video Retrieval and Sequencing System.	Tat-Seng Chua/Li-Qun Ruan
+1012	1992	Principles of Delay-Sensitive Multimedia Data Storage and Retrieval.	Jim Gemmell/Stavros Christodoulakis
+1013	1992	EmbeddedButtons: Supporting Buttons in Documents.	Eric A. Bier
+1014	1995	Embedded Video in Hypermedia Documents: Supporting Integration and Adaptive Control.	Dick C. A. Bulterman
+1015	1994	A Nested-Graph Model for the Representation and Manipulation of Complex Objects.	Alexandra Poulovassilis/Mark Levene
+1016	1991	Computer Analysis of User Interfaces Based on Repetition in Transcripts of User Sessions.	Antonio C. Siochi/Roger W. Ehrich
+1017	1996	Document Ranking on Weight-Partitioned Signature Files.	Dik Lun Lee/Liming Ren
+1018	1996	Self-Indexing Inverted Files for Fast Text Retrieval.	Alistair Moffat/Justin Zobel
+1019	1991	Evaluation of an Inference Network-Based Retrieval Model.	Howard R. Turtle/W. Bruce Croft
+1020	1995	Motion Recovery for Video Content Classification.	Nevenka Dimitrova/Forouzan Golshani
+1021	1993	Evaluating 3D Task Performance for Fish Tank Virtual Worlds.	Kevin W. Arthur/Kellogg S. Booth/Colin Ware
+1022	1996	Using Local Optimality Criteria for Efficient Information Retrieval with Redundant Information Filters.	Neil C. Rowe
+1023	1994	Automated Learning of Decision Rules for Text Categorization.	Chidanand Apté/Fred Damerau/Sholom M. Weiss
+1024	1992	ITS and User Interface Consistency: A Response to Grudin.	Charles Wiecha
+1025	1992	Lessons Learned from SUIT, the Simple User Interface Toolkit.	Randy F. Pausch/Matthew Conway/Robert DeLine
+1026	1995	On Deductive Database with Incomplete Information.	Quinzheng Kong/G. Chen
+1027	1992	Conceptual Learning in Database Design.	Yannis E. Ioannidis/Tomas Saulys/Andrew J. Whitsitt
+1028	1994	Text Categorization for Multiple Users Based on Semantic Features from a Machine-Readable Dictionary.	Elizabeth D. Liddy/Woojin Paik/Edmund S. Yu
+1029	1993	Groupwork Close Up: A Comparison of the Group Design Process With and Without a Simple Group Editor.	Judith S. Olson/Gary M. Olson/Marianne Storrosten/Mark R. Carter
+1030	1993	Designing Database Interfaces with DBface.	Roger King/Michael Novak
+1031	1994	Technological Frames: Making Sense of Information Technology in Organizations.	Wanda J. Orlikowski/Debra C. Gash
+1032	1994	Direct: A Query Facility for Multiple Databases.	Ulla Merz/Roger King
+1033	1993	Capturing, Structuring, and Representing Ubiquitous Audio.	Debby Hindus/Chris Schmandt/Chris Horner
+1034	1994	Finding a Happy Medium: Explaining the Negative Effects of Electronic Communication on Social Life at Work.	M. Lynne Markus
+1035	1991	The Role of Critiquing in Cooperative Problem Solving.	Gerhard Fischer/Andreas C. Lemke/Thomas W. Mastaglio/Anders I. Mørch
+1036	1991	A Probabilistic Learning Approach for Document Indexing.	Norbert Fuhr/Chris Buckley
+1037	1993	Estimating Accesses in Partitioned Signature File Organizations.	Paolo Ciaccia/Pavel Zezula
+1038	1994	Rich and Lean Representations of Information for Knowledge Work: The Role of Computing Packages in the Work of Classical Scholars.	Karen Ruhleder
+1039	1995	Document Retrieval in Office Environment: Knowledge Modelling and Browsing.	Augusto Celentano/Maria Grazia Fugini/Silvano Pozzi
+1040	1993	Integration of Interpersonal Space and Shared Workspace: ClearBoard Design and Experiments.	Hiroshi Ishii/Minoru Kobayashi/Jonathan Grudin
+1041	1991	A Distributed Object-Oriented Database System Supporting Shared and Private Databases.	Won Kim/Nat Ballou/Jorge F. Garza/Darrell Woelk
+1042	1993	Incremental Clustering for Dynamic Information Processing.	Fazli Can
+1043	1996	Extending Object-Oriented Systems with Roles.	Georg Gottlob/Michael Schrefl/Brigitte Röck
+1044	1993	Virtual Reality for Palmtop Computers.	George W. Fitzmaurice/Shumin Zhai/Mark H. Chignell
+1045	1994	Evaluating Hypermedia and Learning: Methods and Results from the Perseus Project.	Gary Marchionini/Gregory R. Crane
+1046	1993	Decoupled Simulation in Virtual Reality with the MR Toolkit.	Christopher D. Shaw/Mark Green/Jiandong Liang/Yunqi Sun
+1047	1995	Feedback Techniques for Continuity and Synchronisation in Multimedia Information Retrieval.	P. Venkat Rangan/Srinivas Ramanathan/Srihari Sampath Kumar
+1048	1996	TROLL - A Language for Object-Oriented Specification of Information Systems.	Ralf Jungclaus/Gunter Saake/Thorsten Hartmann/Cristina Sernadas
+1049	1993	An Investigation of Content Representation Using Text Grammars.	D. V. Rama/Padmini Srinivasan
+1050	1995	From Text to Hypertext by Indexing.	Airi Salminen/Jean Tague-Sutcliffe/Charles McClellan
+1051	1992	Getting Around the Task-Artifact Cycle: How to Make Claims and Design by Scenario.	John M. Carroll/Mary Beth Rosson
+1052	1996	An Extension of Ukkonen's Enhanced Dynamic Programming ASM Algorithm.	Hal Berghel/David Roach
+1053	1992	Consistency, Standards, and Formal Approaches to Interface Development and Evaluation: A Note on Wiecha, Bennett, Boies, Gould, and Greene.	Jonathan Grudin
+1054	1991	Integrating Expert Systems with Group Decision Support Systems.	Milam W. Aiken/Olivia R. Liu Sheng/Douglas R. Vogel
+1055	1996	Sequential Patterns in Information Systems Development: An Application of a Social Process Model.	Daniel Robey/Michael Newman
+1056	1991	A Morphological Analysis of the Design Space of Input Devices.	Stuart K. Card/Jock D. Mackinlay/George G. Robertson
+1057	1996	Evaluation of Model-Based Retrieval Effectiveness with OCR Text.	Kazem Taghva/Julie Borsack/Allen Condit
+1058	1994	An Exploratory Evaluation of Three Interfaces for Browsing Large Hierarchical Tables of Contents.	Richard Chimera/Ben Shneiderman
+1059	1993	Phone-Based CSCW: Tools and Trials.	Paul Resnick
+1060	1996	Bias in Computer Systems.	Batya Friedman/Helen Nissenbaum
+1061	1992	DAIDA: An Environment for Evolving Information Systems.	Matthias Jarke/John Mylopoulos/Joachim W. Schmidt/Yannis Vassiliou
+1062	1991	Optimal Placement of High-Probability Randomly Retrieved Blocks on CLV Optical Discs.	Daniel Alexander Ford/Stavros Christodoulakis
+1063	1992	Shortening the OED: Experience with a Grammar-Defined Database.	G. Elizabeth Blake/Tim Bray/Frank Wm. Tompa
+1064	1996	The Model-Assisted Global Query System for Multiple Databases in Distributed Enterprises.	Waiman Cheung/Cheng Hsu
+1065	1991	Order-Preserving Minimal Perfect Hash Functions and Information Retrieval.	Edward A. Fox/Qi Fan Chen/Amjad M. Daoud/Lenwood S. Heath
+1066	1993	A Design Method for "Whole-Hand" Human-Computer Interaction.	David J. Sturman/David Zeltzer
+1067	1991	Inter-Organization Networks, Computer Integration, and Shifts in Interdependence: The Case of the Semiconductor Industry.	Paul Hart/Deborah Estrin
+1068	1992	Lexical Ambiguity and Information Retrieval.	Robert Krovetz/W. Bruce Croft
+1069	1996	A Visual Retrieval Environment for Hypermedia Information Systems.	Dario Lucarella/Antonella Zanzi
+1070	1996	Natural-Language Retrieval of Images Based on Descriptive Captions.	Eugene J. Guglielmo/Neil C. Rowe
+1071	1993	TAE Plus: Transportable Applications Environment Plus: A User Interface Development Environment.	Martha R. Szczur/Sylvia B. Sheppard
+1072	1991	The Use of Eye Movements in Human-Computer Interaction Techniques: What You Look At is What You Get.	Robert J. K. Jacob
+1073	1995	Templar: A Knowledge-Based Language for Software Specifications Using Temporal Logic.	Alexander Tuzhilin
+1074	1995	XMovie: Architecture and Implementation of a Distributed Movie System.	Ralf Keller/Wolfgang Effelsberg/Bernd Lamparter
+1075	1995	Toward a Logical/Physical Theory of Spreadsheet Modeling.	Tomás Isakowitz/Shimon Schocken/Henry C. Lucas Jr.
+1076	1992	A General Framework for Bidirectional Translation between Abstract and Pictorial Data.	Satoshi Matsuoka/Shin Takahashi/Tomihisa Kamada/Akinori Yonezawa
+1077	1994	On the Expressive Power of Query Languages.	Peter Schäuble/Beat Wüthrich
+1078	1992	The Envoy Framework: An Open Architecture for Agents.	Murugappan Palaniappan/Nicole Yankelovich/George W. Fitzmaurice/Anne Loomis/Bernard J. Haan/James H. Coombs/Norman K. Meyrowitz
+1079	1996	A General Explanation Component for Conceptual Modeling in CASE Environments.	Jon Atle Gulla
+1080	1995	On Modeling Information Retrieval with Probabilistic Inference.	S. K. Michael Wong/Yiyu Yao
+1081	1995	Design and Evaluation of Algorithms for Image Retrieval by Spatial Similarity.	Venkat N. Gudivada/Vijay V. Raghavan 0001
+1082	1993	Semantic Data Modeling of Hypermedia Associations.	John L. Schnase/John J. Leggett/David L. Hicks/Ron L. Szabo
+1083	1996	Information System Behavior Specification by High-Level Petri Nets.	Andreas Oberweis/Peter Sander
+1084	1995	A Network Approach to Probabilistic Information Retrieval.	K. L. Kwok
+1085	1992	The Active Badge Location System.	Roy Want/Andy Hopper/Veronica Falcao/Jonathan Gibbons
+1086	1994	A Speech-Act Negotiation Protocol: Design, Implementation, and Test Use.	Man Kit Chang/Carson C. Woo
+1087	1991	Exploiting Parallelism in Pattern Matching: An Information Retrieval Application.	Victor Wing-Kit Mak/Kuo Chu Lee/Ophir Frieder
+1088	1991	Dynamic Partitioning of Signature Files.	Pavel Zezula/Fausto Rabitti/Paolo Tiberio
+1089	1994	Information Systems Strategy and Implementation: A Case Study of a Building Society.	Geoff Walsham/Timothy Mwololo Waema
+1090	1993	A Reappraisal of Structured Analysis: Design in an Organizational Context.	Jorgen P. Bansler/Keld Bødker
+1091	1994	An Example-Based Mapping Method for Text Categorization and Retrieval.	Yiming Yang/Christopher G. Chute
+1092	1991	VideoDraw: A Video Interface for Collaborative Drawing.	John C. Tang/Scott L. Minneman
+1093	1995	Some Inconsistencies and Misidentified Modeling Assumptions in Probabilistic Information Retrieval.	William S. Cooper
+1094	1991	PROXHY: A Process-Oriented Extensible Hypertext Architecture.	Charles J. Kacmar/John J. Leggett
+1095	1994	Preference-Based Decision Making for Cooperative Knowledge-Based Systems.	Stephen T. C. Wong
+1096	1995	Experiments with Oval: A Radically Tailorable Tool for Cooperative Work.	Thomas W. Malone/Kum-Yew Lai/Christopher Fry
+1097	1995	Exceptions and Exception Handling in Computerized Information Processes.	Diane M. Strong/Steven M. Miller
+1098	1992	Structural Analysis of Hypertexts: Identifying Hierarchies and Useful Metrics.	Rodrigo A. Botafogo/Ehud Rivlin/Ben Shneiderman
+1099	1993	The Role of Another Spatial Dimension in Software Visualization.	Hideki Koike
+1100	1993	HDM - A Model-Based Approach to Hypertext Application Design.	Franca Garzotto/Paolo Paolini/Daniel Schwabe
+1101	1992	Converting a Textbook to Hypertext.	Roy Rada
+1102	1996	Computerized Performance Monitors as Multidimensional Systems: Derivation and Application.	Rebecca A. Grant/Christopher A. Higgins

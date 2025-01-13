@@ -1,0 +1,9 @@
+Eminem;Green_Day
+XML;Vodafone
+Firefox;Internet_Explorer
+IMDb;Blockbuster_LLC
+Delta_Air_Lines;US_Airways
+Vodafone;O2_(brand)
+Yahoo!_Maps;ZoneAlarm
+Quicken;PayPal
+NASA;Kazaa

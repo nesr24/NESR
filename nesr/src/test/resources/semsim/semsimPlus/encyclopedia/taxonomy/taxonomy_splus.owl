@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.semsim.org/ontoForSemsimPlus#"
+     xml:base="http://www.semsim.org/ontoForSemsimPlus"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.semsim.org/ontoForSemsimPlus"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Accommodation -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Accommodation"/>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#ArcheologicalSite -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#ArcheologicalSite">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#CulturalActivity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#ArtGallery -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#ArtGallery">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#CulturalActivity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Attraction -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Attraction"/>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Bazaar -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Bazaar">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Bed&amp;Breakfast -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Bed&amp;Breakfast">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#BikeRiding -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#BikeRiding">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Riding"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Boating -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Boating">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#OpenAirActivity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Campsite -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Campsite">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#CarRental -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#CarRental">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Transportation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Cinema -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Cinema">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Entertainment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#ClassicalConcert -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#ClassicalConcert">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Concert"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Concert -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Concert">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Entertainment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#CulturalActivity -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#CulturalActivity">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Attraction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Entertainment -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Entertainment">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Attraction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#EthnicMeal -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#EthnicMeal">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Food"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#FarmHouse -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#FarmHouse">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Flight -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Flight">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Transportation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Food -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Food"/>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#FrenchMeal -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#FrenchMeal">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#RegularMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#HorseRiding -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#HorseRiding">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Riding"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#IndianMeal -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#IndianMeal">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#EthnicMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#InternationalHotel -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#InternationalHotel">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#InternationalMeal -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#InternationalMeal">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#RegularMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#LightMeal -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#LightMeal">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Food"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#LocalTransportation -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#LocalTransportation">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Transportation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#MediterraneanMeal -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#MediterraneanMeal">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#LightMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#MexicanMeal -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#MexicanMeal">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#EthnicMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Museum -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Museum">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#CulturalActivity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#OpenAirActivity -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#OpenAirActivity">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Attraction"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Pension -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Pension">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#RegularMeal -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#RegularMeal">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Food"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Riding -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Riding">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#OpenAirActivity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#RockConcert -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#RockConcert">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Concert"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#SeasideCottage -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#SeasideCottage">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Accommodation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Shopping -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Shopping"/>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#ShoppingCenter -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#ShoppingCenter">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Shopping"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#ThaiMeal -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#ThaiMeal">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#EthnicMeal"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Theater -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Theater">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Entertainment"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Train -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Train">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#Transportation"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Transportation -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Transportation"/>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#Trekking -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#Trekking">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#OpenAirActivity"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semsim.org/ontoForSemsimPlus#VegetarianMeal -->
+
+    <owl:Class rdf:about="http://www.semsim.org/ontoForSemsimPlus#VegetarianMeal">
+        <rdfs:subClassOf rdf:resource="http://www.semsim.org/ontoForSemsimPlus#LightMeal"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.3.1957) http://owlapi.sourceforge.net -->
+

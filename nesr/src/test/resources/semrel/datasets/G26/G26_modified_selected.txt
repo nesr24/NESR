@@ -1,0 +1,12 @@
+Bob_Dylan;Beat_Generation;
+California;Computer_science;
+Alan_Turing;Computer_science;
+Mahatma_Gandhi;Peace;
+Italy;Pasta;
+Diego_Maradona;Music;
+Microsoft_Windows;Redmond,_Washington;
+Pink_Floyd;Eclipse;
+Semantic_Web;World_Wide_Web;
+The_Big_Bang_Theory;California;
+Alan_Turing;Biology;
+Vienna;Danube;

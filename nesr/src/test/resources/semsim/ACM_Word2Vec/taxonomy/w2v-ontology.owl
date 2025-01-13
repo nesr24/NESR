@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://terin-sen-apic.org/SemSim-AI-w2v"
+         xmlns="http://terin-sen-apic.org/SemSim-AI-w2v#">
+
+<owl:Ontology rdf:about="http://terin-sen-apic.org/SemSim-AI-w2v">
+  <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This ontology was automatically generated on 10/04/2024 13:04:00 by CREAM℠ (CREAtivity Machine), a software application developed by ENEA (Agenzia nazionale per le nuove tecnologie, l'energia e lo sviluppo economico sostenibile), For more information, please, contact Antonio De Nicola (antonio.denicola@enea.it).</owl:versionInfo>
+</owl:Ontology>
+
+<owl:Class rdf:about="#1">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#2">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#0">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#3">
+  <rdfs:subClassOf rdf:resource="#0"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#4">
+  <rdfs:subClassOf rdf:resource="#0"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#5">
+  <rdfs:subClassOf rdf:resource="#0"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#6">
+  <rdfs:subClassOf rdf:resource="#0"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#7">
+  <rdfs:subClassOf rdf:resource="#0"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#8">
+  <rdfs:subClassOf rdf:resource="#2"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#9">
+  <rdfs:subClassOf rdf:resource="#2"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#10">
+  <rdfs:subClassOf rdf:resource="#2"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#11">
+  <rdfs:subClassOf rdf:resource="#2"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#12">
+  <rdfs:subClassOf rdf:resource="#2"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#13">
+  <rdfs:subClassOf rdf:resource="#3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#14">
+  <rdfs:subClassOf rdf:resource="#3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#15">
+  <rdfs:subClassOf rdf:resource="#3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#16">
+  <rdfs:subClassOf rdf:resource="#3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#17">
+  <rdfs:subClassOf rdf:resource="#3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#18">
+  <rdfs:subClassOf rdf:resource="#3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#19">
+  <rdfs:subClassOf rdf:resource="#3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#20">
+  <rdfs:subClassOf rdf:resource="#3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#21">
+  <rdfs:subClassOf rdf:resource="#3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#22">
+  <rdfs:subClassOf rdf:resource="#3"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#23">
+  <rdfs:subClassOf rdf:resource="#4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#24">
+  <rdfs:subClassOf rdf:resource="#4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#25">
+  <rdfs:subClassOf rdf:resource="#4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#26">
+  <rdfs:subClassOf rdf:resource="#4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#27">
+  <rdfs:subClassOf rdf:resource="#4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#28">
+  <rdfs:subClassOf rdf:resource="#4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#29">
+  <rdfs:subClassOf rdf:resource="#4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#30">
+  <rdfs:subClassOf rdf:resource="#4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#31">
+  <rdfs:subClassOf rdf:resource="#4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#32">
+  <rdfs:subClassOf rdf:resource="#4"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#33">
+  <rdfs:subClassOf rdf:resource="#5"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#34">
+  <rdfs:subClassOf rdf:resource="#5"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#35">
+  <rdfs:subClassOf rdf:resource="#5"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#36">
+  <rdfs:subClassOf rdf:resource="#5"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#37">
+  <rdfs:subClassOf rdf:resource="#5"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#38">
+  <rdfs:subClassOf rdf:resource="#5"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#39">
+  <rdfs:subClassOf rdf:resource="#5"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">39</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#40">
+  <rdfs:subClassOf rdf:resource="#5"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#41">
+  <rdfs:subClassOf rdf:resource="#5"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#42">
+  <rdfs:subClassOf rdf:resource="#5"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#43">
+  <rdfs:subClassOf rdf:resource="#6"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#44">
+  <rdfs:subClassOf rdf:resource="#6"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#45">
+  <rdfs:subClassOf rdf:resource="#6"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#46">
+  <rdfs:subClassOf rdf:resource="#6"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#47">
+  <rdfs:subClassOf rdf:resource="#6"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#48">
+  <rdfs:subClassOf rdf:resource="#6"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#49">
+  <rdfs:subClassOf rdf:resource="#6"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">49</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#50">
+  <rdfs:subClassOf rdf:resource="#6"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#51">
+  <rdfs:subClassOf rdf:resource="#6"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">51</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#52">
+  <rdfs:subClassOf rdf:resource="#6"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#53">
+  <rdfs:subClassOf rdf:resource="#7"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#54">
+  <rdfs:subClassOf rdf:resource="#7"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#55">
+  <rdfs:subClassOf rdf:resource="#7"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#56">
+  <rdfs:subClassOf rdf:resource="#7"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">56</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#57">
+  <rdfs:subClassOf rdf:resource="#7"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#58">
+  <rdfs:subClassOf rdf:resource="#7"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#59">
+  <rdfs:subClassOf rdf:resource="#7"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#60">
+  <rdfs:subClassOf rdf:resource="#7"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#61">
+  <rdfs:subClassOf rdf:resource="#7"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#62">
+  <rdfs:subClassOf rdf:resource="#7"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#63">
+  <rdfs:subClassOf rdf:resource="#9"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">63</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#64">
+  <rdfs:subClassOf rdf:resource="#9"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#65">
+  <rdfs:subClassOf rdf:resource="#9"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#66">
+  <rdfs:subClassOf rdf:resource="#9"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">66</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#67">
+  <rdfs:subClassOf rdf:resource="#9"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#68">
+  <rdfs:subClassOf rdf:resource="#9"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">68</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#69">
+  <rdfs:subClassOf rdf:resource="#9"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">69</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#70">
+  <rdfs:subClassOf rdf:resource="#9"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">70</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#71">
+  <rdfs:subClassOf rdf:resource="#9"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">71</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#72">
+  <rdfs:subClassOf rdf:resource="#9"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">72</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#73">
+  <rdfs:subClassOf rdf:resource="#12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">73</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#74">
+  <rdfs:subClassOf rdf:resource="#12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">74</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#75">
+  <rdfs:subClassOf rdf:resource="#12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">75</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#76">
+  <rdfs:subClassOf rdf:resource="#12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">76</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#77">
+  <rdfs:subClassOf rdf:resource="#12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">77</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#78">
+  <rdfs:subClassOf rdf:resource="#12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">78</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#79">
+  <rdfs:subClassOf rdf:resource="#12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">79</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#80">
+  <rdfs:subClassOf rdf:resource="#12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">80</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#81">
+  <rdfs:subClassOf rdf:resource="#12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">81</rdfs:label>
+</owl:Class>
+
+<owl:Class rdf:about="#82">
+  <rdfs:subClassOf rdf:resource="#12"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">82</rdfs:label>
+</owl:Class>
+
+
+</rdf:RDF>

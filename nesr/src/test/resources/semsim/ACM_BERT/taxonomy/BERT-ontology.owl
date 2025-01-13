@@ -1,0 +1,685 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://terin-sen-apic.org/SemSim-AI-Bert#"
+     xml:base="http://terin-sen-apic.org/SemSim-AI-Bert"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert">
+        <owl:versionInfo rdf:datatype="http://www.w3.org/2001/XMLSchema#string">This ontology was automatically generated on 20/04/2023 19:24:19 by CREAM℠ (CREAtivity Machine), a software application developed by ENEA (Agenzia nazionale per le nuove tecnologie, l&apos;energia e lo sviluppo economico sostenibile), TFor more information, please, contact Antonio De Nicola (antonio.denicola@enea.it).</owl:versionInfo>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#0 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#0">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#37"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">0</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#1 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#1">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#43"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#10 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#10">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#38"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#11 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#11">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#51"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#12 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#12">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#49"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#13 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#13">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#50"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#14 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#14">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#41"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#15 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#15">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#55"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#16 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#16">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#56"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#17 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#17">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#38"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#18 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#18">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#49"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#19 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#19">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#52"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#2 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#2">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#39"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#20 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#20">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#64"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#21 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#21">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#47"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#22 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#22">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#60"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#23 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#23">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#45"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#24 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#24">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#48"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#25 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#25">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#59"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#26 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#26">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#61"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#27 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#27">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#51"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#28 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#28">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#45"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#29 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#29">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#40"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#3 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#3">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#44"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">3</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#30 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#30">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#42"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#31 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#31">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#46"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#32 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#32">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#58"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">32</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#33 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#33">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#52"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">33</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#34 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#34">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#62"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">34</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#35 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#35">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#48"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#36 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#36">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#61"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">36</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#37 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#37">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#47"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#38 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#38">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#42"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">38</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#39 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#39">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#43"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">39</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#4 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#4">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#41"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">4</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#40 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#40">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#54"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">40</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#41 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#41">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#50"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">41</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#42 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#42">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#63"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">42</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#43 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#43">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#46"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">43</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#44 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#44">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#53"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">44</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#45 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#45">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#65"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">45</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#46 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#46">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#57"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">46</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#47 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#47">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#55"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">47</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#48 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#48">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#68"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">48</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#49 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#49">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#53"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">49</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#5 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#5">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#69"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">5</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#50 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#50">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#58"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">50</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#51 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#51">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#54"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">51</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#52 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#52">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#56"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">52</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#53 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#53">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#57"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">53</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#54 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#54">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#60"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">54</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#55 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#55">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#59"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">55</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#56 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#56">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#66"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">56</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#57 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#57">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#65"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">57</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#58 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#58">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#64"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">58</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#59 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#59">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#70"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">59</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#6 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#6">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#39"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#60 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#60">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#62"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">60</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#61 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#61">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#63"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">61</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#62 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#62">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#67"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">62</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#63 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#63">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#70"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">63</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#64 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#64">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#66"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">64</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#65 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#65">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#67"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">65</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#66 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#66">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#69"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">66</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#67 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#67">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#68"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">67</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#68 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#68">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#72"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">68</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#69 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#69">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#71"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">69</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#7 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#7">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#37"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">7</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#70 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#70">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#71"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">70</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#71 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#71">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#72"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">71</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#72 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#72">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">72</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#8 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#8">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#40"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">8</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://terin-sen-apic.org/SemSim-AI-Bert#9 -->
+
+    <owl:Class rdf:about="http://terin-sen-apic.org/SemSim-AI-Bert#9">
+        <rdfs:subClassOf rdf:resource="http://terin-sen-apic.org/SemSim-AI-Bert#44"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9</rdfs:label>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
